@@ -1,0 +1,15 @@
+{
+  "name": "blindtest-multiplayer",
+  "version": "1.0.0",
+  "description": "Blindtest multijoueur en temps réel avec Node.js, Socket.io, React et Tailwind CSS",
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"magenta,cyan\" \"npm run server\" \"npm run client\"",
+    "build": "npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
