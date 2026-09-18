@@ -7,9 +7,9 @@ import { PLAYLISTS } from './data/playlists.js';
 import { evaluateSubmission } from './fuzzyMatch.js';
 
 // Phase durations in seconds
-export const COUNTDOWN_DURATION = 5;
+export const COUNTDOWN_DURATION = 2;
 export const ROUND_DURATION = 30;
-export const REVEAL_DURATION = 7;
+export const REVEAL_DURATION = 4;
 export const TRACKS_PER_GAME = 10;
 
 /**
@@ -22,6 +22,16 @@ function shuffle(array) {
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
+}
+
+function createLastChanceCue(track) {
+  const artist = String(track.artist || '').trim();
+  const title = String(track.title || '').trim();
+  return {
+    artistInitial: artist.charAt(0).toUpperCase() || '?',
+    titleWords: title ? title.split(/\s+/).length : 0,
+    year: track.year || null
+  };
 }
 
 export class GameManager {
@@ -171,14 +181,20 @@ export class GameManager {
       room = this.createRoom({ id: roomId, name: `Room ${roomId}`, creatorSocketId: socket.id });
     }
 
+    if (socket.roomId === roomId && room.players.has(socket.id)) {
+      socket.emit('room_joined', this.serializeRoomState(room, socket.id));
+      this.syncPhase(room, socket);
+      return room;
+    }
+    if (socket.roomId) this.leaveRoom(socket);
     if (room.players.size === 0) {
       room.hostId = socket.id;
     }
 
     const player = {
       id: socket.id,
-      nickname: nickname || `Player-${Math.floor(Math.random() * 900 + 100)}`,
-      avatar: avatar || 'headphones',
+      nickname: typeof nickname === 'string' && nickname.trim() ? nickname.trim().slice(0, 20) : `Player-${Math.floor(Math.random() * 900 + 100)}`,
+      avatar: typeof avatar === 'string' ? avatar.slice(0, 20) : 'headphones',
       score: 0,
       streak: 0,
       streakWeakened: false,
@@ -197,6 +213,7 @@ export class GameManager {
 
     // Send complete state to joined player
     socket.emit('room_joined', this.serializeRoomState(room, socket.id));
+    this.syncPhase(room, socket);
 
     // Notify others via system chat event
     const joinMsg = {
@@ -269,16 +286,17 @@ export class GameManager {
     const room = this.rooms.get(roomId);
     if (!room) return { error: 'Room not found' };
 
-    if (room.hostId && room.hostId !== socketId && !room.isDefault) {
+    if (!room.players.has(socketId) || room.hostId !== socketId) {
       return { error: 'Only the host can start the game.' };
     }
 
-    if (room.status === 'PLAYING' || room.status === 'COUNTDOWN') {
+    if (!['LOBBY', 'ENDED'].includes(room.status)) {
       return { error: 'Game is already in progress.' };
     }
 
     // Reset scores & pick 10 tracks excluding the last 2 games of this playlist
     room.currentTrackIndex = 0;
+    room.history = [];
     room.trackList = this.selectTracksForGame(room.playlistId, TRACKS_PER_GAME);
     for (const player of room.players.values()) {
       player.score = 0;
@@ -288,6 +306,7 @@ export class GameManager {
     }
 
     this.startCountdown(room);
+    this.broadcastRoomsList();
     return { success: true };
   }
 
@@ -307,15 +326,14 @@ export class GameManager {
       roomState: this.serializeRoomState(room)
     });
 
-    room.timer = setInterval(() => {
+    this.startPhaseTimer(room, () => {
       room.countdownValue--;
       if (room.countdownValue > 0) {
         this.io.to(room.id).emit('countdown_tick', { countdown: room.countdownValue });
       } else {
-        clearInterval(room.timer);
         this.startPlayingRound(room);
       }
-    }, 1000);
+    });
   }
 
   startPlayingRound(room) {
@@ -327,27 +345,38 @@ export class GameManager {
     }
 
     room.status = 'PLAYING';
+    for (const player of room.players.values()) {
+      player.currentRound = { foundArtist: false, foundTitle: false, roundScore: 0, answeredAt: null, passed: false };
+    }
     room.roundStartTime = Date.now();
     room.roundTimeRemaining = ROUND_DURATION;
 
-    // Send only previewUrl & metadata, NO artist/title (anti-cheat)
+    // Send the audio and deliberately obscured visual cue, but never artist/title.
     this.io.to(room.id).emit('round_started', {
       roundIndex: room.currentTrackIndex + 1,
       totalRounds: room.trackList.length,
       previewUrl: track.previewUrl,
+      artworkUrl: track.artworkUrl,
       duration: ROUND_DURATION,
+      remaining: ROUND_DURATION,
+      startedAt: room.roundStartTime,
       playlistName: room.playlistName
     });
+    this.broadcastRoomUpdate(room);
+    this.broadcastRoomsList();
 
-    room.timer = setInterval(() => {
+    this.startPhaseTimer(room, () => {
       room.roundTimeRemaining--;
       this.io.to(room.id).emit('timer_tick', { remaining: room.roundTimeRemaining });
 
+      if (room.roundTimeRemaining === 3) {
+        this.io.to(room.id).emit('last_chance_cue', createLastChanceCue(track));
+      }
+
       if (room.roundTimeRemaining <= 0) {
-        clearInterval(room.timer);
         this.endRound(room, 'timeout');
       }
-    }, 1000);
+    });
   }
 
   handleGuess(roomId, socketId, guessText) {
@@ -360,7 +389,7 @@ export class GameManager {
     const track = room.trackList[room.currentTrackIndex];
     if (!track) return;
 
-    if (player.currentRound.foundArtist && player.currentRound.foundTitle) {
+    if (player.currentRound.passed || (player.currentRound.foundArtist && player.currentRound.foundTitle)) {
       return;
     }
 
@@ -415,6 +444,7 @@ export class GameManager {
       foundTitle: player.currentRound.foundTitle,
       bothComplete,
       pointsAwarded,
+      unlockedTypes,
       totalScore: player.score,
       message: bothComplete 
         ? `Perfect! Found both (+${pointsAwarded} pts)` 
@@ -484,11 +514,11 @@ export class GameManager {
   }
 
   checkAllPlayersFinished(room) {
-    if (room.players.size === 0) return;
+    if (room.status !== 'PLAYING' || room.players.size === 0) return;
 
     let allFinished = true;
     for (const player of room.players.values()) {
-      if (!player.currentRound.foundArtist || !player.currentRound.foundTitle) {
+      if (!player.currentRound.passed && (!player.currentRound.foundArtist || !player.currentRound.foundTitle)) {
         allFinished = false;
         break;
       }
@@ -501,6 +531,7 @@ export class GameManager {
   }
 
   endRound(room, reason = 'timeout') {
+    if (room.status !== 'PLAYING') return;
     this.clearRoomTimers(room);
     room.status = 'REVEALING';
 
@@ -569,21 +600,24 @@ export class GameManager {
     });
 
     this.io.to(room.id).emit('round_ended', revealData);
+    room.revealData = revealData;
+    room.revealRemaining = REVEAL_DURATION;
+    this.broadcastRoomsList();
 
     let revealRemaining = REVEAL_DURATION;
-    room.timer = setInterval(() => {
+    this.startPhaseTimer(room, () => {
       revealRemaining--;
+      room.revealRemaining = revealRemaining;
+      this.io.to(room.id).emit('reveal_tick', { remaining: revealRemaining });
       if (revealRemaining <= 0) {
-        clearInterval(room.timer);
-
         if (room.currentTrackIndex + 1 < room.trackList.length) {
           room.currentTrackIndex++;
-          this.startCountdown(room);
+          this.startPlayingRound(room);
         } else {
           this.endGame(room);
         }
       }
-    }, 1000);
+    });
   }
 
   endGame(room) {
@@ -599,6 +633,43 @@ export class GameManager {
     });
 
     this.broadcastRoomsList();
+  }
+
+  passRound(roomId, socketId) {
+    const room = this.rooms.get(roomId);
+    const player = room?.players.get(socketId);
+    if (!player || room.status !== 'PLAYING') return;
+    player.currentRound.passed = true;
+    this.broadcastRoomUpdate(room);
+    this.checkAllPlayersFinished(room);
+  }
+
+  nextRound(roomId, socketId) {
+    const room = this.rooms.get(roomId);
+    if (!room || room.hostId !== socketId || room.status !== 'REVEALING') return;
+    if (room.currentTrackIndex + 1 < room.trackList.length) {
+      room.currentTrackIndex++;
+      this.startPlayingRound(room);
+    } else this.endGame(room);
+  }
+
+  syncPhase(room, socket) {
+    if (room.status === 'COUNTDOWN') {
+      socket.emit('countdown_started', { countdown: room.countdownValue });
+    } else if (room.status === 'PLAYING') {
+      socket.emit('round_started', {
+        roundIndex: room.currentTrackIndex + 1, totalRounds: room.trackList.length,
+        previewUrl: room.trackList[room.currentTrackIndex].previewUrl,
+        artworkUrl: room.trackList[room.currentTrackIndex].artworkUrl,
+        duration: ROUND_DURATION, remaining: room.roundTimeRemaining,
+        startedAt: room.roundStartTime, playlistName: room.playlistName,
+        cue: room.roundTimeRemaining <= 3 ? createLastChanceCue(room.trackList[room.currentTrackIndex]) : null
+      });
+    } else if (room.status === 'REVEALING') {
+      socket.emit('round_ended', { ...room.revealData, duration: room.revealRemaining, leaderboard: this.getLeaderboard(room) });
+    } else if (room.status === 'ENDED') {
+      socket.emit('game_ended', { leaderboard: this.getLeaderboard(room), totalRounds: room.trackList.length, history: room.history });
+    }
   }
 
   resetRoom(room) {
@@ -627,7 +698,8 @@ export class GameManager {
       isHost: p.isHost,
       foundArtist: p.currentRound.foundArtist,
       foundTitle: p.currentRound.foundTitle,
-      roundScore: p.currentRound.roundScore
+      roundScore: p.currentRound.roundScore,
+      passed: !!p.currentRound.passed
     }));
 
     return list.sort((a, b) => b.score - a.score);
@@ -670,14 +742,25 @@ export class GameManager {
         score: myPlayer.score,
         streak: myPlayer.streak || 0,
         streakWeakened: myPlayer.streakWeakened || false,
-        roundScore: myPlayer.currentRound.roundScore
+        roundScore: myPlayer.currentRound.roundScore,
+        passed: !!myPlayer.currentRound.passed
       } : null
     };
   }
 
+  startPhaseTimer(room, tick) {
+    const phase = room.status;
+    const run = () => {
+      room.timer = null;
+      tick();
+      if (room.status === phase) room.timer = setTimeout(run, 1000);
+    };
+    room.timer = setTimeout(run, 1000);
+  }
+
   clearRoomTimers(room) {
     if (room.timer) {
-      clearInterval(room.timer);
+      clearTimeout(room.timer);
       room.timer = null;
     }
   }

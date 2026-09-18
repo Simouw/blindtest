@@ -54,25 +54,40 @@ io.on('connection', (socket) => {
   socket.emit('rooms_list', gameManager.getPublicRooms());
 
   // Créer une room personnalisée
-  socket.on('create_room', ({ name, playlistId }) => {
+  socket.on('create_room', (payload) => {
+    const { name, playlistId, nickname, avatar } = payload || {};
+    if (typeof name !== 'string' || !name.trim() || !PLAYLISTS[playlistId]) {
+      socket.emit('game_error', { message: 'Enter a room name and choose a playlist.' });
+      return;
+    }
+    if (socket.roomId) gameManager.leaveRoom(socket);
     const room = gameManager.createRoom({
-      name,
+      name: name.trim().slice(0, 40),
       playlistId,
       creatorSocketId: socket.id
     });
     gameManager.broadcastRoomsList();
     socket.emit('room_created', { roomId: room.id });
+    gameManager.joinRoom(room.id, socket, { nickname, avatar });
   });
 
   // Rejoindre une room
-  socket.on('join_room', ({ roomId, nickname, avatar }) => {
+  socket.on('join_room', (payload) => {
+    const { roomId, nickname, avatar } = payload || {};
     try {
+      if (!gameManager.rooms.has(roomId)) {
+        socket.emit('game_error', { message: 'This room has closed. Choose another room or create one.' });
+        return;
+      }
       gameManager.joinRoom(roomId, socket, { nickname, avatar });
     } catch (err) {
       console.error('Erreur join_room:', err);
       socket.emit('error', { message: 'Impossible de rejoindre la room' });
     }
   });
+
+  socket.on('pass_round', () => gameManager.passRound(socket.roomId, socket.id));
+  socket.on('next_round', () => gameManager.nextRound(socket.roomId, socket.id));
 
   // Quitter une room
   socket.on('leave_room', () => {
@@ -89,15 +104,17 @@ io.on('connection', (socket) => {
   });
 
   // Soumettre une réponse
-  socket.on('submit_guess', ({ guess }) => {
-    if (!socket.roomId || !guess) return;
-    gameManager.handleGuess(socket.roomId, socket.id, guess.trim());
+  socket.on('submit_guess', (payload) => {
+    const { guess } = payload || {};
+    if (!socket.roomId || typeof guess !== 'string') return;
+    gameManager.handleGuess(socket.roomId, socket.id, guess.trim().slice(0, 200));
   });
 
   // Envoyer un message de tchat
-  socket.on('send_chat_message', ({ text }) => {
-    if (!socket.roomId || !text) return;
-    gameManager.handlePlayerChat(socket.roomId, socket.id, text);
+  socket.on('send_chat_message', (payload) => {
+    const { text } = payload || {};
+    if (!socket.roomId || typeof text !== 'string') return;
+    gameManager.handlePlayerChat(socket.roomId, socket.id, text.slice(0, 120));
   });
 
   // Déconnexion

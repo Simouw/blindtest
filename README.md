@@ -12,15 +12,16 @@ Application de Blindtest musical multijoueur en temps réel avec synchronisation
    - Fil d'activité en direct signalant les trouvailles sans spoiler le titre ou l'artiste aux autres joueurs.
 
 2. **Game Loop Complet & Automatisé :**
-   - **Compte à rebours de 5 secondes** avec décompte animé.
+   - **Un seul départ de 2 secondes**, au début de la partie, sans écran bloquant entre les chansons.
    - **Manche d'écoute de 30 secondes** avec extraits audio réels (liens fiables vérifiés).
    - **Validation Floue (Fuzzy Matching Levenshtein) :**
      - Accepte les fautes légères de frappe (ex: *"Brithney Spears"* ➔ *Britney Spears*, *"Kendrik Lamar"* ➔ *Kendrick Lamar*, *"Tupac"* ➔ *2Pac*).
      - Détection indépendante de l'Artiste, du Titre, ou des deux en une seule saisie (*"Artiste - Titre"*).
      - Bonus combo si l'Artiste et le Titre sont tous les deux trouvés.
      - Attribution de points dégressifs selon la rapidité de réponse.
-   - **Révélation visuelle (7 secondes) :** Pochette officielle HD, titre, artiste, année de sortie.
-   - **Fin de partie & Podium :** Célébration confettis et tableau des scores final.
+   - **Révélation (4 secondes) :** Pochette, titre, artiste, année ; passage direct au morceau suivant. L'hôte peut avancer immédiatement.
+   - **Passer :** « I don't know » conserve les points déjà gagnés. La manche se termine lorsque tout le monde a trouvé ou passé.
+   - **Fin de partie :** Scores, liste des chansons, rejouer ou choisir une autre playlist.
 
 3. **Audio Robuste & Autoplay Unblocker :**
    - Gestion transparente de la politique de blocage autoplay des navigateurs avec invite interactive immédiate si bloqué.
@@ -116,10 +117,10 @@ bt/
 ## 🌐 Déploiement en Production
 
 1. **Option 1 : Render / Railway / Fly.io**
-   - Le serveur Node.js peut servir les fichiers statiques construits du client (`client/dist`) :
+   - Héberger le client construit séparément ; le serveur Node.js ne sert pas les fichiers statiques du client :
      ```bash
      npm run build
      ```
    - Spécifier la variable `PORT` (ex: 3001 ou 8080).
 2. **Option 2 : Vercel / Netlify (Client) + Node.js (Serveur)**
-   - Déployer `client/` sur Vercel avec variable `VITE_SERVER_URL` pointant vers l'URL de votre serveur WebSocket.
+     - Déployer `client/` sur Vercel avec variable `VITE_SERVER_URL` pointant vers l'URL de votre serveur WebSocket.

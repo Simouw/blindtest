@@ -9,6 +9,7 @@ const mockIo = {
 
 const gm = new GameManager(mockIo);
 const room = gm.rooms.get('rap-us-room');
+gm.joinRoom(room.id, { id: 'host', join() {}, emit() {} }, { nickname: 'Host' });
 
 // Game 1
 const game1 = room.trackList.map(t => t.id);
@@ -116,3 +117,4 @@ console.log('R8 (none -> direct lost):', player.streak, 'weakened:', player.stre
 if (player.streak !== 0 || player.streakWeakened) throw new Error('R8 failed');
 
 console.log('✓ PASS: All streak conditions verified perfectly!');
+gm.clearRoomTimers(room);

@@ -9,6 +9,7 @@ const mockIo = {
 
 const gm = new GameManager(mockIo);
 const room = gm.rooms.get('rap-us-room');
+gm.joinRoom(room.id, { id: 'host', join() {}, emit() {} }, { nickname: 'Host' });
 
 let prevTracks = room.trackList.map(t => t.id);
 console.log('Game 1 tracks (' + prevTracks.length + '):', prevTracks);

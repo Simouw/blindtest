@@ -1,119 +1,65 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { Volume2, VolumeX, AlertTriangle, Play, Music } from 'lucide-react';
+import React, { forwardRef, useEffect, useImperativeHandle, useRef, useState } from 'react';
+import { Play, RotateCw } from 'lucide-react';
 
-export default function AudioPlayer({ previewUrl, isPlaying, volume = 0.8, isMuted = false }) {
-  const audioRef = useRef(null);
-  const retryCountRef = useRef(0);
-  const [autoplayBlocked, setAutoplayBlocked] = useState(false);
-  const [loadError, setLoadError] = useState(false);
-  const [audioLoaded, setAudioLoaded] = useState(false);
-
-  // Synchronisation volume & mute
-  useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.volume = isMuted ? 0 : volume;
-    }
-  }, [volume, isMuted]);
-
-  // Chargement et lecture
-  useEffect(() => {
-    const audio = audioRef.current;
-    if (!audio) return;
-
-    retryCountRef.current = 0;
-
-    if (previewUrl && isPlaying) {
-      setLoadError(false);
-      setAutoplayBlocked(false);
-      setAudioLoaded(false);
-
-      audio.src = previewUrl;
-      audio.load();
-
-      const playPromise = audio.play();
-      if (playPromise !== undefined) {
-        playPromise
-          .then(() => {
-            setAutoplayBlocked(false);
-            setLoadError(false);
-          })
-          .catch((err) => {
-            if (err.name === 'NotAllowedError') {
-              setAutoplayBlocked(true);
-            }
-          });
-      }
-    } else {
-      audio.pause();
-      audio.currentTime = 0;
-    }
-  }, [previewUrl, isPlaying]);
-
-  const handleManualPlay = () => {
-    if (audioRef.current) {
-      audioRef.current.play()
-        .then(() => {
-          setAutoplayBlocked(false);
-          setLoadError(false);
-        })
-        .catch(e => console.error('Audio playback failed:', e));
-    }
-  };
-
-  const handleAudioError = () => {
-    if (retryCountRef.current < 2 && audioRef.current && previewUrl) {
-      retryCountRef.current += 1;
-      setTimeout(() => {
-        if (audioRef.current && isPlaying) {
-          audioRef.current.load();
-          audioRef.current.play().catch(() => {});
-        }
-      }, 500);
-    } else {
-      setLoadError(true);
-    }
-  };
-
-  return (
-    <>
-      <audio
-        ref={audioRef}
-        preload="auto"
-        onCanPlay={() => {
-          setAudioLoaded(true);
-          setLoadError(false);
-        }}
-        onError={handleAudioError}
-      />
-
-      {/* Autoplay Unblock Trigger */}
-      {autoplayBlocked && isPlaying && (
-        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 animate-fadeIn">
-          <button
-            onClick={handleManualPlay}
-            className="flex items-center gap-2.5 px-6 py-3.5 btn-primary rounded-2xl font-bold text-sm cursor-pointer shadow-2xl shadow-mauve-500/20"
-          >
-            <Play className="w-4 h-4 fill-current" />
-            <span>Click to enable sound</span>
-          </button>
-        </div>
-      )}
-
-      {/* Floating Load error toast (does not push down page layout) */}
-      {loadError && isPlaying && (
-        <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 animate-fadeIn">
-          <div className="flex items-center gap-2.5 px-4 py-2 bg-red-950/90 border border-red-500/40 text-red-300 text-xs font-semibold rounded-2xl shadow-2xl backdrop-blur-md">
-            <AlertTriangle className="w-4 h-4 text-red-400 shrink-0" />
-            <span>Audio stream delayed</span>
-            <button
-              onClick={handleManualPlay}
-              className="ml-1 underline hover:text-white cursor-pointer"
-            >
-              Retry
-            </button>
-          </div>
-        </div>
-      )}
-    </>
-  );
+// A short local tone both checks sound and unlocks this same media element.
+function soundCheckUrl() {
+  const rate = 22050, samples = Math.round(rate * 0.25);
+  const buffer = new ArrayBuffer(44 + samples * 2), view = new DataView(buffer);
+  const text = (offset, value) => [...value].forEach((char, index) => view.setUint8(offset + index, char.charCodeAt(0)));
+  text(0, 'RIFF'); view.setUint32(4, 36 + samples * 2, true); text(8, 'WAVE'); text(12, 'fmt ');
+  view.setUint32(16, 16, true); view.setUint16(20, 1, true); view.setUint16(22, 1, true);
+  view.setUint32(24, rate, true); view.setUint32(28, rate * 2, true); view.setUint16(32, 2, true);
+  view.setUint16(34, 16, true); text(36, 'data'); view.setUint32(40, samples * 2, true);
+  for (let i = 0; i < samples; i++) view.setInt16(44 + i * 2, Math.sin(i * 2 * Math.PI * 440 / rate) * 5000 * Math.sin(Math.PI * i / samples), true);
+  return URL.createObjectURL(new Blob([buffer], { type: 'audio/wav' }));
 }
+
+export default forwardRef(function AudioPlayer({ round, active, volume, isMuted, onStatus }, ref) {
+  const audio = useRef(null);
+  const generation = useRef(0);
+  const sync = useRef({ offset: 0, received: 0 });
+  const [status, setStatus] = useState('idle');
+  const toneUrl = useRef(null);
+  const update = value => { setStatus(value); onStatus(value); };
+  useEffect(() => { toneUrl.current = soundCheckUrl(); return () => URL.revokeObjectURL(toneUrl.current); }, []);
+  useEffect(() => { audio.current.volume = volume; audio.current.muted = isMuted; }, [volume, isMuted]);
+  useEffect(() => {
+    if (!active || status !== 'loading') return;
+    const timer = setTimeout(() => update('error'), 8000);
+    return () => clearTimeout(timer);
+  }, [active, status]);
+  const play = () => {
+    const current = generation.current;
+    audio.current.play().catch(error => {
+      if (current !== generation.current || error.name === 'AbortError') return;
+      update(error.name === 'NotAllowedError' ? 'blocked' : 'error');
+    });
+  };
+  useImperativeHandle(ref, () => ({ checkSound(silent = false) {
+    if (!active) {
+      audio.current.volume = silent ? 0 : volume;
+      audio.current.src = toneUrl.current;
+      audio.current.play().catch(() => update('blocked'));
+    }
+  } }));
+  useEffect(() => {
+    generation.current++;
+    const element = audio.current;
+    if (active && round?.previewUrl) {
+      element.volume = volume; element.muted = isMuted;
+      sync.current = { offset: round.duration - (round.remaining ?? round.duration), received: Date.now() };
+      update('loading'); element.src = round.previewUrl; element.load(); play();
+    } else { element.pause(); element.removeAttribute('src'); element.load(); update('idle'); }
+    return () => { generation.current++; element.pause(); };
+  }, [round?.previewUrl, round?.startedAt, active]);
+  const seekToLive = () => {
+    if (!active || !round) return;
+    const position = sync.current.offset + (Date.now() - sync.current.received) / 1000;
+    if (Number.isFinite(audio.current.duration)) audio.current.currentTime = Math.max(0, Math.min(position, audio.current.duration - 0.1));
+  };
+  return <div className="audio-status">
+    <audio ref={audio} preload="auto" onLoadedMetadata={seekToLive} onPlaying={() => active && update('playing')} onWaiting={() => active && update('loading')} onEnded={() => active && update('ended')} onError={() => active && update('error')} />
+    {active && status === 'blocked' && <button className="button primary" onClick={() => { seekToLive(); play(); }}><Play size={16} />Enable sound</button>}
+    {active && status === 'error' && <div role="alert"><span>This clip couldn’t load.</span><button className="text-button" onClick={() => { update('loading'); audio.current.load(); play(); }}><RotateCw size={14} />Retry audio</button></div>}
+  </div>;
+});

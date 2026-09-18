@@ -1,217 +1,125 @@
-import React, { createContext, useContext, useEffect, useState, useCallback } from 'react';
+import React, { createContext, useContext, useEffect, useRef, useState } from 'react';
 import { io } from 'socket.io-client';
 
 const SocketContext = createContext(null);
+const emptyPlayer = { foundArtist: false, foundTitle: false, score: 0, roundScore: 0, passed: false };
 
 export function SocketProvider({ children }) {
-  const [socket, setSocket] = useState(null);
+  const socketRef = useRef(null);
+  const pendingTimer = useRef(null);
   const [connected, setConnected] = useState(false);
   const [rooms, setRooms] = useState([]);
   const [currentRoom, setCurrentRoom] = useState(null);
-  const [gameStatus, setGameStatus] = useState('LOBBY'); // 'LOBBY' | 'COUNTDOWN' | 'PLAYING' | 'REVEALING' | 'ENDED'
+  const [gameStatus, setGameStatus] = useState('LOBBY');
   const [countdown, setCountdown] = useState(null);
   const [remainingTime, setRemainingTime] = useState(30);
+  const [revealRemaining, setRevealRemaining] = useState(0);
   const [roundData, setRoundData] = useState(null);
+  const [roundCue, setRoundCue] = useState(null);
   const [revealedTrack, setRevealedTrack] = useState(null);
   const [leaderboard, setLeaderboard] = useState([]);
-  const [myPlayerState, setMyPlayerState] = useState({
-    foundArtist: false,
-    foundTitle: false,
-    score: 0,
-    streak: 0,
-    streakWeakened: false,
-    roundScore: 0
-  });
+  const [myPlayerState, setMyPlayerState] = useState(emptyPlayer);
   const [chatMessages, setChatMessages] = useState([]);
   const [lastFeedback, setLastFeedback] = useState(null);
   const [gameEndedData, setGameEndedData] = useState(null);
+  const [error, setError] = useState('');
+  const [pending, setPending] = useState(false);
+
+  const reset = () => {
+    setCurrentRoom(null); setGameStatus('LOBBY'); setRoundData(null); setRoundCue(null);
+    setRevealedTrack(null); setGameEndedData(null); setCountdown(null);
+    setMyPlayerState(emptyPlayer); setLastFeedback(null); setChatMessages([]);
+  };
+  const finishRequest = () => { clearTimeout(pendingTimer.current); setPending(false); };
 
   useEffect(() => {
-    const serverUrl = window.location.port === '5173' ? 'http://localhost:3001' : '/';
-    const newSocket = io(serverUrl, {
-      transports: ['websocket', 'polling'],
-      reconnectionAttempts: 5,
-      reconnectionDelay: 1000
+    const socket = io(import.meta.env.VITE_SERVER_URL || window.location.origin, {
+      reconnectionDelay: 1000, reconnectionDelayMax: 5000
     });
-
-    newSocket.on('connect', () => {
-      console.log('[WebSocket] Connected', newSocket.id);
-      setConnected(true);
+    socketRef.current = socket;
+    socket.on('connect', () => setConnected(true));
+    socket.on('disconnect', () => {
+      setConnected(false); finishRequest(); reset();
+      setError('Connection interrupted. Rejoin a room when you’re back online. Your previous score has been reset.');
     });
-
-    newSocket.on('disconnect', () => {
-      console.log('[WebSocket] Disconnected');
-      setConnected(false);
+    socket.on('rooms_list', setRooms);
+    const reportError = ({ message }) => { finishRequest(); setError(message); };
+    socket.on('game_error', reportError);
+    socket.on('error', reportError);
+    socket.on('room_joined', room => {
+      reset(); finishRequest(); setError(''); setCurrentRoom(room);
+      setGameStatus(room.status); setLeaderboard(room.leaderboard || []);
+      setMyPlayerState(room.myState || emptyPlayer);
+      const url = new URL(window.location.href); url.searchParams.set('room', room.id);
+      window.history.replaceState({}, '', url);
     });
-
-    newSocket.on('rooms_list', (roomsList) => {
-      setRooms(roomsList);
+    socket.on('room_update', room => {
+      setCurrentRoom(room); setGameStatus(room.status); setLeaderboard(room.leaderboard || []);
+      if (room.myState) setMyPlayerState(room.myState);
     });
-
-    newSocket.on('room_joined', (roomState) => {
-      console.log('[Room] Joined:', roomState);
-      setCurrentRoom(roomState);
-      setGameStatus(roomState.status || 'LOBBY');
-      setLeaderboard(roomState.leaderboard || []);
-      if (roomState.myState) {
-        setMyPlayerState(roomState.myState);
-      }
-      setChatMessages([]);
-      setRevealedTrack(null);
-      setGameEndedData(null);
+    socket.on('leaderboard_update', ({ leaderboard }) => setLeaderboard(leaderboard));
+    socket.on('chat_message', msg => setChatMessages(prev => [...prev.slice(-59), msg]));
+    socket.on('countdown_started', ({ countdown, roomState }) => {
+      finishRequest(); setGameStatus('COUNTDOWN'); setCountdown(countdown);
+      setGameEndedData(null); setRevealedTrack(null); setRoundData(null); setLastFeedback(null);
+      setMyPlayerState(emptyPlayer);
+      if (roomState) { setCurrentRoom(roomState); setLeaderboard(roomState.leaderboard || []); }
     });
-
-    newSocket.on('room_update', (roomState) => {
-      setCurrentRoom(roomState);
-      setGameStatus(roomState.status);
-      setLeaderboard(roomState.leaderboard || []);
-      if (roomState.myState) {
-        setMyPlayerState(roomState.myState);
-      }
+    socket.on('countdown_tick', ({ countdown }) => setCountdown(countdown));
+    socket.on('round_started', data => {
+      setGameStatus('PLAYING'); setCountdown(null); setRoundData(data);
+      setRoundCue(data.cue || null);
+      setRemainingTime(data.remaining ?? data.duration); setRevealedTrack(null); setLastFeedback(null);
+      setMyPlayerState(prev => ({ ...prev, foundArtist: false, foundTitle: false, roundScore: 0, passed: false }));
     });
-
-    newSocket.on('leaderboard_update', ({ leaderboard: lb }) => {
-      if (lb) setLeaderboard(lb);
+    socket.on('timer_tick', ({ remaining }) => setRemainingTime(remaining));
+    socket.on('last_chance_cue', setRoundCue);
+    socket.on('reveal_tick', ({ remaining }) => setRevealRemaining(remaining));
+    socket.on('guess_feedback', feedback => {
+      setLastFeedback({ ...feedback, feedbackId: `${Date.now()}-${Math.random()}` });
+      if (feedback.correct) setMyPlayerState(prev => ({ ...prev,
+        foundArtist: feedback.foundArtist, foundTitle: feedback.foundTitle,
+        score: feedback.totalScore, roundScore: prev.roundScore + feedback.pointsAwarded
+      }));
     });
-
-    // In-game chat messages (both player chat & system events)
-    newSocket.on('chat_message', (msg) => {
-      setChatMessages(prev => [...prev.slice(-60), msg]);
-    });
-
-    newSocket.on('countdown_started', ({ countdown: cd, currentRound, totalRounds, roomState }) => {
-      setGameStatus('COUNTDOWN');
-      setCountdown(cd);
-      setRevealedTrack(null);
-      setLastFeedback(null);
-      setMyPlayerState(prev => ({ ...prev, foundArtist: false, foundTitle: false, roundScore: 0 }));
-      if (roomState) {
-        setCurrentRoom(roomState);
-        setLeaderboard(roomState.leaderboard || []);
-      }
-    });
-
-    newSocket.on('countdown_tick', ({ countdown: cd }) => {
-      setCountdown(cd);
-    });
-
-    newSocket.on('round_started', (data) => {
-      console.log('[Round] Started:', data);
-      setGameStatus('PLAYING');
-      setCountdown(null);
-      setRoundData(data);
-      setRemainingTime(data.duration || 30);
-      setRevealedTrack(null);
-      setLastFeedback(null);
-      setMyPlayerState(prev => ({ ...prev, foundArtist: false, foundTitle: false, roundScore: 0 }));
-    });
-
-    newSocket.on('timer_tick', ({ remaining }) => {
-      setRemainingTime(remaining);
-    });
-
-    newSocket.on('guess_feedback', (feedback) => {
-      setLastFeedback(feedback);
-      if (feedback.correct) {
-        setMyPlayerState(prev => ({
-          ...prev,
-          foundArtist: feedback.foundArtist ?? prev.foundArtist,
-          foundTitle: feedback.foundTitle ?? prev.foundTitle,
-          score: feedback.totalScore ?? prev.score,
-          roundScore: (prev.roundScore || 0) + (feedback.pointsAwarded || 0)
-        }));
-      }
-    });
-
-    newSocket.on('round_ended', (data) => {
-      console.log('[Round] Ended, reveal:', data);
-      setGameStatus('REVEALING');
-      setRevealedTrack(data);
+    socket.on('round_ended', data => {
+      setGameStatus('REVEALING'); setRevealedTrack(data); setRevealRemaining(data.duration);
       setLeaderboard(data.leaderboard || []);
+    });
+    socket.on('game_ended', data => {
+      setGameStatus('ENDED'); setGameEndedData(data); setLeaderboard(data.leaderboard || []);
       setRoundData(null);
     });
-
-    newSocket.on('game_ended', (data) => {
-      console.log('[Game] Ended:', data);
-      setGameStatus('ENDED');
-      setGameEndedData(data);
-      setLeaderboard(data.leaderboard || []);
-    });
-
-    setSocket(newSocket);
-
-    return () => {
-      newSocket.close();
-    };
+    return () => { clearTimeout(pendingTimer.current); socket.close(); };
   }, []);
 
-  const joinRoom = useCallback((roomId, nickname, avatar) => {
-    if (!socket) return;
-    socket.emit('join_room', { roomId, nickname, avatar });
-  }, [socket]);
+  const emit = (event, data) => {
+    if (!socketRef.current?.connected) return false;
+    socketRef.current.emit(event, data); return true;
+  };
+  const request = (event, data) => {
+    if (pending || !socketRef.current?.connected) return;
+    setError(''); setPending(true); emit(event, data);
+    clearTimeout(pendingTimer.current);
+    pendingTimer.current = setTimeout(() => { setPending(false); setError('That took too long. Please try again.'); }, 8000);
+  };
+  const leaveRoom = () => {
+    emit('leave_room'); finishRequest(); reset(); setError('');
+    const url = new URL(window.location.href); url.searchParams.delete('room');
+    window.history.replaceState({}, '', url);
+  };
 
-  const leaveRoom = useCallback(() => {
-    if (!socket) return;
-    socket.emit('leave_room');
-    setCurrentRoom(null);
-    setGameStatus('LOBBY');
-    setRoundData(null);
-    setRevealedTrack(null);
-    setGameEndedData(null);
-  }, [socket]);
-
-  const startGame = useCallback(() => {
-    if (!socket) return;
-    socket.emit('start_game');
-  }, [socket]);
-
-  const submitGuess = useCallback((guess) => {
-    if (!socket || !guess.trim()) return;
-    socket.emit('submit_guess', { guess: guess.trim() });
-  }, [socket]);
-
-  const sendChatMessage = useCallback((text) => {
-    if (!socket || !text.trim()) return;
-    socket.emit('send_chat_message', { text: text.trim() });
-  }, [socket]);
-
-  const createRoom = useCallback((name, playlistId) => {
-    if (!socket) return;
-    socket.emit('create_room', { name, playlistId });
-  }, [socket]);
-
-  return (
-    <SocketContext.Provider value={{
-      socket,
-      connected,
-      rooms,
-      currentRoom,
-      gameStatus,
-      countdown,
-      remainingTime,
-      roundData,
-      revealedTrack,
-      leaderboard,
-      myPlayerState,
-      chatMessages,
-      lastFeedback,
-      gameEndedData,
-      joinRoom,
-      leaveRoom,
-      startGame,
-      submitGuess,
-      sendChatMessage,
-      createRoom
-    }}>
-      {children}
-    </SocketContext.Provider>
-  );
+  return <SocketContext.Provider value={{
+    socket: socketRef.current, connected, rooms, currentRoom, gameStatus, countdown, remainingTime,
+    revealRemaining, roundData, roundCue, revealedTrack, leaderboard, myPlayerState, chatMessages,
+    lastFeedback, gameEndedData, error, pending, clearError: () => setError(''),
+    joinRoom: (roomId, nickname, avatar) => request('join_room', { roomId, nickname, avatar }),
+    createRoom: (name, playlistId, nickname, avatar) => request('create_room', { name, playlistId, nickname, avatar }),
+    leaveRoom, startGame: () => request('start_game'),
+    submitGuess: guess => emit('submit_guess', { guess }),
+    sendChatMessage: text => emit('send_chat_message', { text }),
+    passRound: () => emit('pass_round'), nextRound: () => emit('next_round')
+  }}>{children}</SocketContext.Provider>;
 }
 
-export function useSocket() {
-  const context = useContext(SocketContext);
-  if (!context) {
-    throw new Error('useSocket must be used within a SocketProvider');
-  }
-  return context;
-}
+export const useSocket = () => useContext(SocketContext);
