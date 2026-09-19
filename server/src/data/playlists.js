@@ -398,9 +398,9 @@ export const PLAYLISTS = {
         "id": "rap-26",
         "artist": "Outkast",
         "title": "Ms. Jackson",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/59/37/b4593775-3963-eef9-f1fa-2a22cea24126/mzaf_14762058775190449628.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/da/47/c6da4713-20b7-9d5a-cd78-a43712cc8d2e/199316625028_cover.jpg/600x600bb.jpg",
-        "year": "2026",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/83/0f/d8830ff6-c347-08af-c6a9-42a22061b6c2/mzaf_14860642198148606898.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/600x600bb.jpg",
+        "year": "2000",
         "aliasesArtist": [
           "outkast"
         ],
@@ -889,31 +889,30 @@ export const PLAYLISTS = {
       },
       {
         "id": "rap-60",
-        "artist": "Tyler, The Creator",
-        "title": "EARFQUAKE",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/39/e9/d039e9dd-6e92-4d1d-3668-6a7c2c2cc870/mzaf_13378919472110564553.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/79/64/6a7964d9-276c-9064-336d-255e4e6d6cba/artwork.jpg/600x600bb.jpg",
+        "artist": "Pop Smoke",
+        "title": "Dior",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/e3/b4/cee3b4b5-a66e-4110-2325-fb9a4c68005d/mzaf_3787154762669876266.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/58/0d/f6580d93-0bb1-7b3b-2e30-f7a92cd5ca4b/198704795084_Cover.jpg/600x600bb.jpg",
         "year": "2019",
         "aliasesArtist": [
-          "tyler, the creator",
-          "tyler the creator"
+          "pop smoke"
         ],
         "aliasesTitle": [
-          "earfquake"
+          "dior"
         ]
       },
       {
         "id": "rap-61",
         "artist": "Mac Miller",
-        "title": "Self Care",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/bf/10/04bf10ed-0dae-fe63-94bc-eba16a7b8faa/mzaf_4512545557535985538.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/600x600bb.jpg",
-        "year": "2018",
+        "title": "Good News",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/80/7d/55807d1d-19d4-481c-0b36-24120ad3623b/mzaf_16364320153408868703.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/23/39/38/23393826-762f-ec76-dc1e-9344f647c958/093624905981.jpg/600x600bb.jpg",
+        "year": "2020",
         "aliasesArtist": [
           "mac miller"
         ],
         "aliasesTitle": [
-          "self care"
+          "good news"
         ]
       },
       {
@@ -1416,15 +1415,15 @@ export const PLAYLISTS = {
       {
         "id": "rap-95",
         "artist": "Ludacris",
-        "title": "Move Bitch",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/9e/dd/d79edd85-5b56-1897-6524-cb72d9481b51/mzaf_11683395392324095817.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ed/f1/f5edf148-eed0-c490-fe91-fa0c30d5b9e3/15UMGIM34395.rgb.jpg/600x600bb.jpg",
-        "year": "2001",
+        "title": "Stand Up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/50/29/92502908-0532-a918-59bd-1875c19b421a/mzaf_4636632916146364602.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/fa/14/09fa14ae-8acf-b554-ce7a-1edfe9c485a7/00602498605387.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
         "aliasesArtist": [
           "ludacris"
         ],
         "aliasesTitle": [
-          "move bitch"
+          "stand up"
         ]
       },
       {
@@ -1486,16 +1485,20 @@ export const PLAYLISTS = {
       },
       {
         "id": "rap-100",
-        "artist": "Sheck Wes",
-        "title": "Mo Bamba",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/00/c8/0700c83b-013c-02f4-eec2-4f9e6e0ffc73/mzaf_4017854910767923295.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/fc/49/8cfc49ce-86ca-03d1-9589-1ef20475257c/8718857585299.png/600x600bb.jpg",
+        "artist": "Lil Uzi Vert",
+        "title": "XO TOUR Llif3",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/e5/36/80e536dc-6c27-51ed-60e2-416206ffe9eb/mzaf_13822395917440111180.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/d7/df/4ad7df3d-f63c-45ed-e6be-6a808e5101b6/075679884763.jpg/600x600bb.jpg",
         "year": "2017",
         "aliasesArtist": [
-          "sheck wes"
+          "lil uzi vert",
+          "lil uzi",
+          "uzi"
         ],
         "aliasesTitle": [
-          "mo bamba"
+          "xo tour llif3",
+          "xo tour life",
+          "xo tour"
         ]
       }
     ]
@@ -2171,15 +2174,16 @@ export const PLAYLISTS = {
       {
         "id": "pop-46",
         "artist": "Lady Gaga",
-        "title": "Paparazzi",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/54/d9/f854d978-201c-0018-e548-d3c520bf618a/mzaf_6309626729707572868.plus.aac.p.m4a",
-        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/3b/50/693b50e2-ad6c-452e-4d5a-2ba2780ef5b5/612891078893.jpg/600x600bb.jpg",
-        "year": "2008",
+        "title": "Alejandro",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/9c/e9/cf9ce9f7-f1de-d9f7-f8c8-0815ed5a8bbd/mzaf_6375785484637425672.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
         "aliasesArtist": [
-          "lady gaga"
+          "lady gaga",
+          "gaga"
         ],
         "aliasesTitle": [
-          "paparazzi"
+          "alejandro"
         ]
       },
       {
