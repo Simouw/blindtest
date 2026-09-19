@@ -31,6 +31,25 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', time: new Date().toISOString() });
 });
 
+app.get('/api/search-tracks', async (req, res) => {
+  const query = req.query.q;
+  if (!query) return res.status(400).json({ error: 'Missing query' });
+  try {
+    const itunesRes = await fetch(`https://itunes.apple.com/search?term=${encodeURIComponent(query)}&entity=song&limit=4&country=US`, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' }
+    });
+    const text = await itunesRes.text();
+    try {
+      const data = JSON.parse(text);
+      res.json(data);
+    } catch (e) {
+      res.status(itunesRes.status).json({ error: 'Failed to parse JSON', status: itunesRes.status, body: text });
+    }
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 app.get('/api/playlists', (req, res) => {
   const summary = Object.values(PLAYLISTS).map(p => ({
     id: p.id,
