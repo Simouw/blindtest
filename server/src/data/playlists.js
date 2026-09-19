@@ -1500,6 +1500,2459 @@ export const PLAYLISTS = {
           "xo tour life",
           "xo tour"
         ]
+      },
+      {
+        "id": "rap-101",
+        "artist": "Kendrick Lamar",
+        "title": "Poetic Justice",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/b8/95/4db89510-6982-e8b5-b1d2-30111ffaafc8/mzaf_8751827411005037629.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/50/a1/9a50a1d8-01c2-2504-8d99-3f2fc7e5c2ff/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "poetic justice"
+        ]
+      },
+      {
+        "id": "rap-102",
+        "artist": "Kendrick Lamar",
+        "title": "Bitch, Don’t Kill My Vibe",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/4f/cf/d34fcf45-3059-5cd8-fd05-6c0f1070b39b/mzaf_1329962993872108634.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "bitch, don’t kill my vibe",
+          "bitch don’t kill my vibe"
+        ]
+      },
+      {
+        "id": "rap-103",
+        "artist": "Drake",
+        "title": "Hold On, We're Going Home",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/29/77/6a29774b-1cde-2a24-c9a7-7b69c5dff602/mzaf_13454693018547391187.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "hold on, we're going home",
+          "hold on we re going home",
+          "hold on, were going home"
+        ]
+      },
+      {
+        "id": "rap-104",
+        "artist": "Drake",
+        "title": "Nice For What",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/df/23/b5df2301-6d1b-bd29-7521-745cc346fb13/mzaf_15429939059485588664.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "nice for what"
+        ]
+      },
+      {
+        "id": "rap-105",
+        "artist": "Drake & Trap Capoo",
+        "title": "Headlines",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/95/1f/10951f6a-5f56-6e98-0d3e-d8e2abe13921/mzaf_10807706714266434003.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/e0/e0/81e0e081-d41b-e4dc-d0db-ba6ab7adcf28/34fbf4bf-5e0a-4278-af71-5462a17a702e.jpg/600x600bb.jpg",
+        "year": "2026",
+        "aliasesArtist": [
+          "drake & trap capoo",
+          "drake and trap capoo"
+        ],
+        "aliasesTitle": [
+          "headlines"
+        ]
+      },
+      {
+        "id": "rap-106",
+        "artist": "Drake",
+        "title": "Best I Ever Had",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/a1/a7/46a1a74a-bc24-91e6-7fca-334718928181/mzaf_16387926407277270668.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "best i ever had"
+        ]
+      },
+      {
+        "id": "rap-107",
+        "artist": "J. Cole",
+        "title": "Power Trip",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/df/b3/08dfb3fe-7661-d0df-a039-bebac477acf5/mzaf_7054863511762371556.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/52/41/da52415b-d0ac-d61f-422c-e84bf5ef8162/20UMGIM66000.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "power trip"
+        ]
+      },
+      {
+        "id": "rap-108",
+        "artist": "J. Cole",
+        "title": "Work Out",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/b6/58/59b658dc-bf53-d179-8bef-66a70e269d56/mzaf_15637929840161306626.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4f/be/d2/4fbed251-5117-c028-bec6-86a29e2fc269/18UMGIM74053.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "work out"
+        ]
+      },
+      {
+        "id": "rap-109",
+        "artist": "J. Cole",
+        "title": "Crooked Smile",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/7c/2c/3b7c2c05-59d2-e2f2-0d7a-08afaa0c0b10/mzaf_5842829000747392787.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/52/41/da52415b-d0ac-d61f-422c-e84bf5ef8162/20UMGIM66000.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "crooked smile"
+        ]
+      },
+      {
+        "id": "rap-110",
+        "artist": "J. Cole",
+        "title": "Deja Vu",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/de/2b/52de2b19-432b-0fb5-0b00-d53067c66438/mzaf_974976311009281054.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/93/b1/9f93b168-f7f4-5520-449c-0a4140c29052/00850498007537.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "deja vu"
+        ]
+      },
+      {
+        "id": "rap-111",
+        "artist": "Travis Scott",
+        "title": "BUTTERFLY EFFECT",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/c7/32/46c7320a-5a79-5edd-a447-4be6246dfa76/mzaf_15930848296096645653.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "travis scott",
+          "travis",
+          "la flame"
+        ],
+        "aliasesTitle": [
+          "butterfly effect"
+        ]
+      },
+      {
+        "id": "rap-112",
+        "artist": "Travis Scott",
+        "title": "STARGAZING",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/17/72/2817720a-aa3a-56d4-e4ad-0c6d380bfe77/mzaf_5929447614154956053.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "travis scott",
+          "travis",
+          "la flame"
+        ],
+        "aliasesTitle": [
+          "stargazing"
+        ]
+      },
+      {
+        "id": "rap-113",
+        "artist": "Travis Scott",
+        "title": "MY EYES",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/15/bb/8715bb0e-c6c6-a88c-c25a-088b539e2187/mzaf_3269170174302157070.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/4f/94/7d4f9468-56e1-3a2d-7186-c8088170ef58/196871341899.jpg/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "travis scott",
+          "travis",
+          "la flame"
+        ],
+        "aliasesTitle": [
+          "my eyes"
+        ]
+      },
+      {
+        "id": "rap-114",
+        "artist": "2Pac",
+        "title": "Hit 'Em Up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/d5/7b/2bd57b22-f7c7-aa74-f09d-03691390b8ff/mzaf_16067229147945979824.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur",
+          "makaveli"
+        ],
+        "aliasesTitle": [
+          "hit 'em up",
+          "hit em up"
+        ]
+      },
+      {
+        "id": "rap-115",
+        "artist": "2Pac",
+        "title": "Hail Mary",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/27/aa/b427aa00-9bad-6fe7-7683-1e576b48e0c3/mzaf_5404417223813696452.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur",
+          "makaveli"
+        ],
+        "aliasesTitle": [
+          "hail mary"
+        ]
+      },
+      {
+        "id": "rap-116",
+        "artist": "2Pac",
+        "title": "All Eyez On Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/5e/7f/135e7f39-a38c-238e-4b1e-e9c1d8ff05c4/mzaf_1539161598890726745.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur",
+          "makaveli"
+        ],
+        "aliasesTitle": [
+          "all eyez on me"
+        ]
+      },
+      {
+        "id": "rap-117",
+        "artist": "2Pac",
+        "title": "I Get Around",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/58/d6/2558d685-0346-99ad-5462-41b97102b80e/mzaf_4578327602483946105.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur",
+          "makaveli"
+        ],
+        "aliasesTitle": [
+          "i get around"
+        ]
+      },
+      {
+        "id": "rap-118",
+        "artist": "The Notorious B.I.G.",
+        "title": "Mo Money Mo Problems [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/af/a2/c8afa2f2-ea4f-b338-d43d-a08586f26e68/mzaf_10139011686141721684.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "mo money mo problems [amended]"
+        ]
+      },
+      {
+        "id": "rap-119",
+        "artist": "The Notorious B.I.G.",
+        "title": "Who Shot Ya",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/b4/83/78b48318-d08f-1b2c-b736-413656f5aaa1/mzaf_13595996891000534961.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "who shot ya"
+        ]
+      },
+      {
+        "id": "rap-120",
+        "artist": "The Notorious B.I.G.",
+        "title": "Going Back to Cali [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/19/cc/1d19cc23-96fe-041b-fa5b-3e1b8929faec/mzaf_12753298039984896518.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "going back to cali [amended]"
+        ]
+      },
+      {
+        "id": "rap-121",
+        "artist": "Eminem",
+        "title": "'Till I Collapse",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/8f/f1/cf8ff198-b736-395b-6b3f-877048ea5384/mzaf_11538452963444220646.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "'till i collapse",
+          "till i collapse"
+        ]
+      },
+      {
+        "id": "rap-122",
+        "artist": "Eminem",
+        "title": "Godzilla",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/e5/8e/48e58e62-4af2-82fb-52ef-6c17a7093863/mzaf_5312631234046930983.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/3f/7a/c63f7a28-4e53-1ae2-cfae-5d211e0c256c/20UMGIM02955.rgb.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "godzilla"
+        ]
+      },
+      {
+        "id": "rap-123",
+        "artist": "Eminem",
+        "title": "My Name Is",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/9c/7a/2b9c7afe-e995-98dc-d6ed-a58c2ff00e55/mzaf_10156670260921994139.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "my name is"
+        ]
+      },
+      {
+        "id": "rap-124",
+        "artist": "50 Cent",
+        "title": "Just a Lil Bit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/e1/cd/66e1cdf4-14ab-f2d7-378b-f1c7ffbffc4b/mzaf_16579149010707798685.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "50 cent",
+          "fifty cent",
+          "50"
+        ],
+        "aliasesTitle": [
+          "just a lil bit"
+        ]
+      },
+      {
+        "id": "rap-125",
+        "artist": "50 Cent",
+        "title": "Window Shopper",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/ed/59/b9ed59bc-9905-6bb2-adf8-ab43b2af580d/mzaf_11889596213726367453.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/5d/a7/795da779-84bc-7431-2462-5b7ff31a6479/00602498866054.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "50 cent",
+          "fifty cent",
+          "50"
+        ],
+        "aliasesTitle": [
+          "window shopper"
+        ]
+      },
+      {
+        "id": "rap-126",
+        "artist": "Dr. Dre & Snoop Dogg",
+        "title": "Nuthin’ But a \"G\" Thang",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/97/72/bc9772df-87cb-3365-72ec-0e0f6749c609/mzaf_7750869326903744255.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "dr. dre & snoop dogg",
+          "dr. dre and snoop dogg",
+          "dr dre & snoop dogg",
+          "dr dre",
+          "dre",
+          "doctor dre",
+          "snoop",
+          "snoop doggy dogg",
+          "snoop dog"
+        ],
+        "aliasesTitle": [
+          "nuthin’ but a \"g\" thang",
+          "nuthin’ but a g thang"
+        ]
+      },
+      {
+        "id": "rap-127",
+        "artist": "Kanye West",
+        "title": "Can't Tell Me Nothing",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/3f/25/603f25fb-1bb5-9e8f-9658-874f9948b69b/mzaf_7139487941093854326.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "can't tell me nothing",
+          "can t tell me nothing",
+          "cant tell me nothing"
+        ]
+      },
+      {
+        "id": "rap-128",
+        "artist": "Kanye West",
+        "title": "Flashing Lights",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/be/8e/4cbe8e05-1130-8697-6775-8e52408e857a/mzaf_10845907730040426322.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "flashing lights"
+        ]
+      },
+      {
+        "id": "rap-129",
+        "artist": "Kanye West",
+        "title": "Touch the Sky",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/03/92/450392a8-9829-b7fd-8a6b-b8b8831d3790/mzaf_14545688503375738268.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "touch the sky"
+        ]
+      },
+      {
+        "id": "rap-130",
+        "artist": "Kanye West",
+        "title": "All of the Lights",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/e0/87/5ee087b4-f690-5c91-1bb0-1849499b5f68/mzaf_11440367090716997153.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "all of the lights"
+        ]
+      },
+      {
+        "id": "rap-131",
+        "artist": "Lil Wayne",
+        "title": "6 Foot 7 Foot",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/e2/96/a2e29686-9017-64ab-634e-a5fceae830e2/mzaf_5056933364315365550.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/2d/c9/172dc94f-65f7-c8bd-5e62-1930d5015942/11UMGIM26414.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "lil wayne",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "6 foot 7 foot"
+        ]
+      },
+      {
+        "id": "rap-132",
+        "artist": "Lil Wayne",
+        "title": "Mirror",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/4d/90/4d4d909e-ef50-541e-8181-f3ee344f3324/mzaf_1863139165308336335.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/93/77/579377d8-2320-379c-1957-bb8b7b50bc30/23UMGIM34401.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lil wayne",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "mirror"
+        ]
+      },
+      {
+        "id": "rap-133",
+        "artist": "Lil Wayne",
+        "title": "Drop the World",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/3c/8c/1e3c8cf8-4d8e-c181-b0ce-bdc092d41fe7/mzaf_2247302092142407139.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/0d/df/d10ddf6f-274c-82da-7682-d967a7605e49/09UMGIM43997.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "lil wayne",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "drop the world"
+        ]
+      },
+      {
+        "id": "rap-134",
+        "artist": "Future",
+        "title": "Life Is Good",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/ea/b2/eaeab2e5-20f2-b08e-7786-dc23383a9708/mzaf_4229476118411872900.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/ce/3f/64ce3f2a-b523-8f83-46fc-ef70b6ea48ff/886448469704.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "future"
+        ],
+        "aliasesTitle": [
+          "life is good"
+        ]
+      },
+      {
+        "id": "rap-135",
+        "artist": "Future",
+        "title": "March Madness",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/1f/14/5c1f1470-473d-fe73-672b-bcfa98fe08e0/mzaf_11991804174129562316.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/ca/34/b0ca349f-d3ce-3734-a97f-31578f0b214e/886445475784.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "future"
+        ],
+        "aliasesTitle": [
+          "march madness"
+        ]
+      },
+      {
+        "id": "rap-136",
+        "artist": "A$AP Rocky",
+        "title": "L$D",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/84/1c/51841cf5-e1b9-8b90-6c0e-daba3bd14d34/mzaf_4970177553591423769.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/9b/4c/9f9b4cbc-5910-51fb-8486-adf3b89bc973/886444594837.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "a$ap rocky",
+          "asap rocky",
+          "rocky"
+        ],
+        "aliasesTitle": [
+          "l$d"
+        ]
+      },
+      {
+        "id": "rap-137",
+        "artist": "21 Savage",
+        "title": "a lot",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/6d/f5/c46df5e4-0dce-9891-a904-eaabf53de168/mzaf_8577526829310587620.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/94/f7/0794f7c3-0042-6aa8-022e-ae008868eb75/886447365144.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "21 savage"
+        ],
+        "aliasesTitle": [
+          "a lot"
+        ]
+      },
+      {
+        "id": "rap-138",
+        "artist": "21 Savage",
+        "title": "redrum",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/5f/31/e15f315d-4c85-a6c1-f8d9-04be541a6ec1/mzaf_17513610178592896446.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/84/5e/77845ee7-573c-efcc-4ce4-c9625fdce8c7/196871714556.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "21 savage"
+        ],
+        "aliasesTitle": [
+          "redrum"
+        ]
+      },
+      {
+        "id": "rap-139",
+        "artist": "Post Malone",
+        "title": "White Iverson",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/27/30/552730d7-4436-a1c6-f3a7-fbb40f3e25f8/mzaf_1705376344356418629.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/de/3157dec9-5e26-40d1-d61c-bce30558752d/16UMGIM76041.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "post malone",
+          "posty"
+        ],
+        "aliasesTitle": [
+          "white iverson"
+        ]
+      },
+      {
+        "id": "rap-140",
+        "artist": "Post Malone",
+        "title": "Circles",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/b1/aa/f9b1aaed-3e24-227f-153d-99969f8b8464/mzaf_6272498007975402144.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "post malone",
+          "posty"
+        ],
+        "aliasesTitle": [
+          "circles"
+        ]
+      },
+      {
+        "id": "rap-141",
+        "artist": "Mac Miller",
+        "title": "Donald Trump",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/2f/95/8d2f9533-f326-337f-36e1-3385c893d27f/mzaf_13537374241749494290.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/fa/81/7afa8155-fa6a-4f68-9459-455f0fd79784/881034789822.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "mac miller"
+        ],
+        "aliasesTitle": [
+          "donald trump"
+        ]
+      },
+      {
+        "id": "rap-142",
+        "artist": "Mac Miller",
+        "title": "Come Back to Earth",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/bf/10/04bf10ed-0dae-fe63-94bc-eba16a7b8faa/mzaf_4512545557535985538.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "mac miller"
+        ],
+        "aliasesTitle": [
+          "come back to earth"
+        ]
+      },
+      {
+        "id": "rap-143",
+        "artist": "Tyler, The Creator",
+        "title": "IGOR'S THEME",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/9e/4c/0c9e4cf5-2306-f1e2-4995-1a2c6acc0063/mzaf_4955498705054156995.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/06/05/0c060581-6242-6a2a-a677-20170f2cf8da/886447710180.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "tyler, the creator",
+          "tyler the creator",
+          "tyler"
+        ],
+        "aliasesTitle": [
+          "igor's theme",
+          "igor s theme",
+          "igors theme"
+        ]
+      },
+      {
+        "id": "rap-144",
+        "artist": "Tyler, The Creator",
+        "title": "You're A Mean One, Mr. Grinch",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/be/21/3abe214f-5e59-6690-37c6-720b5bec0945/mzaf_9415324263871079281.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7b/a9/087ba948-a90b-75f4-c379-e1534e175e86/886447326008.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "tyler, the creator",
+          "tyler the creator",
+          "tyler"
+        ],
+        "aliasesTitle": [
+          "you're a mean one, mr. grinch",
+          "you re a mean one mr grinch",
+          "youre a mean one, mr. grinch"
+        ]
+      },
+      {
+        "id": "rap-145",
+        "artist": "Wu-Tang Clan",
+        "title": "Gravel Pit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/e7/94/91e794ef-e9a3-db1b-97ad-732f915b7afa/mzaf_10682781432628979164.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c3/5a/26/c35a267e-cb5d-6b17-ecfb-902d6de5eef2/5099766997629.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "wu-tang clan"
+        ],
+        "aliasesTitle": [
+          "gravel pit"
+        ]
+      },
+      {
+        "id": "rap-146",
+        "artist": "Mobb Deep",
+        "title": "Survival of the Fittest",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/e4/a1/a4e4a191-41ab-a7c1-cc7a-0bab996bc533/mzaf_12824577893933830779.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/16/db/34/mzi.gwfwomxd.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "mobb deep"
+        ],
+        "aliasesTitle": [
+          "survival of the fittest"
+        ]
+      },
+      {
+        "id": "rap-147",
+        "artist": "Fugees",
+        "title": "Ready or Not",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/c0/bb/03c0bb2b-b20d-53e2-01e1-da037bf46133/mzaf_9434498581993704398.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/d1/5b/0ed15b14-271c-35d5-5909-49f18fbfb32b/886445600605.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "fugees"
+        ],
+        "aliasesTitle": [
+          "ready or not"
+        ]
+      },
+      {
+        "id": "rap-148",
+        "artist": "Fat Joe",
+        "title": "What's Luv?",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/c2/98/02c298bc-e954-ebef-6817-73f8eb2363be/mzaf_3091008937871327058.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/47/5b/53/mzi.ainpbace.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "fat joe"
+        ],
+        "aliasesTitle": [
+          "what's luv?",
+          "what s luv",
+          "whats luv?"
+        ]
+      },
+      {
+        "id": "rap-149",
+        "artist": "Nas",
+        "title": "If I Ruled the World (Imagine That) [iTunes Originals Live Version]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/51/58/8f51584a-3817-d3ad-12f1-5ac5df5510c0/mzaf_1048484571452986902.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/4f/e2/40/4fe240f8-cd88-4f06-bade-ec8dc80e96ae/mza_8288601206240019563.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "nas"
+        ],
+        "aliasesTitle": [
+          "if i ruled the world (imagine that) [itunes originals live version]",
+          "if i ruled the world imagine that [itunes originals live version]"
+        ]
+      },
+      {
+        "id": "rap-150",
+        "artist": "Jay Rock, Kendrick Lamar, Future, James Blake",
+        "title": "King's Dead",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/96/31/069631c3-b605-7772-4e5b-d5694de4cf00/mzaf_8201383345206889593.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "jay rock, kendrick lamar, future, james blake",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "king's dead",
+          "king s dead",
+          "kings dead"
+        ]
+      },
+      {
+        "id": "rap-151",
+        "artist": "Kendrick Lamar, SZA",
+        "title": "All The Stars",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/8b/2c/ea8b2cf4-95f2-b0b3-ffc5-10f4611bf98f/mzaf_6758805407695014001.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "kendrick lamar, sza",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "all the stars"
+        ]
+      },
+      {
+        "id": "rap-152",
+        "artist": "Kendrick Lamar",
+        "title": "LOVE.",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d4/6e/c2d46e14-410d-ac9c-3b9f-86d7985b6d52/mzaf_11438991059017104342.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/16/ef/ab16efe9-e7f1-66ec-021c-5592a23f0f9e/17UMGIM88793.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "love.",
+          "love"
+        ]
+      },
+      {
+        "id": "rap-153",
+        "artist": "Kendrick Lamar",
+        "title": "Swimming Pools (Drank) [Extended Version]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/8b/69/6c8b6925-647d-db57-2846-8cff9d02d565/mzaf_3261562986439060143.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick",
+          "k dot"
+        ],
+        "aliasesTitle": [
+          "swimming pools (drank) [extended version]",
+          "swimming pools drank [extended version]"
+        ]
+      },
+      {
+        "id": "rap-154",
+        "artist": "Drake",
+        "title": "Passionfruit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/b7/73/3db773ac-bade-82c1-c570-4a699945d1f6/mzaf_13103071700695768982.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9d/b8/189db80b-bfa8-89d1-1514-5fcb7e5cf8f4/00602557611526.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "passionfruit"
+        ]
+      },
+      {
+        "id": "rap-155",
+        "artist": "Drake",
+        "title": "Energy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/46/f5/e046f52a-e9cd-c9cc-1518-c37edc4b158c/mzaf_7217968000482053618.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/7d/bb/f77dbbb4-e8a2-855d-cc5c-79804a297599/00602547261908.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "energy"
+        ]
+      },
+      {
+        "id": "rap-156",
+        "artist": "J. Cole",
+        "title": "She Knows",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/30/11/e930113c-011a-1a2f-5ed3-bc8700407603/mzaf_17830670126009136454.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/52/41/da52415b-d0ac-d61f-422c-e84bf5ef8162/20UMGIM66000.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "she knows"
+        ]
+      },
+      {
+        "id": "rap-157",
+        "artist": "Travis Scott",
+        "title": "CAN'T SAY",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/0c/fe/8a0cfe57-ff8e-8a69-27ca-ee6c6e7b2039/mzaf_18376452624637116749.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "travis scott",
+          "travis",
+          "la flame"
+        ],
+        "aliasesTitle": [
+          "can't say",
+          "can t say",
+          "cant say"
+        ]
+      },
+      {
+        "id": "rap-158",
+        "artist": "Eminem",
+        "title": "The Way I Am",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/49/72/6949729f-14ca-46fc-5437-e0ce2ab8b4e3/mzaf_1236646818496670462.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/ac/03/eaac03e5-8e9d-847e-d5b9-af7dee6a970b/00606949063221.rgb.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "the way i am"
+        ]
+      },
+      {
+        "id": "rap-159",
+        "artist": "Eminem",
+        "title": "Sing For the Moment",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/38/09/cc3809a2-8de5-5f14-3d09-c597e09e913a/mzaf_14445739072863588894.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "sing for the moment"
+        ]
+      },
+      {
+        "id": "rap-160",
+        "artist": "50 Cent",
+        "title": "Wanksta (From \"8 Mile\" Soundtrack)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/5d/84/0e5d84f8-a503-6d8e-c634-fb4e2c40625e/mzaf_11883579730042378891.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/ac/dc/25acdc1a-8a13-e70d-fbed-bce268e8fea8/06UMGIM08757.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "50 cent",
+          "fifty cent",
+          "50"
+        ],
+        "aliasesTitle": [
+          "wanksta (from \"8 mile\" soundtrack)",
+          "wanksta from 8 mile soundtrack"
+        ]
+      },
+      {
+        "id": "rap-161",
+        "artist": "Dr. Dre",
+        "title": "What's the Difference",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/f6/a5/6cf6a516-f6d5-a08c-713e-d777473c1f94/mzaf_13751826887076036102.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/27/6b/4c/276b4c69-99cb-6209-2fd8-3edd17ccfd06/00602517641228.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "dr. dre",
+          "dr dre",
+          "dre",
+          "doctor dre"
+        ],
+        "aliasesTitle": [
+          "what's the difference",
+          "what s the difference",
+          "whats the difference"
+        ]
+      },
+      {
+        "id": "rap-162",
+        "artist": "Kanye West",
+        "title": "All Falls Down",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/d9/40/ced940b2-990a-ef93-5dd8-278a4468e5ad/mzaf_14647693514379577427.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "all falls down"
+        ]
+      },
+      {
+        "id": "rap-163",
+        "artist": "Kanye West",
+        "title": "Ghost Town",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/4e/f1/444ef1f6-7655-3942-1751-7696cb55e27e/mzaf_6604609548483025737.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "ghost town"
+        ]
+      },
+      {
+        "id": "rap-164",
+        "artist": "Kanye West",
+        "title": "Father Stretch My Hands, Pt. 1",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/db/28/5bdb28cc-696e-53f0-85bd-fcdfd5be8707/mzaf_8631042407972316120.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/fd/e0/ecfde04e-6db2-e55e-41fe-83c87a52b16e/00602547908339.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "kanye west",
+          "kanye",
+          "ye",
+          "yeezy"
+        ],
+        "aliasesTitle": [
+          "father stretch my hands, pt. 1",
+          "father stretch my hands pt 1"
+        ]
+      },
+      {
+        "id": "rap-165",
+        "artist": "Lil Wayne",
+        "title": "How to Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/84/ef/8f84ef8e-7f8a-3ab7-c340-5a0d7f519651/mzaf_11600306926562256825.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/e9/91/2de9919b-1860-02ee-7cb4-1e2c212a3f7e/11UMGIM26381.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lil wayne",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "how to love"
+        ]
+      },
+      {
+        "id": "rap-166",
+        "artist": "Lil Wayne",
+        "title": "Mrs. Officer",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/64/87/546487f7-32bf-1794-6876-fe65238c6b9c/mzaf_12873465545226744184.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/6c/dc/f96cdc5c-09fe-06b6-4629-be4afeb71cca/08UMGIM15512.rgb.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "lil wayne",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "mrs. officer",
+          "mrs officer"
+        ]
+      },
+      {
+        "id": "rap-167",
+        "artist": "Lil Wayne & Drake",
+        "title": "Right Above It",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/a4/1f/0fa41f34-3b92-5b1b-6f82-b258e8d6b727/mzaf_6212922569538423519.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/4e/7e/f84e7ec2-db01-a372-b394-ab28f1cbb583/10UMGIM24994.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "lil wayne & drake",
+          "lil wayne and drake",
+          "wayne",
+          "weezy"
+        ],
+        "aliasesTitle": [
+          "right above it"
+        ]
+      },
+      {
+        "id": "rap-168",
+        "artist": "Future",
+        "title": "Commas",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/79/7e/bd797eff-bc7d-2e83-7b0c-1b8817fb2d10/mzaf_6799409860305169979.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/01/d0/2101d0ef-079a-974e-317a-780275f8c269/886445328547.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "future"
+        ],
+        "aliasesTitle": [
+          "commas"
+        ]
+      },
+      {
+        "id": "rap-169",
+        "artist": "Future",
+        "title": "WAIT FOR U",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/c7/b7/45c7b762-45b3-c597-aa82-7f028c5efe00/mzaf_12117055212901229792.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/4c/fa/c84cfa03-1916-89f1-5362-03425fbe2ff9/196589073709.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "future"
+        ],
+        "aliasesTitle": [
+          "wait for u"
+        ]
+      },
+      {
+        "id": "rap-170",
+        "artist": "Future",
+        "title": "Low Life",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/81/cd/d181cd62-dd0a-502c-40e2-c9d01c5f1486/mzaf_13694903938571323497.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/35/39/ef/3539eff9-49dc-db4d-7e82-22244f17c5f4/886445733785.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "future"
+        ],
+        "aliasesTitle": [
+          "low life"
+        ]
+      },
+      {
+        "id": "rap-171",
+        "artist": "Drake & Future",
+        "title": "Jumpman",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/f1/31/93f131ce-feb5-dbef-ad21-b4c5fd99846f/mzaf_8501334934618208471.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d3/74/1d/d3741d09-5c9a-461b-aba3-fa345d306d5a/00602547616678.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "drake & future",
+          "drake and future"
+        ],
+        "aliasesTitle": [
+          "jumpman"
+        ]
+      },
+      {
+        "id": "rap-172",
+        "artist": "Metro Boomin, Future & Chris Brown",
+        "title": "Superhero (Heroes & Villains)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/99/6f/47996f47-2d0e-fe05-03e1-27c66409ca34/mzaf_1141766158354203672.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/1b/a9/731ba9ea-ad8f-3a60-2fdd-39c04ab0588d/22UM1IM40166.rgb.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "metro boomin, future & chris brown",
+          "metro boomin, future and chris brown"
+        ],
+        "aliasesTitle": [
+          "superhero (heroes & villains)",
+          "superhero heroes & villains"
+        ]
+      },
+      {
+        "id": "rap-173",
+        "artist": "Metro Boomin & Future",
+        "title": "Too Many Nights",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/05/cd/be05cd24-82dc-0717-9314-a5ef9c92bbb9/mzaf_10363454382614535604.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/1b/a9/731ba9ea-ad8f-3a60-2fdd-39c04ab0588d/22UM1IM40166.rgb.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "metro boomin & future",
+          "metro boomin and future"
+        ],
+        "aliasesTitle": [
+          "too many nights"
+        ]
+      },
+      {
+        "id": "rap-174",
+        "artist": "Metro Boomin",
+        "title": "Space Cadet",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/45/4d/03454d71-68ad-3c94-6139-f6512953cccc/mzaf_12865822532172320621.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/e3/27/b1e3271b-b8cb-7d80-99e5-0ddd9d6e632e/00602577303210.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "metro boomin"
+        ],
+        "aliasesTitle": [
+          "space cadet"
+        ]
+      },
+      {
+        "id": "rap-175",
+        "artist": "Kid Cudi",
+        "title": "Mr. Rager",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/32/3d/0e323d1e-d1c6-11da-df2d-78e436e8fa64/mzaf_16953929661096168602.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/12/4a/d9/124ad978-f720-dd52-30bd-7919643cf5f0/10UMGIM27683.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "kid cudi"
+        ],
+        "aliasesTitle": [
+          "mr. rager",
+          "mr rager"
+        ]
+      },
+      {
+        "id": "rap-176",
+        "artist": "Outkast",
+        "title": "So Fresh, So Clean (Radio Mix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/92/36/be923611-83d9-1fc2-94fa-de8ee6f4bfdd/mzaf_15370204532264063399.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "outkast"
+        ],
+        "aliasesTitle": [
+          "so fresh, so clean (radio mix)",
+          "so fresh so clean radio mix"
+        ]
+      },
+      {
+        "id": "rap-177",
+        "artist": "The Game",
+        "title": "How We Do",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/1c/fb/d01cfb51-32b8-b443-50ed-d042503aa790/mzaf_15713585737401196361.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "the game",
+          "game"
+        ],
+        "aliasesTitle": [
+          "how we do"
+        ]
+      },
+      {
+        "id": "rap-178",
+        "artist": "Gunna & Future",
+        "title": "pushin P",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/67/93/246793a3-bee5-5e90-84d9-193c82679f34/mzaf_6895614983229375670.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/43/bf/8d43bf02-9bd8-6dd9-a3e0-662175cf7a2b/810043689250.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "gunna & future",
+          "gunna and future"
+        ],
+        "aliasesTitle": [
+          "pushin p"
+        ]
+      },
+      {
+        "id": "rap-179",
+        "artist": "Juice WRLD",
+        "title": "Robbery",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/7f/00/fd7f0051-8757-536a-3967-17ceb2dbba5e/mzaf_3677615810180922699.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/10/cf/6210cf4a-be77-3d97-218d-834f68bb33b3/19UMGIM16006.rgb.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "juice wrld"
+        ],
+        "aliasesTitle": [
+          "robbery"
+        ]
+      },
+      {
+        "id": "rap-180",
+        "artist": "XXXTENTACION",
+        "title": "Look At Me!",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/ce/95/09ce95c7-9fe1-ee28-e29c-2cda8d1aa1a9/mzaf_10442314575225369415.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/aa/87/70aa8723-81da-ca48-c395-ab1cb19bbc9b/888915347232_cover.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "xxxtentacion"
+        ],
+        "aliasesTitle": [
+          "look at me!",
+          "look at me"
+        ]
+      },
+      {
+        "id": "rap-181",
+        "artist": "Nicki Minaj",
+        "title": "Super Bass",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/31/80/b03180ac-be20-9366-b4b5-e078bf791737/mzaf_3970609514950194332.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/6a/dc/3f6adcfb-4d27-303e-b964-3710c56800e3/11UMGIM13385.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "nicki minaj"
+        ],
+        "aliasesTitle": [
+          "super bass"
+        ]
+      },
+      {
+        "id": "rap-182",
+        "artist": "Lil Nas X & Jack Harlow",
+        "title": "INDUSTRY BABY",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/97/7a/51977a71-448a-202a-5e60-756d5dcb6eeb/mzaf_194387576127428058.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/16/67/f7166746-6299-5e54-8c7c-9535e941a53e/886449403929.jpg/600x600bb.jpg",
+        "year": "2021",
+        "aliasesArtist": [
+          "lil nas x & jack harlow",
+          "lil nas x and jack harlow"
+        ],
+        "aliasesTitle": [
+          "industry baby"
+        ]
+      },
+      {
+        "id": "rap-183",
+        "artist": "Rae Sremmurd",
+        "title": "Black Beatles (Madsonik Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/52/73/82527321-d9af-4474-0e39-3428ca176b14/mzaf_14080085888417581556.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/f8/d6/bff8d651-546e-2e4c-0aa1-cd0bb415d293/00602557452297.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "rae sremmurd"
+        ],
+        "aliasesTitle": [
+          "black beatles (madsonik remix)",
+          "black beatles madsonik remix"
+        ]
+      },
+      {
+        "id": "rap-184",
+        "artist": "Fetty Wap",
+        "title": "Trap Queen",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/6d/2d/516d2da9-aee7-bd22-e732-aba6ecfbb224/mzaf_5982728977980834958.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "fetty wap"
+        ],
+        "aliasesTitle": [
+          "trap queen"
+        ]
+      },
+      {
+        "id": "rap-185",
+        "artist": "Fetty Wap",
+        "title": "679",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/92/d9/d492d9e6-8beb-fa0f-7159-11a0b569bdf3/mzaf_5283333249421494173.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/9b/95/539b9581-3dd6-7a02-8b25-ebad59ba0949/814908020318.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "fetty wap"
+        ],
+        "aliasesTitle": [
+          "679"
+        ]
+      },
+      {
+        "id": "rap-186",
+        "artist": "Kendrick Lamar",
+        "title": "luther",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/1d/98/e01d9881-0953-f0ed-b03d-3a4bd6f3c769/mzaf_8283505998481315852.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "luther"
+        ]
+      },
+      {
+        "id": "rap-187",
+        "artist": "Kendrick Lamar",
+        "title": "peekaboo",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/9d/e5/439de547-4d51-bf5f-6763-8dc3e0b12d8f/mzaf_13125897401178674573.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "peekaboo"
+        ]
+      },
+      {
+        "id": "rap-188",
+        "artist": "Kendrick Lamar",
+        "title": "squabble up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/e5/aa/91e5aa0f-5d8b-532f-8a72-23d4f721d847/mzaf_14650418192241940161.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "squabble up"
+        ]
+      },
+      {
+        "id": "rap-189",
+        "artist": "Dahi, Kendrick Lamar & Amber Mark",
+        "title": "How To Pray",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/a4/3c/2ba43c68-2b89-de56-95d5-c18f31bc6c69/mzaf_12225788087880779676.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/15/f1/c915f103-2e61-235f-a9d6-9c7a7126e073/8721555614062.png/600x600bb.jpg",
+        "year": "2026",
+        "aliasesArtist": [
+          "dahi, kendrick lamar & amber mark",
+          "dahi, kendrick lamar and amber mark",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "how to pray"
+        ]
+      },
+      {
+        "id": "rap-190",
+        "artist": "Kendrick Lamar",
+        "title": "Now Or Never [Bonus Track]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/81/06/42810694-20ec-b75d-51bd-738e5d233b4e/mzaf_10116909866184224758.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "now or never [bonus track]"
+        ]
+      },
+      {
+        "id": "rap-191",
+        "artist": "Kendrick Lamar",
+        "title": "tv off",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/20/31/fb203190-148f-f2be-6ad6-47c5a165f7b9/mzaf_5391716550911069545.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "tv off"
+        ]
+      },
+      {
+        "id": "rap-192",
+        "artist": "The Weeknd, Kendrick Lamar",
+        "title": "Pray For Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/32/62/f7326224-4efd-cdfa-65cd-3933c42f3f4f/mzaf_8644554860966682608.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "the weeknd, kendrick lamar",
+          "weeknd, kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "pray for me"
+        ]
+      },
+      {
+        "id": "rap-193",
+        "artist": "Future, Metro Boomin & Kendrick Lamar",
+        "title": "Like That",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/a1/62/f3a16204-9799-d6a6-1aa4-96ee3502471c/mzaf_13967808582282742708.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/b6/46/feb64670-4fe7-bbc0-1101-c5f11bfb6905/196871937399.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "future, metro boomin & kendrick lamar",
+          "future, metro boomin and kendrick lamar",
+          "kendrick"
+        ],
+        "aliasesTitle": [
+          "like that"
+        ]
+      },
+      {
+        "id": "rap-194",
+        "artist": "Drake",
+        "title": "Finesse",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/53/68/4453680c-94f1-5f97-bcb9-8147f2cb56b0/mzaf_4259939450411566361.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "finesse"
+        ]
+      },
+      {
+        "id": "rap-195",
+        "artist": "Drake & Michael Jackson",
+        "title": "Don’t Matter To Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d4/5e/a9d45ec8-ac03-abdf-82c5-427a61cee095/mzaf_17544503711171979786.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "drake & michael jackson",
+          "drake and michael jackson"
+        ],
+        "aliasesTitle": [
+          "don’t matter to me"
+        ]
+      },
+      {
+        "id": "rap-196",
+        "artist": "Drake",
+        "title": "Blem",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/f2/f4/07f2f40b-0cd4-923f-9ea0-efd2eeab72c2/mzaf_8468195595382783808.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9d/b8/189db80b-bfa8-89d1-1514-5fcb7e5cf8f4/00602557611526.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "blem"
+        ]
+      },
+      {
+        "id": "rap-197",
+        "artist": "Drake",
+        "title": "Summer Games",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/2d/22/e12d2212-f65b-e0b6-0b44-491bf2537039/mzaf_9150373690436140268.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "summer games"
+        ]
+      },
+      {
+        "id": "rap-198",
+        "artist": "Drake",
+        "title": "Signs",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/16/98/821698bf-45cb-407e-24d4-9d5961a5d17d/mzaf_5800112763913448302.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/b5/16/beb51692-6125-f465-e1a9-d414be6c7c33/00602557821048.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "signs"
+        ]
+      },
+      {
+        "id": "rap-199",
+        "artist": "Drake",
+        "title": "Find Your Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/e6/6b/aee66ba7-8984-2e74-76f6-2d096f55ed6a/mzaf_14497607422874173490.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/9d/13/639d1329-da68-6535-bce1-8797eebf6b48/00602527395319.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "drake"
+        ],
+        "aliasesTitle": [
+          "find your love"
+        ]
+      },
+      {
+        "id": "rap-200",
+        "artist": "J. Cole",
+        "title": "Kevin's Heart",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/0d/59/8e0d598d-517f-77d7-47c0-eb8f420b518d/mzaf_12362875315101589395.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8e/9d/7a8e9dcb-128c-aeaa-540d-eea733637695/18UMGIM22943.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "kevin's heart",
+          "kevin s heart",
+          "kevins heart"
+        ]
+      },
+      {
+        "id": "rap-201",
+        "artist": "J. Cole",
+        "title": "KOD",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/fb/c6/57fbc6bf-46ec-0afe-c7c5-f14ea3548505/mzaf_10881315508129255045.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8e/9d/7a8e9dcb-128c-aeaa-540d-eea733637695/18UMGIM22943.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "kod"
+        ]
+      },
+      {
+        "id": "rap-202",
+        "artist": "J. Cole",
+        "title": "Intro",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/79/07/157907fa-b550-082a-50cf-4065a1ead7ba/mzaf_1002678881049315125.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/f4/a2/04f4a2ca-81d1-a258-0c70-ee555840bc15/18UMGIM22943.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "intro"
+        ]
+      },
+      {
+        "id": "rap-203",
+        "artist": "J. Cole, 21 Savage & Morray",
+        "title": "m y . l i f e",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/4e/25/d94e25d5-1dca-3986-c304-5dd9d7fb79eb/mzaf_13166666837707829085.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/a5/25/66a52540-c0d2-f336-cbfb-8413e6f23beb/21UMGIM41233.rgb.jpg/600x600bb.jpg",
+        "year": "2021",
+        "aliasesArtist": [
+          "j. cole, 21 savage & morray",
+          "j. cole, 21 savage and morray",
+          "j cole, 21 savage & morray",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "m y . l i f e",
+          "m y l i f e"
+        ]
+      },
+      {
+        "id": "rap-204",
+        "artist": "J. Cole",
+        "title": "In the Morning",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/a7/6b/0ca76b66-d6d5-01f2-985a-955bf8d9b9d9/mzaf_4604285232658252958.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4f/be/d2/4fbed251-5117-c028-bec6-86a29e2fc269/18UMGIM74053.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "in the morning"
+        ]
+      },
+      {
+        "id": "rap-205",
+        "artist": "J. Cole",
+        "title": "Neighbors",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/b5/51/fdb55114-37ed-15f1-9d98-db7da74fd450/mzaf_7477484248476024406.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/93/b1/9f93b168-f7f4-5520-449c-0a4140c29052/00850498007537.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "neighbors"
+        ]
+      },
+      {
+        "id": "rap-206",
+        "artist": "J. Cole",
+        "title": "G.O.M.D",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/aa/ed/7eaaedb1-89af-55e4-0780-48899a85197f/mzaf_16004036332192869684.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "g.o.m.d",
+          "g o m d"
+        ]
+      },
+      {
+        "id": "rap-207",
+        "artist": "J. Cole",
+        "title": "Apparently",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/81/6d/ef816d6a-0c67-fa76-89a1-13aa416b1aef/mzaf_5035495498163912149.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "apparently"
+        ]
+      },
+      {
+        "id": "rap-208",
+        "artist": "J. Cole",
+        "title": "ATM",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/99/86/7599865c-a531-e6a0-2a0d-71a2944846f0/mzaf_5313273105765383396.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8e/9d/7a8e9dcb-128c-aeaa-540d-eea733637695/18UMGIM22943.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "atm"
+        ]
+      },
+      {
+        "id": "rap-209",
+        "artist": "J. Cole",
+        "title": "A Tale Of 2 Citiez",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/c4/f6/46c4f670-f2ce-e23f-9d5d-2c64984e277b/mzaf_4265216855337783855.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/28/67/ee286794-6c33-a8c2-5c37-c04f1cb5e8a6/21UM1IM54415.rgb.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "a tale of 2 citiez"
+        ]
+      },
+      {
+        "id": "rap-210",
+        "artist": "J. Cole",
+        "title": "Motiv8",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/7f/92/ed7f922c-4cd2-31cc-456f-11a67a7e3af7/mzaf_14823267766342500383.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8e/9d/7a8e9dcb-128c-aeaa-540d-eea733637695/18UMGIM22943.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "j. cole",
+          "j cole",
+          "cole"
+        ],
+        "aliasesTitle": [
+          "motiv8"
+        ]
+      },
+      {
+        "id": "rap-211",
+        "artist": "Ed Sheeran & Travis Scott",
+        "title": "Antisocial",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/13/39/98133957-193e-730c-e66f-8c63d5c7d94f/mzaf_5099798108341416366.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ba/e2/2a/bae22a5e-c878-da64-0ecc-4a3584a1a139/190295411411.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "ed sheeran & travis scott",
+          "ed sheeran and travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "antisocial"
+        ]
+      },
+      {
+        "id": "rap-212",
+        "artist": "Travis Scott",
+        "title": "YOSEMITE",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/01/e4/9c01e4d1-08eb-2988-717b-89216a6491f9/mzaf_1401007185924005358.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "yosemite"
+        ]
+      },
+      {
+        "id": "rap-213",
+        "artist": "ROSALÍA & Travis Scott",
+        "title": "TKN",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/18/c8/5b18c87d-b0da-01d9-1e23-89ddac1cc975/mzaf_1247444091201537610.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/9f/21/7e9f21e5-1da2-395d-9312-6499c31b75d1/886448328568.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "rosalía & travis scott",
+          "rosalía and travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "tkn"
+        ]
+      },
+      {
+        "id": "rap-214",
+        "artist": "Lil Uzi Vert, Quavo & Travis Scott",
+        "title": "Go Off",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/e6/fb/64e6fb31-4966-ba1a-e3ce-078993694ad1/mzaf_14189329048971622062.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/77/22/ba772286-cdd8-8925-aa93-784db1836d7b/075679900111.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "lil uzi vert, quavo & travis scott",
+          "lil uzi vert, quavo and travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "go off"
+        ]
+      },
+      {
+        "id": "rap-215",
+        "artist": "Travis Scott",
+        "title": "DELRESTO (ECHOES)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/fe/07/56fe07f5-a2c0-3817-281e-b14dcf07f8c2/mzaf_9083020398882972913.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "delresto (echoes)",
+          "delresto echoes"
+        ]
+      },
+      {
+        "id": "rap-216",
+        "artist": "Travis Scott",
+        "title": "FRANCHISE",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/1b/15/a91b155f-ac1b-d2d5-522d-3a8d234af332/mzaf_3795451418658868839.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/c2/ac/d9c2ac88-d16b-e968-c3b0-d518c9d18e83/886448660330.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "franchise"
+        ]
+      },
+      {
+        "id": "rap-217",
+        "artist": "Travis Scott",
+        "title": "PARASAIL",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/9b/9f/d89b9f25-185d-ea1a-0211-53fc2a840845/mzaf_8375359761369391938.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "parasail"
+        ]
+      },
+      {
+        "id": "rap-218",
+        "artist": "SZA & The Weeknd & Travis Scott",
+        "title": "Power is Power",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/bc/e6/59bce6c8-fdcd-6d5a-d9d9-2228dd4f3581/mzaf_16850998571656134206.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/28/5c/c2285ce6-2a18-bd39-6649-00255013b33a/886447653814.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "sza & the weeknd & travis scott",
+          "sza and the weeknd and travis scott",
+          "travis"
+        ],
+        "aliasesTitle": [
+          "power is power"
+        ]
+      },
+      {
+        "id": "rap-219",
+        "artist": "2Pac",
+        "title": "Keep Ya Head Up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/23/72/b723722a-57ed-8543-61b1-66ad28942b3a/mzaf_5078570779089291363.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "keep ya head up"
+        ]
+      },
+      {
+        "id": "rap-220",
+        "artist": "2Pac",
+        "title": "Changes (1998 Greatest Hits) [Edit]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/f3/2e/fff32e23-565f-1185-335d-d6dd9a9b849e/mzaf_14969939782666896913.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "changes (1998 greatest hits) [edit]",
+          "changes 1998 greatest hits [edit]"
+        ]
+      },
+      {
+        "id": "rap-221",
+        "artist": "2Pac",
+        "title": "All About U",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/a4/4d/aba44da1-948b-cea5-96cb-8bc739e15c99/mzaf_5276467984076185693.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "all about u"
+        ]
+      },
+      {
+        "id": "rap-222",
+        "artist": "2Pac",
+        "title": "California Love [Remix]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/c3/5d/25c35d8e-13a2-a67a-5750-9c8fac55ad3b/mzaf_81027516995072444.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "california love [remix]"
+        ]
+      },
+      {
+        "id": "rap-223",
+        "artist": "2Pac",
+        "title": "How Do U Want It [Edit]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/b5/90/a8b590f0-2312-091e-9d06-8bb8c26cb08c/mzaf_1879500989856640854.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "how do u want it [edit]"
+        ]
+      },
+      {
+        "id": "rap-224",
+        "artist": "2Pac",
+        "title": "How Do U Want It",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/ca/68/68ca68ff-c5fc-cb5f-0bcf-bf3599c5828d/mzaf_16410981005078108399.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "how do u want it"
+        ]
+      },
+      {
+        "id": "rap-225",
+        "artist": "2Pac",
+        "title": "Runnin (Dying To Live)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/32/b3/1d32b3cf-2ab4-1098-026b-ee008b8b21ff/mzaf_1440004447229398793.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/96/e4/0296e46f-7bc2-82e9-2c72-efe5666ccc14/00602567834410.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "runnin (dying to live)",
+          "runnin dying to live"
+        ]
+      },
+      {
+        "id": "rap-226",
+        "artist": "2Pac",
+        "title": "2 of Amerikaz Most Wanted",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/8d/fa/c88dfa2d-a350-3c68-e490-70dd3421dcac/mzaf_478030046451540611.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "2 of amerikaz most wanted"
+        ]
+      },
+      {
+        "id": "rap-227",
+        "artist": "2Pac",
+        "title": "I Ain't Mad At Cha",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/b3/47/7bb3472c-8359-99ee-e6d6-391c8bb8e5cd/mzaf_9728955698021743452.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "i ain't mad at cha",
+          "i ain t mad at cha",
+          "i aint mad at cha"
+        ]
+      },
+      {
+        "id": "rap-228",
+        "artist": "2Pac",
+        "title": "Picture Me Rollin'",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/54/d2/5d54d2e2-30cd-582f-924f-c83c4f429b5a/mzaf_11273262917484012844.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/00/89/720089d8-c063-a323-e0cc-de921e50b968/00602527051789.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "picture me rollin'",
+          "picture me rollin"
+        ]
+      },
+      {
+        "id": "rap-229",
+        "artist": "2Pac",
+        "title": "Starin' Through My Rear View",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/1b/0d/b81b0d18-1e9e-eb56-e958-28e7fa7a09e4/mzaf_4095312108607568056.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/96/e4/0296e46f-7bc2-82e9-2c72-efe5666ccc14/00602567834410.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "2pac",
+          "tupac",
+          "tupac shakur"
+        ],
+        "aliasesTitle": [
+          "starin' through my rear view",
+          "starin through my rear view"
+        ]
+      },
+      {
+        "id": "rap-230",
+        "artist": "The Notorious B.I.G.",
+        "title": "Sky's the Limit [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/a0/41/bba041f3-b6a2-e6f8-9538-9d2355f65e0c/mzaf_11897509466925979351.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "sky's the limit [amended]",
+          "sky s the limit [amended]",
+          "skys the limit [amended]"
+        ]
+      },
+      {
+        "id": "rap-231",
+        "artist": "The Notorious B.I.G.",
+        "title": "Hypnotize (Radio Mix) [2014 Remaster]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/a3/27/7fa3273d-1ac7-6bcf-b7aa-fb077433b323/mzaf_11588739238525250583.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ba/69/31/ba69312d-506b-0e92-58a5-42f02b607a1f/603497839100.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "hypnotize (radio mix) [2014 remaster]",
+          "hypnotize radio mix [2014 remaster]"
+        ]
+      },
+      {
+        "id": "rap-232",
+        "artist": "The Notorious B.I.G.",
+        "title": "One More Chance (Hip Hop Mix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/f5/89/b5f589f9-bb24-1168-d788-ebc4124197aa/mzaf_3640857700346885617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/94/ee/9394eefa-0449-b19f-1d9e-b4d0e9c67910/603497899364.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "one more chance (hip hop mix)",
+          "one more chance hip hop mix"
+        ]
+      },
+      {
+        "id": "rap-233",
+        "artist": "The Notorious B.I.G.",
+        "title": "One More Chance / Stay With Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/51/00/a65100df-2dcd-63c6-0441-c9ff8baece78/mzaf_16225943245287122993.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/94/ee/9394eefa-0449-b19f-1d9e-b4d0e9c67910/603497899364.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "one more chance / stay with me"
+        ]
+      },
+      {
+        "id": "rap-234",
+        "artist": "The Notorious B.I.G.",
+        "title": "Get Money",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/72/d7/0d72d7ca-cb08-2c3f-4fca-b5bf18eee355/mzaf_8250543387129277581.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/08/66/e3/0866e3ef-c111-c0a2-f18e-a10035a5bb07/dj.hpsoegav.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "get money"
+        ]
+      },
+      {
+        "id": "rap-235",
+        "artist": "The Notorious B.I.G.",
+        "title": "Warning",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/d6/f7/9ad6f718-7268-536a-60de-2db56ef50c9c/mzaf_13144094442502721464.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "warning"
+        ]
+      },
+      {
+        "id": "rap-236",
+        "artist": "The Notorious B.I.G.",
+        "title": "I Love the Dough [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/91/b9/4491b9eb-39dc-f7f9-58e8-d1d70855b7ad/mzaf_13989858306636934285.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "i love the dough [amended]"
+        ]
+      },
+      {
+        "id": "rap-237",
+        "artist": "The Notorious B.I.G.",
+        "title": "One More Chance / Stay With Me (Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/36/fd/1c36fd51-3d18-b43c-9cfe-b8dd14736504/mzaf_7605258462881010930.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/08/66/e3/0866e3ef-c111-c0a2-f18e-a10035a5bb07/dj.hpsoegav.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "one more chance / stay with me (remix)",
+          "one more chance / stay with me remix"
+        ]
+      },
+      {
+        "id": "rap-238",
+        "artist": "The Notorious B.I.G.",
+        "title": "Mo Money Mo Problems [Radio Mix]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/6b/65/006b65b3-377e-cb4f-4b11-00f3ea6d79a5/mzaf_18214614981122787944.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/d8/1a/84/d81a84f1-c5d9-4d13-09f0-42d16e65e8cf/dj.mycfynvr.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "mo money mo problems [radio mix]"
+        ]
+      },
+      {
+        "id": "rap-239",
+        "artist": "The Notorious B.I.G.",
+        "title": "Machine Gun Funk",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/4b/27/b94b27f4-249c-8d24-7a24-2f59b32bf2ab/mzaf_458801343497824149.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "machine gun funk"
+        ]
+      },
+      {
+        "id": "rap-240",
+        "artist": "The Notorious B.I.G.",
+        "title": "One More Chance",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/f6/18/b8f618da-47d7-e8a8-bc5b-4b36c62d9924/mzaf_10199330421723643347.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "one more chance"
+        ]
+      },
+      {
+        "id": "rap-241",
+        "artist": "The Notorious B.I.G.",
+        "title": "Everyday Struggle",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/1f/eb/3f1febe5-e835-08d9-a2f3-0538f2aac603/mzaf_16429541041024394810.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "everyday struggle"
+        ]
+      },
+      {
+        "id": "rap-242",
+        "artist": "The Notorious B.I.G.",
+        "title": "One More Chance / Stay With Me (Greatest Hits Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/fa/28/3cfa2848-e657-af7f-cbd0-06c8ac0002a7/mzaf_3153181057950318042.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/4c/e9/dd4ce959-0ce9-dfbf-0dc3-014bb3ee7fb6/mzi.eptyirte.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "one more chance / stay with me (greatest hits version)",
+          "one more chance / stay with me greatest hits version"
+        ]
+      },
+      {
+        "id": "rap-243",
+        "artist": "The Notorious B.I.G.",
+        "title": "F!*@ You Tonight [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/c2/3e/bcc23e53-3f3d-c27a-6d51-3bf05531bca6/mzaf_9507089174605097012.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "f!*@ you tonight [amended]",
+          "f *@ you tonight [amended]"
+        ]
+      },
+      {
+        "id": "rap-244",
+        "artist": "The Notorious B.I.G.",
+        "title": "Another [Amendedd]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/01/b2/7301b259-277c-ffa0-838c-b0443d0f6841/mzaf_17963878839250076852.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "another [amendedd]"
+        ]
+      },
+      {
+        "id": "rap-245",
+        "artist": "The Notorious B.I.G.",
+        "title": "Respect",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/8f/1f/f68f1f39-4681-d2ce-3b09-01a1e35c142e/mzaf_10426676644289956866.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/6a/3d/f86a3db0-d518-cd49-c0c9-25e767ae0a6d/075679456861.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "respect"
+        ]
+      },
+      {
+        "id": "rap-246",
+        "artist": "The Notorious B.I.G.",
+        "title": "Miss U [Amended]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/61/a8/4161a8da-f53c-4f64-3526-28d3b1320509/mzaf_16257863289176731018.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/9d/c8/d09dc822-43c6-b392-7980-ab492aa9a257/dj.bywycbiu.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "miss u [amended]"
+        ]
+      },
+      {
+        "id": "rap-247",
+        "artist": "The Notorious B.I.G.",
+        "title": "#!*@ You Tonight",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/61/a1/8a61a121-37ad-6634-8069-fe0c9096c568/mzaf_17434523991364429037.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/08/66/e3/0866e3ef-c111-c0a2-f18e-a10035a5bb07/dj.hpsoegav.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "#!*@ you tonight",
+          "# *@ you tonight"
+        ]
+      },
+      {
+        "id": "rap-248",
+        "artist": "The Notorious B.I.G.",
+        "title": "Party and Bulls**t (Soundtrack Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/7a/78/9e7a78d5-440f-7671-2dcf-4a975d708b2f/mzaf_3953802166882945598.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/32/fe/2e32fe0e-fd24-6dfc-5e61-d0a70aafc74b/mzi.sgwyajtt.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "the notorious b.i.g.",
+          "notorious b.i.g.",
+          "the notorious big",
+          "notorious big",
+          "biggie",
+          "biggie smalls"
+        ],
+        "aliasesTitle": [
+          "party and bulls**t (soundtrack version)",
+          "party and bulls**t soundtrack version"
+        ]
+      },
+      {
+        "id": "rap-249",
+        "artist": "Eminem",
+        "title": "The Monster",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/d4/08/31d40803-631b-7072-ba49-a49195065d8b/mzaf_11049316798086142587.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f4/ae/5c/f4ae5c21-bfe1-e99e-4732-a2b6cf006848/00602537542727.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "the monster"
+        ]
+      },
+      {
+        "id": "rap-250",
+        "artist": "Eminem",
+        "title": "Lucky You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/57/ac/f057ac69-84d3-bf82-080f-08a92c83e919/mzaf_10006561182856190772.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c2/54/03c2540d-b9f3-9807-b429-da23cbb854a2/00602577046421.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "eminem",
+          "slim shady",
+          "marshall mathers"
+        ],
+        "aliasesTitle": [
+          "lucky you"
+        ]
       }
     ]
   },
@@ -2966,6 +5419,2247 @@ export const PLAYLISTS = {
         ],
         "aliasesTitle": [
           "get busy"
+        ]
+      },
+      {
+        "id": "pop-101",
+        "artist": "The Pussycat Dolls",
+        "title": "Buttons",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/0c/09/b40c0995-ffdb-6490-9e15-37b911013e55/mzaf_9300140619723546588.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/51/d0/ad51d0f5-b908-701d-b302-38a0811d5e75/06UMGIM20415.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "the pussycat dolls",
+          "pussycat dolls"
+        ],
+        "aliasesTitle": [
+          "buttons"
+        ]
+      },
+      {
+        "id": "pop-102",
+        "artist": "Eiffel 65",
+        "title": "Blue (Da Ba Dee) [Gabry Ponte Ice Pop Mix]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/69/25/5b6925d7-c90c-10eb-09b9-895b5b216da1/mzaf_15634846101520322035.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a9/ec/b3/a9ecb373-0ea0-4117-9a68-03f513bae597/mzi.iwxdpjun.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "eiffel 65"
+        ],
+        "aliasesTitle": [
+          "blue (da ba dee) [gabry ponte ice pop mix]",
+          "blue da ba dee [gabry ponte ice pop mix]"
+        ]
+      },
+      {
+        "id": "pop-103",
+        "artist": "Coldplay",
+        "title": "Yellow",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/f3/1a/66f31a76-a6ed-cb4c-f353-23310a7ae9a8/mzaf_10593596652344378873.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "yellow"
+        ]
+      },
+      {
+        "id": "pop-104",
+        "artist": "Rihanna",
+        "title": "Stay",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/8e/7f/388e7f9c-4342-87ce-dc25-a7a580d8ea1f/mzaf_17364786415799689781.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/72/50/d3725004-0117-e76d-47f3-00b185e9dd82/12UMGIM59888.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "stay"
+        ]
+      },
+      {
+        "id": "pop-105",
+        "artist": "Rihanna",
+        "title": "Diamonds",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/97/fb/2697fb36-8ef2-9d18-0a2e-6545947b4445/mzaf_9032202105098805603.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/1a/10/a01a1080-7b1d-e475-a03c-394e5cbba66c/12UMGIM53876.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "diamonds"
+        ]
+      },
+      {
+        "id": "pop-106",
+        "artist": "Rihanna",
+        "title": "Breakin' Dishes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/f3/50/cdf350d8-e174-12c2-752e-50b938dedbcc/mzaf_7360164779899759096.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "breakin' dishes",
+          "breakin dishes"
+        ]
+      },
+      {
+        "id": "pop-107",
+        "artist": "Rihanna",
+        "title": "SOS",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/33/1a/14331a37-869e-6bf2-1948-6d247604ddad/mzaf_10059486702684661535.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/35/c6/58/35c65858-52cd-94f5-2f8f-fbaa811a49da/16UMGIM58854.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "sos"
+        ]
+      },
+      {
+        "id": "pop-108",
+        "artist": "Rihanna",
+        "title": "Desperado",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/ce/9e/acce9ec7-5c34-7ea4-bf77-3786b1341133/mzaf_8908283945994785035.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "desperado"
+        ]
+      },
+      {
+        "id": "pop-109",
+        "artist": "Rihanna",
+        "title": "Dancing In the Dark",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/46/0e/b1460e25-ef69-ed5f-f6fd-00cb1a1cd08f/mzaf_6130690546447438371.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/4d/be/1d4dbe81-de1a-c3b7-4541-d0cb0072202c/15UMGIM13700.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "dancing in the dark"
+        ]
+      },
+      {
+        "id": "pop-110",
+        "artist": "Rihanna",
+        "title": "We Found Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/4a/30/b04a30d4-edb9-a31c-2a0d-255c9c0a1b23/mzaf_6763945702626450264.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/23/7b/74237b93-8346-5fe1-b1eb-938808910c5d/11UMGIM38936.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "we found love"
+        ]
+      },
+      {
+        "id": "pop-111",
+        "artist": "Calvin Harris & Rihanna",
+        "title": "This Is What You Came For",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/b2/a0/22b2a00e-9734-1c46-855c-09470c9edc14/mzaf_14283555684840743291.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/57/a6/5957a66e-fb10-4065-5739-7c54236339e4/886445857290.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "calvin harris & rihanna",
+          "calvin harris and rihanna"
+        ],
+        "aliasesTitle": [
+          "this is what you came for"
+        ]
+      },
+      {
+        "id": "pop-112",
+        "artist": "Rihanna",
+        "title": "Unfaithful",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/02/81/3b0281f9-a1f3-0c20-b50d-ad1dbd0f48b7/mzaf_3444693158619868872.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/35/c6/58/35c65858-52cd-94f5-2f8f-fbaa811a49da/16UMGIM58854.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "unfaithful"
+        ]
+      },
+      {
+        "id": "pop-113",
+        "artist": "Rihanna and Kanye West and Paul McCartney",
+        "title": "FourFiveSeconds",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/c1/2a/afc12aaa-d0de-1f7e-7df4-69919c0cdebc/mzaf_12312350436246759333.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/f2/24/b1f224ad-40fb-ae22-b632-de330c70b540/00602547235398.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "rihanna and kanye west and paul mccartney",
+          "rihanna & kanye west & paul mccartney",
+          "kanye",
+          "ye"
+        ],
+        "aliasesTitle": [
+          "fourfiveseconds"
+        ]
+      },
+      {
+        "id": "pop-114",
+        "artist": "Rihanna",
+        "title": "Where Have You Been",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/72/89/c57289d3-52b5-4d54-c849-fb45254693c8/mzaf_4117001700276232725.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ae/46/51/ae465169-b0a4-3c10-42a0-63e4448d1508/16UMGIM59230.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "where have you been"
+        ]
+      },
+      {
+        "id": "pop-115",
+        "artist": "Rihanna",
+        "title": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/20/b8/9520b8b2-c0c9-5fb0-d5c4-da3452c28d80/mzaf_5804957449346517558.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/17/80/461780d4-8620-3e89-7cc4-7f1f08152924/22UM1IM24755.rgb.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "lift me up (from black panther: wakanda forever - music from and inspired by)",
+          "lift me up from black panther wakanda forever music from and inspired by"
+        ]
+      },
+      {
+        "id": "pop-116",
+        "artist": "Rihanna",
+        "title": "Same Ol’ Mistakes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/56/94/445694c9-7792-b6ae-6408-092415d811a5/mzaf_8184366983870758888.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "same ol’ mistakes"
+        ]
+      },
+      {
+        "id": "pop-117",
+        "artist": "Rihanna",
+        "title": "Rehab",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/26/9a/b9269ac5-8c9a-4686-7903-40897737e028/mzaf_11024078486761399051.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "rehab"
+        ]
+      },
+      {
+        "id": "pop-118",
+        "artist": "Rihanna",
+        "title": "Hate That I Love You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/d7/27/efd72781-97ab-2886-f3e1-7bbb42aecb73/mzaf_5259283354282093543.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "rihanna"
+        ],
+        "aliasesTitle": [
+          "hate that i love you"
+        ]
+      },
+      {
+        "id": "pop-119",
+        "artist": "Britney Spears",
+        "title": "Oops!…I Did It Again",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/fa/77/d8fa770b-a342-c0e9-9af2-8807c8e236b8/mzaf_16428789446546576226.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/9d/97/d59d9769-1369-854f-1681-4901a6d8361b/012414170422.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "oops!…i did it again",
+          "oops …i did it again"
+        ]
+      },
+      {
+        "id": "pop-120",
+        "artist": "Britney Spears",
+        "title": "I'm a Slave 4 U",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/88/bf/fe88bf24-5e46-997f-4a90-19be838b87b1/mzaf_15503501772600270554.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/6a/22/a36a227f-584e-b951-d494-2576b6eab2db/888880447609.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "i'm a slave 4 u",
+          "i m a slave 4 u",
+          "im a slave 4 u"
+        ]
+      },
+      {
+        "id": "pop-121",
+        "artist": "Britney Spears",
+        "title": "Lucky",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/0b/d6/a50bd60b-7295-1351-9f52-230bf4f8638c/mzaf_15075916858908336688.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/9d/97/d59d9769-1369-854f-1681-4901a6d8361b/012414170422.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "lucky"
+        ]
+      },
+      {
+        "id": "pop-122",
+        "artist": "Britney Spears",
+        "title": "(You Drive Me) Crazy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/70/51/db7051a7-07f9-0ffe-1c83-c8e75a401e26/mzaf_4194547178725012802.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "(you drive me) crazy",
+          "you drive me crazy"
+        ]
+      },
+      {
+        "id": "pop-123",
+        "artist": "Britney Spears",
+        "title": "Sometimes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/22/c9/3322c91d-d979-9c8b-0d30-8a68091253e8/mzaf_9711420074544491480.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "sometimes"
+        ]
+      },
+      {
+        "id": "pop-124",
+        "artist": "Britney Spears",
+        "title": "If U Seek Amy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/9c/72/2d9c72c4-353a-a8ff-0d50-11227ffc4819/mzaf_3452762162180800678.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/bb/3f/23/bb3f234d-10c9-e2dc-a6ec-6b6999f31886/888880913975.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "if u seek amy"
+        ]
+      },
+      {
+        "id": "pop-125",
+        "artist": "Britney Spears",
+        "title": "Piece of Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/9c/93/b79c93b1-cfdb-48d2-97a6-80e8b3faadd5/mzaf_3486581769859563106.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/48/eb/0548eb35-348c-a4c9-d245-8003d81214a6/884977724936.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "piece of me"
+        ]
+      },
+      {
+        "id": "pop-126",
+        "artist": "Britney Spears",
+        "title": "Everytime",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/24/91/f2249140-6ba1-9933-d276-59302f67ca5e/mzaf_6124348992790889245.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8b/7a/388b7a8f-10ff-a4e0-7624-65e29ac6a793/828765374828.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "everytime"
+        ]
+      },
+      {
+        "id": "pop-127",
+        "artist": "Britney Spears",
+        "title": "Stronger",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/39/f1/6739f184-89d9-4594-513e-62b15c2ca63c/mzaf_3223653369358724164.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/9d/97/d59d9769-1369-854f-1681-4901a6d8361b/012414170422.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "stronger"
+        ]
+      },
+      {
+        "id": "pop-128",
+        "artist": "Britney Spears",
+        "title": "My Prerogative",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/d8/9d/0ad89d4b-defb-deea-fa9a-e684a9ac29b7/mzaf_3654600690192517156.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/09/1d/6a091d79-1548-96dd-40ee-34d03823bd7f/dj.ykkseugw.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "my prerogative"
+        ]
+      },
+      {
+        "id": "pop-129",
+        "artist": "Britney Spears",
+        "title": "Till the World Ends",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/28/30/e9283041-350a-bf36-8375-1d40828aa5ca/mzaf_12970138973682672438.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b5/e1/f6b5e110-5ae3-1db4-ae81-e8d59d0e1c92/884977898842.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "till the world ends"
+        ]
+      },
+      {
+        "id": "pop-130",
+        "artist": "Elton John & Britney Spears",
+        "title": "Hold Me Closer",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/f2/68/bcf2685e-40a0-79e3-3ecb-cb1bc5bf7258/mzaf_10552679888358902679.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/79/8d/44798d46-1503-f69a-03a0-050762fd0e8b/22UMGIM92163.rgb.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "elton john & britney spears",
+          "elton john and britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "hold me closer"
+        ]
+      },
+      {
+        "id": "pop-131",
+        "artist": "Britney Spears",
+        "title": "Criminal",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/e9/ad/bbe9ad70-3141-951d-49f3-d7d2045f855c/mzaf_2723233998202938723.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b5/e1/f6b5e110-5ae3-1db4-ae81-e8d59d0e1c92/884977898842.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "criminal"
+        ]
+      },
+      {
+        "id": "pop-132",
+        "artist": "Britney Spears",
+        "title": "Me Against the Music [Video Mix]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/54/67/99546757-abc5-5b69-7995-02b4fd9d6983/mzaf_15952917338669731158.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8b/7a/388b7a8f-10ff-a4e0-7624-65e29ac6a793/828765374828.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "me against the music [video mix]"
+        ]
+      },
+      {
+        "id": "pop-133",
+        "artist": "Britney Spears",
+        "title": "I Wanna Go",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/c2/12/3ac21248-ac45-a387-4419-62f3eb5169e0/mzaf_14461495068086156261.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b5/e1/f6b5e110-5ae3-1db4-ae81-e8d59d0e1c92/884977898842.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "i wanna go"
+        ]
+      },
+      {
+        "id": "pop-134",
+        "artist": "Britney Spears",
+        "title": "Make Me...",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/31/37/b5313769-ad7e-6ee9-8236-3d64bad451c9/mzaf_3318697797823289222.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/ba/5a/dbba5a79-167c-c16c-0ba4-1a639efd9f20/886448939221.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "make me...",
+          "make me"
+        ]
+      },
+      {
+        "id": "pop-135",
+        "artist": "Britney Spears",
+        "title": "(I Got That) Boom Boom",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/99/3a/c7993a7a-5788-de0e-0572-bebf396d4bb5/mzaf_9060596660583896742.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8b/7a/388b7a8f-10ff-a4e0-7624-65e29ac6a793/828765374828.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "(i got that) boom boom",
+          "i got that boom boom"
+        ]
+      },
+      {
+        "id": "pop-136",
+        "artist": "Britney Spears",
+        "title": "Born to Make You Happy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/28/98/ce28988a-f0b7-4952-0e86-27481d8fcacb/mzaf_9731418826115281595.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "britney spears",
+          "britney"
+        ],
+        "aliasesTitle": [
+          "born to make you happy"
+        ]
+      },
+      {
+        "id": "pop-137",
+        "artist": "Lady Gaga",
+        "title": "Always Remember Us This Way",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/b8/f3/e4b8f37d-91b4-ca6f-d903-604bb3ada165/mzaf_17531851350070402784.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "always remember us this way"
+        ]
+      },
+      {
+        "id": "pop-138",
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "Shallow",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/cc/ed/0ccced59-6e6f-f0a0-0c9a-d20bfd475052/mzaf_26600833784075363.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "lady gaga & bradley cooper",
+          "lady gaga and bradley cooper",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "shallow"
+        ]
+      },
+      {
+        "id": "pop-139",
+        "artist": "Lady Gaga & Bruno Mars",
+        "title": "Die With A Smile",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/6a/99/076a99ed-b946-431b-6f1f-54fa187ca5bd/mzaf_8102882277995122875.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "lady gaga & bruno mars",
+          "lady gaga and bruno mars",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "die with a smile"
+        ]
+      },
+      {
+        "id": "pop-140",
+        "artist": "Lady Gaga",
+        "title": "Judas",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/43/75/0c437569-cb18-d647-b887-150e8ac8f76e/mzaf_4164071903328598127.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "judas"
+        ]
+      },
+      {
+        "id": "pop-141",
+        "artist": "Lady Gaga & Ariana Grande",
+        "title": "Rain On Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/76/5f/a1765f7c-aef6-30bb-a7fa-8cf5ffa7c8eb/mzaf_10411470290548767583.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/4d/f9/5d4df96a-e95e-2fe9-404a-5d570513762d/20UMGIM15390.rgb.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "lady gaga & ariana grande",
+          "lady gaga and ariana grande",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "rain on me"
+        ]
+      },
+      {
+        "id": "pop-142",
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "I'll Never Love Again (Film Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/ae/e9/8eaee950-3c19-fc33-15e9-3cf1972560f6/mzaf_1576734710845153766.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "lady gaga & bradley cooper",
+          "lady gaga and bradley cooper",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "i'll never love again (film version)",
+          "i ll never love again film version",
+          "ill never love again (film version)"
+        ]
+      },
+      {
+        "id": "pop-143",
+        "artist": "Lady Gaga",
+        "title": "Million Reasons",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/70/0e/f4700ede-2a8b-c211-1380-ea2ce0a4c7cc/mzaf_14741434670061693684.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/4d/e7/9d4de749-9247-c87c-b200-ea0434c51100/16UMGIM68302.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "million reasons"
+        ]
+      },
+      {
+        "id": "pop-144",
+        "artist": "Lady Gaga",
+        "title": "Applause",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/d7/e9/e1d7e9de-ba38-9ed8-a336-429b078c1517/mzaf_10486153033645638575.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/33/64/0c336478-aaa9-95dc-d373-f6fb8510b170/13UAAIM69752.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "applause"
+        ]
+      },
+      {
+        "id": "pop-145",
+        "artist": "Lady Gaga",
+        "title": "Yoü and I",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/da/8d/56da8d23-8f04-b2a2-c067-21a514f0e773/mzaf_12957696953783794110.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "yoü and i"
+        ]
+      },
+      {
+        "id": "pop-146",
+        "artist": "Lady Gaga",
+        "title": "LoveGame",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/7d/2c/797d2c22-5218-c26f-a0a8-faf48d803cf7/mzaf_8319968087788809385.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/68/28/a66828c0-3fe3-5419-374d-ad98739f3166/08UMGIM13954.rgb.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "lovegame"
+        ]
+      },
+      {
+        "id": "pop-147",
+        "artist": "Lady Gaga",
+        "title": "The Cure",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/7c/56/9c7c5636-d019-74b5-56ba-84f40b01dfab/mzaf_11397362628090492062.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/f1/86/c4f186ea-1742-5e73-64c7-9179fc4b8566/00602557652536.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "the cure"
+        ]
+      },
+      {
+        "id": "pop-148",
+        "artist": "Lady Gaga",
+        "title": "Bloody Mary",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d9/fd/a9d9fdbe-0718-8d5e-fd2a-91bf05bbcc4c/mzaf_6014557621905797616.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "bloody mary"
+        ]
+      },
+      {
+        "id": "pop-149",
+        "artist": "Lady Gaga",
+        "title": "The Edge of Glory",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/53/9b/72539bcd-cd48-ef0b-431a-51474268f3f5/mzaf_5808317234516900035.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "the edge of glory"
+        ]
+      },
+      {
+        "id": "pop-150",
+        "artist": "Lady Gaga",
+        "title": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/bc/3f/41bc3f0d-2570-7efc-d8c2-893b860dbfff/mzaf_15746704449626026617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/63/f7/bf63f79c-2b0d-92bc-9b4a-4c454b473fdf/22UMGIM46440.rgb.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "hold my hand (music from the motion picture \"top gun: maverick\")",
+          "hold my hand music from the motion picture top gun maverick"
+        ]
+      },
+      {
+        "id": "pop-151",
+        "artist": "Lady Gaga",
+        "title": "Monster",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/cd/e6/c9cde646-9608-f5b3-a509-6634b7156f9b/mzaf_859474105841030116.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/25/c4/1f25c4bf-7f7a-ff26-8769-20ab6052dadf/09UMGIM40719.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "lady gaga",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "monster"
+        ]
+      },
+      {
+        "id": "pop-152",
+        "artist": "Lady Gaga & Bradley Cooper",
+        "title": "I Don't Know What Love Is",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/bb/b3/30bbb359-4192-728c-b64a-be6562c3abce/mzaf_500346830626359161.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "lady gaga & bradley cooper",
+          "lady gaga and bradley cooper",
+          "gaga"
+        ],
+        "aliasesTitle": [
+          "i don't know what love is",
+          "i don t know what love is",
+          "i dont know what love is"
+        ]
+      },
+      {
+        "id": "pop-153",
+        "artist": "Beyoncé",
+        "title": "Dance For You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/db/b7/addbb7a7-198d-8b72-dfe3-3570c13d665f/mzaf_6660447499617120187.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "dance for you"
+        ]
+      },
+      {
+        "id": "pop-154",
+        "artist": "Beyoncé",
+        "title": "Best Thing I Never Had",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/8f/a7/b88fa7a6-9f9f-146a-2ac2-769bccbb88f6/mzaf_15169228536259231032.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "best thing i never had"
+        ]
+      },
+      {
+        "id": "pop-155",
+        "artist": "Beyoncé",
+        "title": "1+1",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/6c/b8/ed6cb822-e7eb-adf5-2454-87a5c2c7b4a3/mzaf_8125705985865655518.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "1+1"
+        ]
+      },
+      {
+        "id": "pop-156",
+        "artist": "Beyoncé",
+        "title": "MORNING DEW (DONK)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/cd/1e/bacd1e41-e6d1-b6d0-6b55-744ec7967674/mzaf_2867499713745151161.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/65/3d/3f653d87-197c-084c-dca2-0c6e0ca742c9/196874580721.jpg/600x600bb.jpg",
+        "year": "2026",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "morning dew (donk)",
+          "morning dew donk"
+        ]
+      },
+      {
+        "id": "pop-157",
+        "artist": "Beyoncé",
+        "title": "Pretty Hurts",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/10/ea/4d10eae1-6b35-fa33-c4ac-c49dd9827e78/mzaf_14248871147533852702.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/13/27/cf/1327cfb1-ff1c-5b53-d92b-da3b78155e00/dj.ixakzkan.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "pretty hurts"
+        ]
+      },
+      {
+        "id": "pop-158",
+        "artist": "Beyoncé",
+        "title": "Party",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/66/39/6c663934-1824-296e-51b2-d317a0bd5dbd/mzaf_6473073976004648293.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "party"
+        ]
+      },
+      {
+        "id": "pop-159",
+        "artist": "Beyoncé",
+        "title": "Baby Boy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/75/d6/1275d609-f789-ff73-48e7-e29e2cc5b37b/mzaf_12711204123938530062.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/c5/d4/mzi.ldvrmhxt.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "baby boy"
+        ]
+      },
+      {
+        "id": "pop-160",
+        "artist": "Beyoncé",
+        "title": "Xo",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/a1/31/1fa131a1-f293-4772-a2a6-a1026b073f2d/mzaf_12596481995410682437.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/13/27/cf/1327cfb1-ff1c-5b53-d92b-da3b78155e00/dj.ixakzkan.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "xo"
+        ]
+      },
+      {
+        "id": "pop-161",
+        "artist": "Beyoncé",
+        "title": "Love On Top",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/0d/43/fe0d4311-3027-745d-759b-aec3354a54e7/mzaf_10947966188805060685.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "love on top"
+        ]
+      },
+      {
+        "id": "pop-162",
+        "artist": "Beyoncé",
+        "title": "I Was Here",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/12/a5/8212a5e7-b202-ddf3-5d7c-e8747017e06d/mzaf_11776863853882778117.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/6b/3f/c96b3ff3-9cf6-4ce6-05aa-9f11474bd569/886443938373.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "i was here"
+        ]
+      },
+      {
+        "id": "pop-163",
+        "artist": "Beyoncé",
+        "title": "IRREEMPLAZABLE (COMO LA FLOR)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/83/e5/7083e531-861c-ace4-0f64-34eefb9e7b16/mzaf_14995819154850265806.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/b2/be/83b2be70-affe-43f8-00f5-8c9dd5d4f1a3/196874746608.jpg/600x600bb.jpg",
+        "year": "2026",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "irreemplazable (como la flor)",
+          "irreemplazable como la flor"
+        ]
+      },
+      {
+        "id": "pop-164",
+        "artist": "Beyoncé",
+        "title": "I'd Rather Go Blind",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/db/e9/cddbe9f3-8070-e4d2-4b1f-37641d6f1add/mzaf_8427018701917084810.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/92/a1/41/92a1418f-921f-660e-b8ae-cdccda8666a4/mzi.ctbklekr.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "i'd rather go blind",
+          "i d rather go blind",
+          "id rather go blind"
+        ]
+      },
+      {
+        "id": "pop-165",
+        "artist": "Beyoncé",
+        "title": "Upgrade U",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/a7/ed/12a7ed81-cd08-d37b-86e4-d2e08adf8dcf/mzaf_11725120354707257601.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/b2/b2/47b2b26b-5abd-0953-6688-7dfff80508ec/mzi.sozuruch.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "upgrade u"
+        ]
+      },
+      {
+        "id": "pop-166",
+        "artist": "Beyoncé",
+        "title": "Get Me Bodied (Extended Mix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/fb/97/87fb97b6-bb5f-c32c-2cdc-133f5958177f/mzaf_3722656375084604337.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/b2/b2/47b2b26b-5abd-0953-6688-7dfff80508ec/mzi.sozuruch.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "get me bodied (extended mix)",
+          "get me bodied extended mix"
+        ]
+      },
+      {
+        "id": "pop-167",
+        "artist": "Beyoncé",
+        "title": "Me, Myself and I",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/bd/fa/bcbdfa3b-fc8c-ee99-fa2c-472282bcd447/mzaf_14541690557864748086.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/c5/d4/mzi.ldvrmhxt.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "me, myself and i",
+          "me myself and i"
+        ]
+      },
+      {
+        "id": "pop-168",
+        "artist": "Beyoncé",
+        "title": "BREAK MY SOUL",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/60/b4/fa60b48b-5906-0a64-6853-92b5c648c953/mzaf_1241862116086704234.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "beyoncé"
+        ],
+        "aliasesTitle": [
+          "break my soul"
+        ]
+      },
+      {
+        "id": "pop-169",
+        "artist": "Katy Perry",
+        "title": "The One That Got Away",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/c7/2f/5dc72faa-7d5d-c365-6086-ba4ba852e600/mzaf_9603281121023548617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/d3/42/c8d342af-26d9-3ec2-c511-e1eaf860e299/13UABIM57787.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "the one that got away"
+        ]
+      },
+      {
+        "id": "pop-170",
+        "artist": "Katy Perry",
+        "title": "Last Friday Night (T.G.I.F.)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/81/2c/70812ca0-0fab-f545-53ab-3dac6953431f/mzaf_16382616307619959787.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/d3/42/c8d342af-26d9-3ec2-c511-e1eaf860e299/13UABIM57787.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "last friday night (t.g.i.f.)",
+          "last friday night t g i f"
+        ]
+      },
+      {
+        "id": "pop-171",
+        "artist": "Katy Perry",
+        "title": "Dark Horse",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/80/b7/c780b757-f2e8-9e40-c5b9-dd28b5fe1296/mzaf_9911645771464051186.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "dark horse"
+        ]
+      },
+      {
+        "id": "pop-172",
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/a8/76/21a87607-1fe3-2bd2-753c-0b4b73c22b90/mzaf_9666996724668759977.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "roar"
+        ]
+      },
+      {
+        "id": "pop-173",
+        "artist": "Katy Perry",
+        "title": "Wide Awake",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/d7/2b/6bd72b85-de4d-a3d7-7496-9190a235bddd/mzaf_12871370393848855065.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "wide awake"
+        ]
+      },
+      {
+        "id": "pop-174",
+        "artist": "Katy Perry",
+        "title": "E.T.",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/34/98/99349884-a46e-a682-f332-e6a4fa6f3552/mzaf_10867555193320247439.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "e.t.",
+          "e t"
+        ]
+      },
+      {
+        "id": "pop-175",
+        "artist": "Katy Perry",
+        "title": "Part of Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/a4/32/0ca432eb-fc53-8a08-acdd-55d9dcab98b0/mzaf_4093649230372607608.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "part of me"
+        ]
+      },
+      {
+        "id": "pop-176",
+        "artist": "Katy Perry",
+        "title": "Legendary Lovers",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/c1/a8/18c1a8e3-a59e-cf93-f39a-3a69ad1a48d0/mzaf_15041925356192754079.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "legendary lovers"
+        ]
+      },
+      {
+        "id": "pop-177",
+        "artist": "Katy Perry",
+        "title": "Thinking of You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/ba/4e/abba4edc-5ff1-5489-54ce-a4f04d7a2652/mzaf_13184175478173149629.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/0c/75/b00c753b-62e1-2e3a-b7f1-50f2aa525afa/23UMGIM67793.rgb.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "thinking of you"
+        ]
+      },
+      {
+        "id": "pop-178",
+        "artist": "Katy Perry",
+        "title": "Unconditionally",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/e7/a6/39e7a691-414f-6ad7-f8a8-7a23a6e8f9ec/mzaf_6901712793497115205.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "unconditionally"
+        ]
+      },
+      {
+        "id": "pop-179",
+        "artist": "Katy Perry",
+        "title": "Never Really Over",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/d3/38/6fd33818-94f5-04e7-5c99-dc2ffff379c4/mzaf_10334074565698322062.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/ba/ba/80baba63-2c11-d744-5182-5efe9d96c64b/19UMGIM45431.rgb.jpg/600x600bb.jpg",
+        "year": "2019",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "never really over"
+        ]
+      },
+      {
+        "id": "pop-180",
+        "artist": "Katy Perry",
+        "title": "Rise",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/dd/07/13dd0729-83f6-f64e-3ae1-7c8ffd5e4f30/mzaf_15091407026774360942.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/b3/31/f5b3314b-3055-9f4c-def1-0d219878bb8f/16UMGIM55274.rgb.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "rise"
+        ]
+      },
+      {
+        "id": "pop-181",
+        "artist": "Katy Perry",
+        "title": "Bon Appétit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/cb/60/b3cb60cb-b0dd-3953-cf5c-c15367fa726e/mzaf_8098962253662038496.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/d7/ec/e1d7ec59-20d4-7bc6-b402-2fde39caf7e5/17UMGIM99425.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "bon appétit"
+        ]
+      },
+      {
+        "id": "pop-182",
+        "artist": "Katy Perry",
+        "title": "Harleys in Hawaii",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/5d/25/045d25a6-4101-5b28-3810-f407b2cf9ab8/mzaf_486992445422383032.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/8f/a4/fd8fa48c-55bd-5eca-b375-98cb2f98bb7a/19UMGIM91148.rgb.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "harleys in hawaii"
+        ]
+      },
+      {
+        "id": "pop-183",
+        "artist": "Katy Perry",
+        "title": "Chained To The Rhythm",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/25/41/5525418f-feff-ea71-bdb6-6252dfd84894/mzaf_7733622335551442833.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/d7/ec/e1d7ec59-20d4-7bc6-b402-2fde39caf7e5/17UMGIM99425.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "chained to the rhythm"
+        ]
+      },
+      {
+        "id": "pop-184",
+        "artist": "Katy Perry",
+        "title": "Daisies",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/ca/63/d7ca63ab-a68c-7d48-5279-fc47b7d45609/mzaf_18137744055661711181.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/b5/4e/fbb54eee-730f-22b9-5ac7-d347e465e502/20UMGIM31844.rgb.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "katy perry"
+        ],
+        "aliasesTitle": [
+          "daisies"
+        ]
+      },
+      {
+        "id": "pop-185",
+        "artist": "Black Eyed Peas",
+        "title": "Meet Me Halfway",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/16/77/66167790-baa0-5023-fb5d-e9adb365aaf1/mzaf_14321187790280755105.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/fc/47/42fc4794-3c69-8c00-e528-1c7e92b5ac93/09UMGIM13833.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "meet me halfway"
+        ]
+      },
+      {
+        "id": "pop-186",
+        "artist": "Black Eyed Peas",
+        "title": "Just Can't Get Enough",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/a4/50/bea45010-4616-54fe-06a9-f05974295adf/mzaf_14887498129012842732.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/02/500502db-7560-d457-9269-085d1ad4b9e1/10UMGIM29127.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "just can't get enough",
+          "just can t get enough",
+          "just cant get enough"
+        ]
+      },
+      {
+        "id": "pop-187",
+        "artist": "Black Eyed Peas",
+        "title": "Rock That Body",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/a5/62/0ba562f2-0e2f-7b63-851f-241dbb33f439/mzaf_792844016861530165.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b9/6c/41b96c5e-b03c-0b5d-1ad2-599f4eb50fec/09UMGIM13834.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "rock that body"
+        ]
+      },
+      {
+        "id": "pop-188",
+        "artist": "Black Eyed Peas",
+        "title": "Ba Bump (Erick Sermon Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/4e/e1/a64ee131-a10e-b12e-5439-71f264da04d8/mzaf_825374331679917876.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4e/aa/804eaae6-4d45-baa2-573e-cf124016835b/06UMGIM22761.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "ba bump (erick sermon remix)",
+          "ba bump erick sermon remix"
+        ]
+      },
+      {
+        "id": "pop-189",
+        "artist": "Black Eyed Peas",
+        "title": "Feel It (Jazzy Jeff Soulful Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/55/05/4c5505c6-e58a-a6b3-1749-7ac4f79bbfee/mzaf_7672616521088060016.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4e/aa/804eaae6-4d45-baa2-573e-cf124016835b/06UMGIM22761.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "feel it (jazzy jeff soulful remix)",
+          "feel it jazzy jeff soulful remix"
+        ]
+      },
+      {
+        "id": "pop-190",
+        "artist": "Black Eyed Peas",
+        "title": "They Don't Want Music [Pete Rock Remix]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/8d/a4/e18da4ca-68c5-884b-cc63-47b9593c162d/mzaf_2908207516252288404.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/9e/f0/6b9ef01d-51af-9d08-c1a6-896599088657/06UMGIM22763.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "they don't want music [pete rock remix]",
+          "they don t want music [pete rock remix]",
+          "they dont want music [pete rock remix]"
+        ]
+      },
+      {
+        "id": "pop-191",
+        "artist": "Black Eyed Peas",
+        "title": "Like That",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/16/2f/1d162f37-110f-e9f4-ac03-52fcb8167286/mzaf_10976296145907280207.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/9e/f0/6b9ef01d-51af-9d08-c1a6-896599088657/06UMGIM22763.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "like that"
+        ]
+      },
+      {
+        "id": "pop-192",
+        "artist": "Black Eyed Peas",
+        "title": "Audio Delite at Low Fidelity (Edit)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/82/5d/89825d24-b3eb-bfa4-2966-e7afcac3c138/mzaf_17386795145842862146.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/9e/f0/6b9ef01d-51af-9d08-c1a6-896599088657/06UMGIM22763.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "audio delite at low fidelity (edit)",
+          "audio delite at low fidelity edit"
+        ]
+      },
+      {
+        "id": "pop-193",
+        "artist": "Black Eyed Peas",
+        "title": "My Style [DJ Premiere Remix (Edited Version)]",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/bd/39/acbd39e0-4f9c-3738-157a-bf57dfc3be8d/mzaf_14788777148264661159.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4e/aa/804eaae6-4d45-baa2-573e-cf124016835b/06UMGIM22761.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "my style [dj premiere remix (edited version)]",
+          "my style [dj premiere remix edited version ]"
+        ]
+      },
+      {
+        "id": "pop-194",
+        "artist": "Black Eyed Peas",
+        "title": "My Humps",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/e1/21/e8e12185-075c-afc9-c72a-5dd8922788cd/mzaf_11591028289963248907.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/63/b0/47/63b0476f-3cc6-276a-f09e-ab415db818cd/00602498372425.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "my humps"
+        ]
+      },
+      {
+        "id": "pop-195",
+        "artist": "Black Eyed Peas",
+        "title": "Disco Club (Large Pro Peas Remix (Edited Version))",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/45/a3/1245a35c-3048-3155-d9c7-49445d3928c1/mzaf_9527940282064821226.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4e/aa/804eaae6-4d45-baa2-573e-cf124016835b/06UMGIM22761.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "disco club (large pro peas remix (edited version))",
+          "disco club large pro peas remix edited version"
+        ]
+      },
+      {
+        "id": "pop-196",
+        "artist": "Black Eyed Peas",
+        "title": "The Time (Dirty Bit)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/a4/ad/2ba4adad-25c2-cc83-5da2-252a8387ca7d/mzaf_5673500660876383424.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/02/500502db-7560-d457-9269-085d1ad4b9e1/10UMGIM29127.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "the time (dirty bit)",
+          "the time dirty bit"
+        ]
+      },
+      {
+        "id": "pop-197",
+        "artist": "Black Eyed Peas",
+        "title": "Let's Get It Started (Spike Mix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/96/d4/1196d4cd-53c4-78a8-34a2-f2cbac7cc902/mzaf_441022540575391616.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/a3/a1/05a3a1aa-c472-a7f2-4d8b-9eacff8a1e43/22UMGIM30753.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "let's get it started (spike mix)",
+          "let s get it started spike mix",
+          "lets get it started (spike mix)"
+        ]
+      },
+      {
+        "id": "pop-198",
+        "artist": "Black Eyed Peas",
+        "title": "My Humps (Lil Jon Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/6e/90/866e9034-5ff6-c213-bf9d-9ee1cfefe430/mzaf_17145470259391851297.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "my humps (lil jon remix)",
+          "my humps lil jon remix"
+        ]
+      },
+      {
+        "id": "pop-199",
+        "artist": "Black Eyed Peas",
+        "title": "Pump It (iTunes Originals Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/a5/a8/f0a5a835-38d3-ccd8-f5f2-7080ba599601/mzaf_654199051538666806.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/d2/87/74d287cf-d189-71d2-5582-be8f926692ca/06UMGIM22745.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "black eyed peas",
+          "bep"
+        ],
+        "aliasesTitle": [
+          "pump it (itunes originals version)",
+          "pump it itunes originals version"
+        ]
+      },
+      {
+        "id": "pop-200",
+        "artist": "Justin Timberlake",
+        "title": "My Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/f2/ec/a7f2ec11-47eb-1665-9cc3-d78c3fbcafdb/mzaf_16217457358228502699.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "my love"
+        ]
+      },
+      {
+        "id": "pop-201",
+        "artist": "Justin Timberlake",
+        "title": "What Goes Around.../...Comes Around (Interlude)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/e1/a2/07e1a210-52da-0a10-ed26-4e885ccaebdc/mzaf_3460180998281086974.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "what goes around.../...comes around (interlude)",
+          "what goes around / comes around interlude"
+        ]
+      },
+      {
+        "id": "pop-202",
+        "artist": "Justin Timberlake",
+        "title": "Until The End Of Time",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/ad/fa/ffadfa8e-0872-a01f-3973-dd67b7c0c2d7/mzaf_4627390932630204721.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "until the end of time"
+        ]
+      },
+      {
+        "id": "pop-203",
+        "artist": "Justin Timberlake",
+        "title": "CAN'T STOP THE FEELING!",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/41/2d/86412d20-2f4d-39fc-221b-3f643d7c99c6/mzaf_9909715182585785919.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/19/43/68194388-efa7-3afe-8a15-a4c3eebef1f6/886445915211.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "can't stop the feeling!",
+          "can t stop the feeling",
+          "cant stop the feeling!"
+        ]
+      },
+      {
+        "id": "pop-204",
+        "artist": "Justin Timberlake",
+        "title": "Summer Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/40/13/a4401346-5bbc-cc8f-04e7-e099a7ed57a7/mzaf_10532290561161905461.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/7a/a5/d57aa570-6a18-5f37-e80f-152a5e8ff1e0/888880017444.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "summer love"
+        ]
+      },
+      {
+        "id": "pop-205",
+        "artist": "Justin Timberlake & The Benjamin Wright Orchestra",
+        "title": "Until the End of Time",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/76/f2/8076f2a1-c096-c438-4677-27aadd31a165/mzaf_15459169101945961516.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "justin timberlake & the benjamin wright orchestra",
+          "justin timberlake and the benjamin wright orchestra",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "until the end of time"
+        ]
+      },
+      {
+        "id": "pop-206",
+        "artist": "Justin Timberlake",
+        "title": "Say Something",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/4c/6d/734c6d4e-3906-f48b-6e69-56cfb4615d68/mzaf_12604481431824317433.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9b/3d/a7/9b3da71d-0a60-69f0-41db-a33a60651a69/886446900759.jpg/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "say something"
+        ]
+      },
+      {
+        "id": "pop-207",
+        "artist": "Michael Jackson & Justin Timberlake",
+        "title": "Love Never Felt So Good",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/16/0e/9f160ede-3710-f87d-4fad-3e41ae637bab/mzaf_10685899540565310745.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/15/cc/8315ccdd-5a8d-8344-fa15-72e4cb64145e/886444533171.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "michael jackson & justin timberlake",
+          "michael jackson and justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "love never felt so good"
+        ]
+      },
+      {
+        "id": "pop-208",
+        "artist": "Justin Timberlake",
+        "title": "Señorita",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/ca/d5/66cad514-76d8-d0b8-36a1-1a3481697e75/mzaf_4552364977018667810.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "señorita"
+        ]
+      },
+      {
+        "id": "pop-209",
+        "artist": "Justin Timberlake",
+        "title": "Like I Love You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/cb/76/dfcb76a4-794f-f974-e870-b6ce0ab1c9aa/mzaf_2169736425632195540.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "like i love you"
+        ]
+      },
+      {
+        "id": "pop-210",
+        "artist": "Justin Timberlake",
+        "title": "Drink You Away",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/f9/e4/33f9e4cb-484f-1fa0-2f2d-8537c9b2ccaa/mzaf_4335987404672960866.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/d4/6e/b8d46eaf-afbf-c90d-9307-e2212177ec33/886444128278.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "drink you away"
+        ]
+      },
+      {
+        "id": "pop-211",
+        "artist": "Justin Timberlake",
+        "title": "Selfish",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/af/51/4daf514e-4de9-ea75-3e1f-8a280cd03ca8/mzaf_7947444927273181518.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/dc/dd/e4dcdd8c-1adb-fee4-d5cf-a1faba79b1b0/196871753425.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "selfish"
+        ]
+      },
+      {
+        "id": "pop-212",
+        "artist": "SZA & Justin Timberlake",
+        "title": "The Other Side",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/5e/04/2a5e0481-0d7e-f627-e059-42426521f109/mzaf_6626392284837546468.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/51/84/c2518439-d810-7f1f-c9ff-396c9fa7d266/886448132882.jpg/600x600bb.jpg",
+        "year": "2020",
+        "aliasesArtist": [
+          "sza & justin timberlake",
+          "sza and justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "the other side"
+        ]
+      },
+      {
+        "id": "pop-213",
+        "artist": "*NSYNC & Justin Timberlake",
+        "title": "Better Place (From TROLLS Band Together)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/93/6a/fa936a62-1003-cdd5-bfc3-c1bb7ddfc819/mzaf_16408075147853513698.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/48/37/5448378f-7944-5d21-4c8f-fd369b0ba6fa/196871241830.jpg/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "*nsync & justin timberlake",
+          "*nsync and justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "better place (from trolls band together)",
+          "better place from trolls band together"
+        ]
+      },
+      {
+        "id": "pop-214",
+        "artist": "Justin Timberlake, Gwen Stefani & Ron Funches",
+        "title": "Hair Up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/2b/cb/7c2bcb74-f315-2414-1f9f-76f68345de42/mzaf_2778869059156160074.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/19/43/68194388-efa7-3afe-8a15-a4c3eebef1f6/886445915211.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "justin timberlake, gwen stefani & ron funches",
+          "justin timberlake, gwen stefani and ron funches",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "hair up"
+        ]
+      },
+      {
+        "id": "pop-215",
+        "artist": "Justin Timberlake, Anna Kendrick, Gwen Stefani, James Corden, Zooey Deschanel, Ron Funches, Caroline Hjelt, Aino Jawo, Christopher Mintz-Plasse & Kunal Nayyar",
+        "title": "Can't Stop the Feeling! (Film Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/ff/6d/cdff6db9-f146-1a7b-211c-f9cccc4918f1/mzaf_8842111263702428841.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/19/43/68194388-efa7-3afe-8a15-a4c3eebef1f6/886445915211.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "justin timberlake, anna kendrick, gwen stefani, james corden, zooey deschanel, ron funches, caroline hjelt, aino jawo, christopher mintz-plasse & kunal nayyar",
+          "justin timberlake, anna kendrick, gwen stefani, james corden, zooey deschanel, ron funches, caroline hjelt, aino jawo, christopher mintz-plasse and kunal nayyar",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "can't stop the feeling! (film version)",
+          "can t stop the feeling film version",
+          "cant stop the feeling! (film version)"
+        ]
+      },
+      {
+        "id": "pop-216",
+        "artist": "Justin Timberlake",
+        "title": "That Girl",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/92/00/d99200ca-fb1b-fa90-4427-f24e8eae8007/mzaf_17607796179086253182.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/74/c9/5374c99e-cff1-61a6-ca0f-fa1219d050a0/886443854406.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "that girl"
+        ]
+      },
+      {
+        "id": "pop-217",
+        "artist": "Anna Kendrick & Justin Timberlake",
+        "title": "True Colors",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/3a/ae/9e3aaed1-8fec-a0d2-2fec-cc27e11c50da/mzaf_8632874733578992271.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/19/43/68194388-efa7-3afe-8a15-a4c3eebef1f6/886445915211.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "anna kendrick & justin timberlake",
+          "anna kendrick and justin timberlake",
+          "jt"
+        ],
+        "aliasesTitle": [
+          "true colors"
+        ]
+      },
+      {
+        "id": "pop-218",
+        "artist": "USHER",
+        "title": "U Got It Bad",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/b9/15/49b915dd-bbb4-eaa4-bd29-7cc9a9d00666/mzaf_17285419442186901219.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/1f/06/e71f062b-71c8-3b06-49d3-a0842a759684/078221471527.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "u got it bad"
+        ]
+      },
+      {
+        "id": "pop-219",
+        "artist": "USHER",
+        "title": "Love In This Club",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/bd/47/b5bd47bd-b6a7-220b-4588-e08b7172ea4a/mzaf_9680239665109470255.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "love in this club"
+        ]
+      },
+      {
+        "id": "pop-220",
+        "artist": "Alicia Keys & USHER",
+        "title": "My Boo",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/63/b9/c663b9f6-5433-79ea-edf6-97575fa72e66/mzaf_15786922263961902017.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "alicia keys & usher",
+          "alicia keys and usher"
+        ],
+        "aliasesTitle": [
+          "my boo"
+        ]
+      },
+      {
+        "id": "pop-221",
+        "artist": "USHER",
+        "title": "Nice & Slow",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/3b/e1/333be1d2-40c4-f5bf-8479-a5840caea07d/mzaf_6373493292385768191.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "nice & slow"
+        ]
+      },
+      {
+        "id": "pop-222",
+        "artist": "USHER",
+        "title": "Climax",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/64/96/a264964b-d96d-7ba9-a4fd-86dca630385e/mzaf_9239697937416322754.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/86/24/1f86245a-25f3-8f0b-9bda-3d41f2b99f2a/886447506189.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "climax"
+        ]
+      },
+      {
+        "id": "pop-223",
+        "artist": "USHER",
+        "title": "U Remind Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/ed/3f/d5ed3f3d-8f0a-349b-d647-d875ec2c7774/mzaf_10913422415317413089.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/1f/06/e71f062b-71c8-3b06-49d3-a0842a759684/078221471527.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "u remind me"
+        ]
+      },
+      {
+        "id": "pop-224",
+        "artist": "USHER",
+        "title": "There Goes My Baby",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/73/cd/6473cd3a-43c8-d9cd-9539-d5344dabe4c5/mzaf_8048108618577043574.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "there goes my baby"
+        ]
+      },
+      {
+        "id": "pop-225",
+        "artist": "USHER",
+        "title": "Burn (Confessions Special Edition Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/9c/a8/689ca8a7-3925-0ee4-e259-ed869f945063/mzaf_17109772183640198729.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "burn (confessions special edition version)",
+          "burn confessions special edition version"
+        ]
+      },
+      {
+        "id": "pop-226",
+        "artist": "USHER",
+        "title": "Hey Daddy (Daddy's Home)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/b3/9e/99b39e53-dd15-2d03-092f-62fd0d73c60b/mzaf_2038042513869954615.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/54/a6/1854a647-bf8f-ae81-d5bd-302f893970cf/mzi.jsrvapjm.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "hey daddy (daddy's home)",
+          "hey daddy daddy s home",
+          "hey daddy (daddys home)"
+        ]
+      },
+      {
+        "id": "pop-227",
+        "artist": "USHER",
+        "title": "Omg",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/7b/69/b17b692c-d579-04aa-508a-df047319ec09/mzaf_16901101324230822409.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "omg"
+        ]
+      },
+      {
+        "id": "pop-228",
+        "artist": "USHER",
+        "title": "Trading Places",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/bc/15/5fbc153f-cdd5-4e21-eb30-2f28a46af695/mzaf_15049758109709960745.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "trading places"
+        ]
+      },
+      {
+        "id": "pop-229",
+        "artist": "USHER",
+        "title": "You Make Me Wanna...",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/38/0a/ae380adf-2895-2ed7-a2de-1ab87e26ea4f/mzaf_160454965837256090.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "you make me wanna...",
+          "you make me wanna"
+        ]
+      },
+      {
+        "id": "pop-230",
+        "artist": "USHER",
+        "title": "Confessions, Pt. II (Confessions Special Edition Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/82/7f/d1827fe9-d59d-f2df-6871-b6caf8f468f9/mzaf_8236970874420673634.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "confessions, pt. ii (confessions special edition version)",
+          "confessions pt ii confessions special edition version"
+        ]
+      },
+      {
+        "id": "pop-231",
+        "artist": "USHER",
+        "title": "Superstar (Confessions Special Edition Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/64/03/7d64033c-8ebc-9dd9-63b2-5137abe379e7/mzaf_11556049476081080450.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "superstar (confessions special edition version)",
+          "superstar confessions special edition version"
+        ]
+      },
+      {
+        "id": "pop-232",
+        "artist": "USHER",
+        "title": "Bad Girl",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/c0/d6/d4c0d6cd-13f4-8fdd-589a-b2f9d6f0a41c/mzaf_1388578226846562095.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "bad girl"
+        ]
+      },
+      {
+        "id": "pop-233",
+        "artist": "USHER",
+        "title": "Love In This Club, Pt. II",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/6f/03/c56f0350-cb82-663a-d827-2d497953b645/mzaf_14122045619832681998.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "love in this club, pt. ii",
+          "love in this club pt ii"
+        ]
+      },
+      {
+        "id": "pop-234",
+        "artist": "USHER",
+        "title": "Can U Handle It? (Confessions Special Edition Version)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/1f/ab/021fab37-d0e9-3be7-d40e-dc3aeb6e3313/mzaf_7094834362041453398.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "can u handle it? (confessions special edition version)",
+          "can u handle it confessions special edition version"
+        ]
+      },
+      {
+        "id": "pop-235",
+        "artist": "USHER",
+        "title": "Confessions",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/0f/0d/6a0f0dbf-682f-73cd-78f0-2f6ad8cbf783/mzaf_9615646178173686141.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "confessions"
+        ]
+      },
+      {
+        "id": "pop-236",
+        "artist": "USHER",
+        "title": "Moving Mountains",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/c9/a0/e4c9a057-253a-9be0-3b81-f9f9ac9a8f84/mzaf_13343274483024291038.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "moving mountains"
+        ]
+      },
+      {
+        "id": "pop-237",
+        "artist": "USHER",
+        "title": "That's What It's Made For",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/5a/39/cc5a39a9-3a83-c0a6-a47d-75bcf8eb72fb/mzaf_9158618075223967352.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "that's what it's made for",
+          "that s what it s made for",
+          "thats what its made for"
+        ]
+      },
+      {
+        "id": "pop-238",
+        "artist": "USHER",
+        "title": "Caught Up",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/05/c3/2f05c320-28ce-ffee-1cc7-f215e080ebed/mzaf_5061815680635208997.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "usher"
+        ],
+        "aliasesTitle": [
+          "caught up"
+        ]
+      },
+      {
+        "id": "pop-239",
+        "artist": "Coldplay",
+        "title": "A Sky Full of Stars",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/24/d0/f124d058-5d43-73ca-79e4-36f5eb42b172/mzaf_12358370529108063354.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "a sky full of stars"
+        ]
+      },
+      {
+        "id": "pop-240",
+        "artist": "Coldplay",
+        "title": "Sparks",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/db/ce/47dbce82-d89c-0897-0da7-26d06ae7e2f2/mzaf_14852507599380441353.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "sparks"
+        ]
+      },
+      {
+        "id": "pop-241",
+        "artist": "Coldplay",
+        "title": "Paradise",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/3e/62/aa3e6293-da9a-bba2-15da-0acf90282a5f/mzaf_9828018370517979528.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "paradise"
+        ]
+      },
+      {
+        "id": "pop-242",
+        "artist": "Coldplay",
+        "title": "Adventure of a Lifetime",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/1b/14/441b146d-abe6-19e3-6351-847a0903e170/mzaf_5769352414949061274.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "adventure of a lifetime"
+        ]
+      },
+      {
+        "id": "pop-243",
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/7f/96/647f9601-aa94-3599-6c73-0143510b8b92/mzaf_13538528720942742126.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "the chainsmokers & coldplay",
+          "the chainsmokers and coldplay",
+          "chainsmokers & coldplay"
+        ],
+        "aliasesTitle": [
+          "something just like this"
+        ]
+      },
+      {
+        "id": "pop-244",
+        "artist": "Coldplay",
+        "title": "Hymn for the Weekend",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/42/c4/e742c45e-9146-d929-e127-c3dc1709a447/mzaf_9706755351441691351.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "hymn for the weekend"
+        ]
+      },
+      {
+        "id": "pop-245",
+        "artist": "Coldplay",
+        "title": "Speed of Sound",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/43/70/71437058-1d39-b12c-2b37-a1b14a5d26f0/mzaf_5970876114034094619.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "speed of sound"
+        ]
+      },
+      {
+        "id": "pop-246",
+        "artist": "Coldplay",
+        "title": "Trouble",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/e9/92/25e9922c-1808-4198-4c94-ff8a58475dd9/mzaf_16674087831264377666.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "trouble"
+        ]
+      },
+      {
+        "id": "pop-247",
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/9a/20/ac9a20f7-0065-92f0-7fbe-c136bc5ddcf4/mzaf_10985566651421931051.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/60/00/df600071-c5c7-24e7-e4d7-1a6b71fa44e7/190296529818.jpg/600x600bb.jpg",
+        "year": "2021",
+        "aliasesArtist": [
+          "coldplay x bts"
+        ],
+        "aliasesTitle": [
+          "my universe"
+        ]
+      },
+      {
+        "id": "pop-248",
+        "artist": "Coldplay",
+        "title": "Magic",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/31/d3/b631d3e0-db35-7d24-6adb-71cbf264ddbd/mzaf_8630578792645750897.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "magic"
+        ]
+      },
+      {
+        "id": "pop-249",
+        "artist": "Coldplay",
+        "title": "Hymn for the Weekend (Seeb Remix)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/fd/ce/97fdce14-b09a-3acb-806c-15a1f82918bc/mzaf_12259198803440244155.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/f3/6e/abf36e9a-fd55-4ed4-5872-0ac6827c5def/190295946890.jpg/600x600bb.jpg",
+        "year": "2016",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "hymn for the weekend (seeb remix)",
+          "hymn for the weekend seeb remix"
+        ]
+      },
+      {
+        "id": "pop-250",
+        "artist": "Coldplay",
+        "title": "In My Place",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/4a/64/7e4a6499-cc19-c959-52f4-85d8b112dea2/mzaf_83693645677956157.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "coldplay"
+        ],
+        "aliasesTitle": [
+          "in my place"
         ]
       }
     ]
