@@ -7663,5 +7663,4251 @@ export const PLAYLISTS = {
         ]
       }
     ]
+  },
+  "emo_alt": {
+    "id": "emo_alt",
+    "name": "EMO & ALT (Old to New)",
+    "description": "System of a Down, Linkin Park, Deftones, My Chemical Romance, The Cure, Nirvana, Panchiko, Superheaven...",
+    "badge": "EMO & ALT",
+    "icon": "Flame",
+    "tracks": [
+      {
+        "id": "emo-1",
+        "artist": "The Cure",
+        "title": "Friday I'm in Love",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/35/c0/de35c065-9c6c-f9e5-d9bf-974eebef90da/mzaf_969952745186056862.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/99/b4/4999b482-ac72-6aa2-0016-a6924355e72e/dj.tyyqcstw.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Friday I'm in Love",
+          "Friday I'm In Love",
+          "friday i m in love"
+        ]
+      },
+      {
+        "id": "emo-2",
+        "artist": "The Cure",
+        "title": "Lovesong",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/11/14/191114b2-6e7f-6bf7-8dca-d0e5686dda12/mzaf_3779494718508004494.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/d2/ba/94d2bacf-07d7-df79-24a3-7fbf5207c848/081227981303.jpg/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Lovesong",
+          "lovesong"
+        ]
+      },
+      {
+        "id": "emo-3",
+        "artist": "The Cure",
+        "title": "Just Like Heaven",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/96/49/8696498e-c448-fd66-7d3f-b02fe43ea12d/mzaf_6925694512417375942.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d24/h19/s06.lkkhqoax.jpg/600x600bb.jpg",
+        "year": "1987",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Just Like Heaven",
+          "just like heaven"
+        ]
+      },
+      {
+        "id": "emo-4",
+        "artist": "The Cure",
+        "title": "Boys Don't Cry",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/a2/49/5ea249e8-03c3-65ee-fcad-fb8a56565297/mzaf_5572247434193066366.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/600x600bb.jpg",
+        "year": "1979",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Boys Don't Cry",
+          "boys don t cry"
+        ]
+      },
+      {
+        "id": "emo-5",
+        "artist": "The Cure",
+        "title": "Pictures of You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/53/d1/7753d148-5ac0-a30a-ea15-ffc28a41f65c/mzaf_7745827417236995072.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/d2/ba/94d2bacf-07d7-df79-24a3-7fbf5207c848/081227981303.jpg/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Pictures of You",
+          "pictures of you"
+        ]
+      },
+      {
+        "id": "emo-6",
+        "artist": "The Cure",
+        "title": "Close to Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/05/aa/3e05aa39-c617-7acc-5470-22f2dad85a3a/mzaf_9684833740807157968.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/96/38/e4/mzi.rzvphnxn.jpg/600x600bb.jpg",
+        "year": "1985",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "Close to Me",
+          "close to me"
+        ]
+      },
+      {
+        "id": "emo-7",
+        "artist": "The Cure",
+        "title": "A Forest",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/6d/cd/986dcdc4-4925-36f6-2c5e-c01584160f58/mzaf_6665311013180761016.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/b4/9a/83b49a32-35ec-16b1-b933-9a895824cad8/s07.uqusdlxc.jpg/600x600bb.jpg",
+        "year": "1980",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "A Forest",
+          "a forest"
+        ]
+      },
+      {
+        "id": "emo-8",
+        "artist": "The Cure",
+        "title": "In Between Days",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/22/cb/1722cb19-f029-17e4-2ace-ee06d95b52b1/mzaf_13625706023990315256.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/96/38/e4/mzi.rzvphnxn.jpg/600x600bb.jpg",
+        "year": "1985",
+        "aliasesArtist": [
+          "The Cure",
+          "the cure",
+          "cure"
+        ],
+        "aliasesTitle": [
+          "In Between Days",
+          "in between days"
+        ]
+      },
+      {
+        "id": "emo-9",
+        "artist": "Joy Division",
+        "title": "Love Will Tear Us Apart",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/61/c5/d161c5b2-4286-7359-08cd-507adeb3ddba/mzaf_16727169612274144887.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/4a/16/194a1686-5eba-97dc-46cb-b0a0b3b3436f/825646083282.jpg/600x600bb.jpg",
+        "year": "1980",
+        "aliasesArtist": [
+          "Joy Division",
+          "joy division"
+        ],
+        "aliasesTitle": [
+          "Love Will Tear Us Apart",
+          "love will tear us apart"
+        ]
+      },
+      {
+        "id": "emo-10",
+        "artist": "Joy Division",
+        "title": "Disorder",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/cc/89/4dcc8922-012f-c11f-b061-caef7bafe7e2/mzaf_11167643022210339253.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/80/14/7f/80147fb9-8c62-8773-60fe-51d9bdcfd415/dj.blmthqrv.jpg/600x600bb.jpg",
+        "year": "1979",
+        "aliasesArtist": [
+          "Joy Division",
+          "joy division"
+        ],
+        "aliasesTitle": [
+          "Disorder",
+          "disorder"
+        ]
+      },
+      {
+        "id": "emo-11",
+        "artist": "Siouxsie and the Banshees",
+        "title": "Cities in Dust",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/e9/da/b5e9da6c-2804-7006-c32e-88df81f2f678/mzaf_17794155038597800682.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/f4/91/2df491a6-a3bd-35df-2447-d1765cf1ba72/00600753148938.rgb.jpg/600x600bb.jpg",
+        "year": "1985",
+        "aliasesArtist": [
+          "Siouxsie and the Banshees",
+          "Siouxsie & The Banshees",
+          "siouxsie and the banshees",
+          "siouxsie",
+          "banshees"
+        ],
+        "aliasesTitle": [
+          "Cities in Dust",
+          "Cities In Dust",
+          "cities in dust"
+        ]
+      },
+      {
+        "id": "emo-12",
+        "artist": "Bauhaus",
+        "title": "Bela Lugosi's Dead",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/83/46/95834682-fe4d-c75c-60c3-2527f306d1bd/mzaf_16282298977821139714.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/a8/2e/3aa82e19-163a-416a-a745-34d9c665081c/1381.jpg/600x600bb.jpg",
+        "year": "1979",
+        "aliasesArtist": [
+          "Bauhaus",
+          "bauhaus"
+        ],
+        "aliasesTitle": [
+          "Bela Lugosi's Dead (Official Version)",
+          "Bela Lugosi's Dead",
+          "bela lugosi s dead official version",
+          "bela lugosi"
+        ]
+      },
+      {
+        "id": "emo-13",
+        "artist": "Echo & the Bunnymen",
+        "title": "The Killing Moon",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/70/28/637028d8-2f46-958c-3322-e49f9ecfcba9/mzaf_3553632650265639370.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/87/d4/9b87d435-b64c-1d93-0a43-baf3f901ae2f/s06.xzfgiiti.jpg/600x600bb.jpg",
+        "year": "1984",
+        "aliasesArtist": [
+          "Echo & the Bunnymen",
+          "Echo & The Bunnymen",
+          "echo and the bunnymen",
+          "echo & the bunnymen",
+          "echo",
+          "echo the bunnymen"
+        ],
+        "aliasesTitle": [
+          "The Killing Moon",
+          "the killing moon"
+        ]
+      },
+      {
+        "id": "emo-14",
+        "artist": "The Smiths",
+        "title": "There Is a Light That Never Goes Out",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/c9/1d/4ec91df8-8524-b6ac-812c-fb38054be09d/mzaf_3253228293752173874.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg",
+        "year": "1986",
+        "aliasesArtist": [
+          "The Smiths",
+          "the smiths"
+        ],
+        "aliasesTitle": [
+          "There Is a Light That Never Goes Out",
+          "there is a light that never goes out"
+        ]
+      },
+      {
+        "id": "emo-15",
+        "artist": "The Smiths",
+        "title": "How Soon Is Now?",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/b6/5a/82b65a37-8e20-8feb-e867-b2f203db0e4f/mzaf_3320530501330428963.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/11/df/ae/mzi.qvdasvwd.jpg/600x600bb.jpg",
+        "year": "1984",
+        "aliasesArtist": [
+          "The Smiths",
+          "the smiths"
+        ],
+        "aliasesTitle": [
+          "How Soon Is Now?",
+          "how soon is now"
+        ]
+      },
+      {
+        "id": "emo-16",
+        "artist": "The Jesus and Mary Chain",
+        "title": "Just Like Honey",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/1b/af/a71baf22-92bf-c08f-1222-1629316881d6/mzaf_10833746998537339985.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/0e/5c/e40e5c8f-9622-c75e-b7a2-de7ce61c0a91/artwork.jpg/600x600bb.jpg",
+        "year": "1985",
+        "aliasesArtist": [
+          "The Jesus and Mary Chain",
+          "the jesus and mary chain",
+          "jesus and mary chain",
+          "jamc"
+        ],
+        "aliasesTitle": [
+          "Just Like Honey",
+          "just like honey"
+        ]
+      },
+      {
+        "id": "emo-17",
+        "artist": "Pixies",
+        "title": "Where Is My Mind?",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/52/67/f052674a-1a3d-9abb-237c-5bf32178a958/mzaf_9461456227788274932.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/b7/25/9eb725bc-977c-545b-4b6b-cea4a72656ec/652637240634.png/600x600bb.jpg",
+        "year": "1988",
+        "aliasesArtist": [
+          "Pixies",
+          "pixies"
+        ],
+        "aliasesTitle": [
+          "Where Is My Mind?",
+          "where is my mind"
+        ]
+      },
+      {
+        "id": "emo-18",
+        "artist": "Pixies",
+        "title": "Debaser",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/c7/03/53c7033d-d0a0-8a41-4c74-7374afb01e1a/mzaf_11657883014035352006.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/07/72/34077276-8f67-c638-8c4f-73dd89d2dfab/5014436905025.png/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "Pixies",
+          "pixies"
+        ],
+        "aliasesTitle": [
+          "Debaser",
+          "debaser"
+        ]
+      },
+      {
+        "id": "emo-19",
+        "artist": "Pixies",
+        "title": "Here Comes Your Man",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/62/16/fc6216bb-2710-e4f3-294a-f26a60a7006e/mzaf_10221512910738792184.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/07/72/34077276-8f67-c638-8c4f-73dd89d2dfab/5014436905025.png/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "Pixies",
+          "pixies"
+        ],
+        "aliasesTitle": [
+          "Here Comes Your Man",
+          "here comes your man"
+        ]
+      },
+      {
+        "id": "emo-20",
+        "artist": "Nirvana",
+        "title": "Smells Like Teen Spirit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/49/4e/65494e02-b6d3-26d8-6b0c-9bd98dcf4d5d/mzaf_7665413316386155700.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "Smells Like Teen Spirit",
+          "smells like teen spirit"
+        ]
+      },
+      {
+        "id": "emo-21",
+        "artist": "Nirvana",
+        "title": "Come as You Are",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/55/17/88551793-f12c-c809-2657-bea5256c7aa0/mzaf_4166033993768096448.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "Come as You Are",
+          "Come As You Are",
+          "come as you are"
+        ]
+      },
+      {
+        "id": "emo-22",
+        "artist": "Nirvana",
+        "title": "Lithium",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/26/3a/10263abf-e10b-1b19-282f-2cfe1e160bb0/mzaf_13537127778296504562.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "Lithium",
+          "lithium"
+        ]
+      },
+      {
+        "id": "emo-23",
+        "artist": "Nirvana",
+        "title": "In Bloom",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/ca/8a/88ca8a9f-831c-b455-fdaa-f24e7bbe84f8/mzaf_7200097641492539486.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "In Bloom",
+          "in bloom"
+        ]
+      },
+      {
+        "id": "emo-24",
+        "artist": "Nirvana",
+        "title": "Heart-Shaped Box",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/ca/31/2cca3150-0c98-20d7-32be-59f68c877ae6/mzaf_11272169685381281291.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "Heart-Shaped Box",
+          "heart shaped box"
+        ]
+      },
+      {
+        "id": "emo-25",
+        "artist": "Nirvana",
+        "title": "All Apologies",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/af/91/09af9163-f85a-b85d-d638-71f442a65e2c/mzaf_15732394013627380669.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "All Apologies",
+          "all apologies"
+        ]
+      },
+      {
+        "id": "emo-26",
+        "artist": "Nirvana",
+        "title": "About a Girl",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/c3/53/abc3530f-b20e-d2fd-5a65-850d55a63cc7/mzaf_1500446081507195602.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/fc/61/71fc6147-fa50-2e25-4e42-db8b45e345ab/Nirvana_Bleach_20th_1425px.jpg/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "About a Girl",
+          "about a girl"
+        ]
+      },
+      {
+        "id": "emo-27",
+        "artist": "Nirvana",
+        "title": "Something in the Way",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/e0/94/a4e09484-97a9-1759-0586-30fdc97e7bc9/mzaf_6296980968696163428.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Nirvana",
+          "nirvana"
+        ],
+        "aliasesTitle": [
+          "Something in the Way",
+          "Something In The Way",
+          "something in the way"
+        ]
+      },
+      {
+        "id": "emo-28",
+        "artist": "Pearl Jam",
+        "title": "Black",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/98/a4/a798a4a2-dc88-1dcc-8afa-c14998734b1c/mzaf_8383293445281438560.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e1/7c/e0e17cf0-62e5-6312-f3df-2462960cc8f1/884977724745.jpg/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "Pearl Jam",
+          "pearl jam"
+        ],
+        "aliasesTitle": [
+          "Black",
+          "black"
+        ]
+      },
+      {
+        "id": "emo-29",
+        "artist": "Soundgarden",
+        "title": "Black Hole Sun",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/3a/b1/933ab128-cfac-b1f4-2542-62f955bf7ad7/mzaf_5473686799767912736.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/b6/d6/aeb6d672-2004-41eb-ccba-e2964643a2bc/06UMGIM18607.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Soundgarden",
+          "soundgarden"
+        ],
+        "aliasesTitle": [
+          "Black Hole Sun",
+          "black hole sun"
+        ]
+      },
+      {
+        "id": "emo-30",
+        "artist": "Alice in Chains",
+        "title": "Down in a Hole",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/fa/b9/08fab9c8-720a-0360-01f8-e3062c47d816/mzaf_9303305019374822686.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "Alice in Chains",
+          "Alice In Chains",
+          "alice in chains"
+        ],
+        "aliasesTitle": [
+          "Down in a Hole",
+          "Down In a Hole",
+          "down in a hole"
+        ]
+      },
+      {
+        "id": "emo-31",
+        "artist": "Alice in Chains",
+        "title": "Rooster",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/d6/76/14d6768a-feda-4317-fdb2-d15754317160/mzaf_18229668378833917078.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "Alice in Chains",
+          "Alice In Chains",
+          "alice in chains"
+        ],
+        "aliasesTitle": [
+          "Rooster",
+          "rooster"
+        ]
+      },
+      {
+        "id": "emo-32",
+        "artist": "Alice in Chains",
+        "title": "Would?",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/7a/3e/927a3ed1-97c0-5daf-0d2b-d3dc121d1b4f/mzaf_11866576957388442195.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/26/62/5426627b-4707-7867-acc0-ce616d250381/074645247526.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "Alice in Chains",
+          "Alice In Chains",
+          "alice in chains"
+        ],
+        "aliasesTitle": [
+          "Would?",
+          "would"
+        ]
+      },
+      {
+        "id": "emo-33",
+        "artist": "The Smashing Pumpkins",
+        "title": "1979",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/e7/20/b5e720c8-3fc8-a440-e636-5424059e1d9a/mzaf_15333034011422151287.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/30/ea/3730ea31-78ad-b6ac-9869-656efb5dfd79/00602577577536.rgb.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "The Smashing Pumpkins",
+          "the smashing pumpkins",
+          "smashing pumpkins",
+          "pumpkins"
+        ],
+        "aliasesTitle": [
+          "1979"
+        ]
+      },
+      {
+        "id": "emo-34",
+        "artist": "The Smashing Pumpkins",
+        "title": "Today",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/dd/f7/c2ddf7dd-f8d5-18ee-0ea1-658a7441145b/mzaf_5814503050448650956.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/dc/08/3adc08b0-e98c-b5dd-943e-a37c7ed06205/13UABIM03615.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "The Smashing Pumpkins",
+          "the smashing pumpkins",
+          "smashing pumpkins",
+          "pumpkins"
+        ],
+        "aliasesTitle": [
+          "Today",
+          "today"
+        ]
+      },
+      {
+        "id": "emo-35",
+        "artist": "The Smashing Pumpkins",
+        "title": "Bullet with Butterfly Wings",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/9b/9b/c89b9b04-ea6c-48ca-37a8-709936927d63/mzaf_1556825916541932487.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/30/ea/3730ea31-78ad-b6ac-9869-656efb5dfd79/00602577577536.rgb.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "The Smashing Pumpkins",
+          "the smashing pumpkins",
+          "smashing pumpkins",
+          "pumpkins"
+        ],
+        "aliasesTitle": [
+          "Bullet with Butterfly Wings",
+          "bullet with butterfly wings"
+        ]
+      },
+      {
+        "id": "emo-36",
+        "artist": "The Smashing Pumpkins",
+        "title": "Disarm",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/ab/73/68ab73ef-32cf-5ec4-5e3a-dd4fbfc2a7c4/mzaf_9151776796031654114.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7b/84/43/7b8443d3-4f82-8090-2460-e0de5d87e5df/19UMGIM60398.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "The Smashing Pumpkins",
+          "the smashing pumpkins",
+          "smashing pumpkins",
+          "pumpkins"
+        ],
+        "aliasesTitle": [
+          "Disarm",
+          "disarm"
+        ]
+      },
+      {
+        "id": "emo-37",
+        "artist": "Hole",
+        "title": "Celebrity Skin",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/4e/a7/524ea70b-0d30-bebb-fce8-dfd4bbc5a2e1/mzaf_8636801899718238741.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/56/a9/eb56a93b-fa8c-20d6-f33a-525084301407/06UMGIM07325.rgb.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "Hole",
+          "hole"
+        ],
+        "aliasesTitle": [
+          "Celebrity Skin",
+          "celebrity skin"
+        ]
+      },
+      {
+        "id": "emo-38",
+        "artist": "Garbage",
+        "title": "Only Happy When It Rains",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/6f/92/686f9299-9771-153d-84e8-041e896c4881/mzaf_11272565111990605822.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/8e/64/818e6487-df77-bb60-7245-7f87c40d6f2d/00602547364890.rgb.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Garbage",
+          "garbage"
+        ],
+        "aliasesTitle": [
+          "Only Happy When It Rains",
+          "only happy when it rains"
+        ]
+      },
+      {
+        "id": "emo-39",
+        "artist": "Garbage",
+        "title": "Stupid Girl",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/db/dc/1bdbdc45-3d8f-6a19-2f4c-4c872787b517/mzaf_8768165868353848068.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/8e/64/818e6487-df77-bb60-7245-7f87c40d6f2d/00602547364890.rgb.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Garbage",
+          "garbage"
+        ],
+        "aliasesTitle": [
+          "Stupid Girl",
+          "stupid girl"
+        ]
+      },
+      {
+        "id": "emo-40",
+        "artist": "Radiohead",
+        "title": "There There",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/57/eb/2957eb38-eead-9761-8748-711166f6b811/mzaf_15469192037134561370.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3c/95/1d/3c951d73-f6c6-12dd-34b4-cc95f63e210c/634904078560.png/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "There There",
+          "There, There",
+          "there there",
+          "there, there"
+        ]
+      },
+      {
+        "id": "emo-41",
+        "artist": "Radiohead",
+        "title": "Karma Police",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/21/35/46213520-da4a-1806-0c59-5ca6ad008b4e/mzaf_5277404092043261430.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "Karma Police",
+          "karma police"
+        ]
+      },
+      {
+        "id": "emo-42",
+        "artist": "Radiohead",
+        "title": "No Surprises",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/2a/fa/f02afaad-0a7f-9ceb-1236-55ef3d388061/mzaf_10063872040766906863.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "No Surprises",
+          "no surprises"
+        ]
+      },
+      {
+        "id": "emo-43",
+        "artist": "Radiohead",
+        "title": "Fake Plastic Trees",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/c2/e6/a8c2e649-2a9d-8c7c-060b-7aced7644752/mzaf_7424058486766692978.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "Fake Plastic Trees",
+          "fake plastic trees"
+        ]
+      },
+      {
+        "id": "emo-44",
+        "artist": "Radiohead",
+        "title": "Paranoid Android",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/6c/04/676c04b5-624a-6101-2d63-dc9c971e2a4e/mzaf_680078368934998544.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "Paranoid Android",
+          "paranoid android"
+        ]
+      },
+      {
+        "id": "emo-45",
+        "artist": "Radiohead",
+        "title": "High and Dry",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/28/68/972868b4-3ee8-24ec-2e38-466feb0218f2/mzaf_11025138326733736785.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "High and Dry",
+          "high and dry"
+        ]
+      },
+      {
+        "id": "emo-46",
+        "artist": "Radiohead",
+        "title": "Street Spirit (Fade Out)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/aa/31/48aa31f7-77d8-e958-a5ae-e53f18632b81/mzaf_10391342885850462327.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "Street Spirit (Fade Out)",
+          "street spirit fade out"
+        ]
+      },
+      {
+        "id": "emo-47",
+        "artist": "Radiohead",
+        "title": "Just",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/e4/d8/0fe4d8ea-a2b5-3171-0745-fddd5a64b7a6/mzaf_3928634691746113205.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Radiohead",
+          "radiohead"
+        ],
+        "aliasesTitle": [
+          "Just",
+          "just"
+        ]
+      },
+      {
+        "id": "emo-48",
+        "artist": "Mazzy Star",
+        "title": "Fade Into You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/db/e8/4cdbe88c-b737-617d-0c1c-35ba36445750/mzaf_4038354414747356567.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Mazzy Star",
+          "mazzy star"
+        ],
+        "aliasesTitle": [
+          "Fade Into You",
+          "Fade into You",
+          "fade into you"
+        ]
+      },
+      {
+        "id": "emo-49",
+        "artist": "Slowdive",
+        "title": "Alison",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/9e/4f/1d9e4fa6-4efd-01d4-da8b-6778b096c6cb/mzaf_9036332438135022718.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/50/ad/1b50adc8-139b-1ad9-8500-cc2eb93faf17/888880730831.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Slowdive",
+          "slowdive"
+        ],
+        "aliasesTitle": [
+          "Alison",
+          "alison"
+        ]
+      },
+      {
+        "id": "emo-50",
+        "artist": "Slowdive",
+        "title": "When the Sun Hits",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/d6/29/8cd62943-9c69-3f1b-79b9-fad0883a0e9a/mzaf_9349941370226318512.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/50/ad/1b50adc8-139b-1ad9-8500-cc2eb93faf17/888880730831.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Slowdive",
+          "slowdive"
+        ],
+        "aliasesTitle": [
+          "When the Sun Hits",
+          "when the sun hits"
+        ]
+      },
+      {
+        "id": "emo-51",
+        "artist": "My Bloody Valentine",
+        "title": "Only Shallow",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/37/31/483731b0-de99-45c3-6cdf-4afbf54f675a/mzaf_4046142214891948322.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/e1/51/4ce15131-7ac5-daf5-bf62-0202f27d691d/887830015998.png/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "My Bloody Valentine",
+          "my bloody valentine",
+          "mbv"
+        ],
+        "aliasesTitle": [
+          "Only Shallow",
+          "only shallow"
+        ]
+      },
+      {
+        "id": "emo-52",
+        "artist": "My Bloody Valentine",
+        "title": "Sometimes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/05/9d/5d059d6c-853c-d9d2-3633-b19c1af7e1dc/mzaf_18445926000169209970.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/e1/51/4ce15131-7ac5-daf5-bf62-0202f27d691d/887830015998.png/600x600bb.jpg",
+        "year": "1991",
+        "aliasesArtist": [
+          "My Bloody Valentine",
+          "my bloody valentine",
+          "mbv"
+        ],
+        "aliasesTitle": [
+          "Sometimes",
+          "sometimes"
+        ]
+      },
+      {
+        "id": "emo-53",
+        "artist": "Cocteau Twins",
+        "title": "Heaven or Las Vegas",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/32/ee/2f32ee9d-10cd-459e-b451-abaf4a49b803/mzaf_16630779446858414543.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/cd/61/76cd61e7-0714-dce5-c48e-0f05f8fcb84b/652637001280.png/600x600bb.jpg",
+        "year": "1990",
+        "aliasesArtist": [
+          "Cocteau Twins",
+          "cocteau twins"
+        ],
+        "aliasesTitle": [
+          "Heaven or Las Vegas",
+          "heaven or las vegas"
+        ]
+      },
+      {
+        "id": "emo-54",
+        "artist": "The Cranberries",
+        "title": "Zombie",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/06/d1/1706d1c3-4c96-68bd-6a8b-ddec684fd9cb/mzaf_7183844787347303528.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c8/85/b6c885de-fde6-d40d-c95a-d89ede4270ae/06UMGIM09433.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "The Cranberries",
+          "the cranberries",
+          "cranberries"
+        ],
+        "aliasesTitle": [
+          "Zombie",
+          "zombie"
+        ]
+      },
+      {
+        "id": "emo-55",
+        "artist": "Rites of Spring",
+        "title": "For Want Of",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/1b/60/761b602e-f93c-ce67-4364-b487aa511d76/mzaf_8704034695735478701.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/42/cf/0042cfa2-4ebd-0008-663f-c1b4b43f195e/s05.rtzzrrha.jpg/600x600bb.jpg",
+        "year": "1985",
+        "aliasesArtist": [
+          "Rites of Spring",
+          "Rites Of Spring",
+          "rites of spring"
+        ],
+        "aliasesTitle": [
+          "For Want Of",
+          "for want of"
+        ]
+      },
+      {
+        "id": "emo-56",
+        "artist": "Sunny Day Real Estate",
+        "title": "Seven",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/3a/15/ad3a1581-c418-8a0d-9874-68132220c09a/mzaf_12405691465598947651.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/17/13/36/1713363b-de85-f15a-6c1d-e1eb31e8f0e1/098787084665.png/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Sunny Day Real Estate",
+          "sunny day real estate",
+          "sdre"
+        ],
+        "aliasesTitle": [
+          "Seven (2009 Remastered Version)",
+          "Seven",
+          "seven 2009 remastered version"
+        ]
+      },
+      {
+        "id": "emo-57",
+        "artist": "Sunny Day Real Estate",
+        "title": "In Circles",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/42/83/03428355-fbcf-9ba3-a971-588c613b83d7/mzaf_5928617766417222759.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/17/13/36/1713363b-de85-f15a-6c1d-e1eb31e8f0e1/098787084665.png/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Sunny Day Real Estate",
+          "sunny day real estate",
+          "sdre"
+        ],
+        "aliasesTitle": [
+          "In Circles (2009 Remastered Version)",
+          "In Circles",
+          "in circles 2009 remastered version"
+        ]
+      },
+      {
+        "id": "emo-58",
+        "artist": "Jawbreaker",
+        "title": "Boxcar",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/b7/41/19b7418b-7702-c033-b8e0-ade95c5f57c3/mzaf_12592969648761127781.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/36/50/f33650f0-5c64-a81e-6935-968961bdca2b/655035131023.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Jawbreaker",
+          "jawbreaker"
+        ],
+        "aliasesTitle": [
+          "Boxcar",
+          "boxcar"
+        ]
+      },
+      {
+        "id": "emo-59",
+        "artist": "Jawbreaker",
+        "title": "Accident Prone",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/82/f2/cd82f21d-d638-0562-b3fa-736842312019/mzaf_8255582639679015730.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/49/00/7e490042-80ad-a814-f7ad-94a908e275c8/00720642483121.rgb.jpg/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Jawbreaker",
+          "jawbreaker"
+        ],
+        "aliasesTitle": [
+          "Accident Prone",
+          "accident prone"
+        ]
+      },
+      {
+        "id": "emo-60",
+        "artist": "Cap'n Jazz",
+        "title": "Oh Messy Life",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/30/71/c130716d-5581-45b7-16e7-a58293986c8f/mzaf_17496001279747766071.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/91/22/659122c3-1272-b815-f72a-ddd63c9eaf70/792258103663.png/600x600bb.jpg",
+        "year": "1995",
+        "aliasesArtist": [
+          "Cap'n Jazz",
+          "cap'n jazz",
+          "capn jazz",
+          "cap n jazz"
+        ],
+        "aliasesTitle": [
+          "Oh Messy Life",
+          "oh messy life"
+        ]
+      },
+      {
+        "id": "emo-61",
+        "artist": "Mineral",
+        "title": "Slower",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/8c/e8/818ce8c5-dd6a-fbb6-ed5c-2bfaa7eb7cd4/mzaf_829150329610397762.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/14/7e/25147ef4-9b0c-819f-dbe7-07d1525badce/61054.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Mineral",
+          "mineral"
+        ],
+        "aliasesTitle": [
+          "Slower",
+          "slower"
+        ]
+      },
+      {
+        "id": "emo-62",
+        "artist": "American Football",
+        "title": "Never Meant",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/8e/4c/d48e4cee-2cb4-2886-94c9-c1200da15233/mzaf_14555089929452432327.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/17/90/19/179019ea-4eaf-b2e5-ca19-68cdbb795032/644110027696.png/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "American Football",
+          "american football"
+        ],
+        "aliasesTitle": [
+          "Never Meant",
+          "never meant"
+        ]
+      },
+      {
+        "id": "emo-63",
+        "artist": "The Get Up Kids",
+        "title": "Ten Minutes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/60/9d/48609dec-1617-fa22-05f3-79c47fbddcc7/mzaf_11516888708071623877.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/d2/dd/44d2dd8c-624e-a221-a2c1-c62754dcda1b/4050538155211.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "The Get Up Kids",
+          "the get up kids",
+          "get up kids"
+        ],
+        "aliasesTitle": [
+          "Ten Minutes",
+          "ten minutes"
+        ]
+      },
+      {
+        "id": "emo-64",
+        "artist": "Saves the Day",
+        "title": "At Your Funeral",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/5b/43/e35b4366-10f0-4d43-d163-2836db851dfb/mzaf_4564759995823742706.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/9d/1d/229d1d22-dc93-ddcc-a216-552785da0946/0859381031710.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Saves the Day",
+          "Saves The Day",
+          "saves the day"
+        ],
+        "aliasesTitle": [
+          "At Your Funeral",
+          "at your funeral"
+        ]
+      },
+      {
+        "id": "emo-65",
+        "artist": "System of a Down",
+        "title": "Chop Suey!",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/1f/74/991f74a5-0f17-bf20-7c10-7150ccb452de/mzaf_6639234409564144843.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Chop Suey!",
+          "chop suey"
+        ]
+      },
+      {
+        "id": "emo-66",
+        "artist": "System of a Down",
+        "title": "Toxicity",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/cc/94/36cc9476-5cd9-8fae-ccf6-dda12ba7752b/mzaf_10926716890507690766.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Toxicity",
+          "toxicity"
+        ]
+      },
+      {
+        "id": "emo-67",
+        "artist": "System of a Down",
+        "title": "Aerials",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/bd/a1/78bda13a-3c8d-7e87-823a-172f822f8c46/mzaf_14740145834583068522.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Aerials",
+          "aerials"
+        ]
+      },
+      {
+        "id": "emo-68",
+        "artist": "System of a Down",
+        "title": "Sugar",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/e0/7f/0de07faf-eeca-b4e0-4b04-e1b9bd603015/mzaf_3951157157958921856.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/25/80/c9/mzi.tdavltfl.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Sugar (Clean Version)",
+          "Sugar",
+          "sugar clean version"
+        ]
+      },
+      {
+        "id": "emo-69",
+        "artist": "System of a Down",
+        "title": "Question!",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/16/32/8216323b-0493-baec-2c08-b1a3a676cfef/mzaf_532880978752086456.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6d/43/656d432b-e59c-361a-c3ad-2e6cccbf4b2d/827969064825.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Question!",
+          "question"
+        ]
+      },
+      {
+        "id": "emo-70",
+        "artist": "System of a Down",
+        "title": "Lonely Day",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/cd/a5/85cda50e-f2bb-37b4-da2f-c3305920912a/mzaf_14561393102593717867.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/03/76/79037637-7c7e-ded5-879e-230c6aa3fe65/827969387122.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Lonely Day",
+          "lonely day"
+        ]
+      },
+      {
+        "id": "emo-71",
+        "artist": "System of a Down",
+        "title": "Hypnotize",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/16/f7/fe16f797-0d67-98a2-9783-3e7d82bf4bb7/mzaf_5259231514554954128.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/03/76/79037637-7c7e-ded5-879e-230c6aa3fe65/827969387122.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "System of a Down",
+          "System Of A Down",
+          "system of a down",
+          "soad",
+          "system"
+        ],
+        "aliasesTitle": [
+          "Hypnotize",
+          "hypnotize"
+        ]
+      },
+      {
+        "id": "emo-72",
+        "artist": "Deftones",
+        "title": "Change (In the House of Flies)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/a3/cd/86a3cd88-0036-3828-a67b-8174790c0355/mzaf_17335092681325376243.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Change (In the House of Flies)",
+          "change in the house of flies"
+        ]
+      },
+      {
+        "id": "emo-73",
+        "artist": "Deftones",
+        "title": "Passenger",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/39/f7/5b39f782-56c4-f26e-b799-acfa5ddb6652/mzaf_3769592971512766715.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Passenger",
+          "passenger"
+        ]
+      },
+      {
+        "id": "emo-74",
+        "artist": "Deftones",
+        "title": "My Own Summer (Shove It)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/82/e2/7b82e273-7849-4387-2209-f086eef927cd/mzaf_7584156168517905468.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "My Own Summer (Shove It)",
+          "my own summer shove it"
+        ]
+      },
+      {
+        "id": "emo-75",
+        "artist": "Deftones",
+        "title": "Be Quiet and Drive (Far Away)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/8b/a2/828ba269-81af-dc56-d8a2-fa712a02dd02/mzaf_10134856389145791661.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Be Quiet and Drive (Far Away)",
+          "be quiet and drive far away"
+        ]
+      },
+      {
+        "id": "emo-76",
+        "artist": "Deftones",
+        "title": "Digital Bath",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/ed/0d/a5ed0dd4-6e69-2b37-7e68-99fcfe1c02ec/mzaf_11598198938780634860.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Digital Bath",
+          "digital bath"
+        ]
+      },
+      {
+        "id": "emo-77",
+        "artist": "Deftones",
+        "title": "Minerva",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/d3/16/f9d3168e-f4ed-1ca2-5909-8563ec3987a4/mzaf_15022867410417387148.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Minerva",
+          "minerva"
+        ]
+      },
+      {
+        "id": "emo-78",
+        "artist": "Deftones",
+        "title": "Diamond Eyes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/57/f0/9b57f04a-0f47-36b8-cd43-a759f65b6d0e/mzaf_15362062929694679089.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Diamond Eyes",
+          "diamond eyes"
+        ]
+      },
+      {
+        "id": "emo-79",
+        "artist": "Deftones",
+        "title": "Cherry Waves",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/8f/e0/d98fe0da-427a-cb75-2970-1ffd0261f0c7/mzaf_4201452845307510018.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Cherry Waves",
+          "cherry waves"
+        ]
+      },
+      {
+        "id": "emo-80",
+        "artist": "Deftones",
+        "title": "Sextape",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/1d/f3/201df392-eb3c-d8b3-6e0f-59a7b54f3f72/mzaf_11753280202635510655.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "Deftones",
+          "deftones"
+        ],
+        "aliasesTitle": [
+          "Sextape",
+          "sextape"
+        ]
+      },
+      {
+        "id": "emo-81",
+        "artist": "Limp Bizkit",
+        "title": "Break Stuff",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/57/ee/2c57ee6e-26a1-44d8-58b5-ce512d3bdb19/mzaf_15920146424204284279.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/88/4e/29884eeb-b26e-fd69-943d-8d6f24a0ec88/00602517735651.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Break Stuff",
+          "break stuff"
+        ]
+      },
+      {
+        "id": "emo-82",
+        "artist": "Limp Bizkit",
+        "title": "Rollin' (Air Raid Vehicle)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/c0/27/37c027a2-0568-7b2d-03c3-e016441137b2/mzaf_8971458604491651651.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/22/d7/c022d742-bee6-7f53-cd23-dee90303299b/15UMGIM64609.rgb.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Rollin' (Air Raid Vehicle)",
+          "rollin air raid vehicle"
+        ]
+      },
+      {
+        "id": "emo-83",
+        "artist": "Limp Bizkit",
+        "title": "Nookie",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/5a/5f/225a5fcc-c782-5149-ec0d-c7d08442830a/mzaf_7073401613185725286.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/88/4e/29884eeb-b26e-fd69-943d-8d6f24a0ec88/00602517735651.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Nookie",
+          "nookie"
+        ]
+      },
+      {
+        "id": "emo-84",
+        "artist": "Limp Bizkit",
+        "title": "My Way",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/95/05/3d9505fb-6742-7125-e3ba-9a96d483da63/mzaf_15534528451016742617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/22/d7/c022d742-bee6-7f53-cd23-dee90303299b/15UMGIM64609.rgb.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "My Way",
+          "my way"
+        ]
+      },
+      {
+        "id": "emo-85",
+        "artist": "Limp Bizkit",
+        "title": "Take a Look Around",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/3a/b5/c53ab544-af52-6ced-f860-711785bcea59/mzaf_10862531317077068362.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/70/c8/b270c885-3e28-3dfa-3bd3-faa6e5fa8540/15UMGIM36851.rgb.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Take a Look Around",
+          "Take A Look Around",
+          "take a look around"
+        ]
+      },
+      {
+        "id": "emo-86",
+        "artist": "Limp Bizkit",
+        "title": "Faith",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/12/86/72128667-d169-887a-2a52-dd547f55d85b/mzaf_16033785816740420463.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b2/c1/eb/b2c1eb27-0418-6b1e-d706-20c60bd84453/00606949025922.rgb.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Faith",
+          "faith"
+        ]
+      },
+      {
+        "id": "emo-87",
+        "artist": "Limp Bizkit",
+        "title": "Behind Blue Eyes",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/27/b8/4d27b8b4-9503-959f-d44b-d00abd8574dc/mzaf_3533202050614562149.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/69/9a/13699aef-5c29-9290-2822-ebd295a52a64/15UMGIM40128.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Limp Bizkit",
+          "limp bizkit",
+          "bizkit"
+        ],
+        "aliasesTitle": [
+          "Behind Blue Eyes",
+          "behind blue eyes"
+        ]
+      },
+      {
+        "id": "emo-88",
+        "artist": "Slipknot",
+        "title": "Wait and Bleed",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/d4/2f/fcd42f30-0314-93ae-01f9-6af824f74faa/mzaf_17082028055053250620.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Wait and Bleed",
+          "wait and bleed"
+        ]
+      },
+      {
+        "id": "emo-89",
+        "artist": "Slipknot",
+        "title": "Duality",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/ef/db/42efdb9d-e4b3-6759-c118-3409c1afdb47/mzaf_9866069811142008918.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/3b/a9/433ba92d-79ed-6ddc-3436-0ba06a8c9fab/016861752309.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Duality",
+          "duality"
+        ]
+      },
+      {
+        "id": "emo-90",
+        "artist": "Slipknot",
+        "title": "Before I Forget",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/9b/b7/fa9bb7a4-2016-1560-2b13-fd75cd8509a3/mzaf_17255442667352490461.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/3b/a9/433ba92d-79ed-6ddc-3436-0ba06a8c9fab/016861752309.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Before I Forget",
+          "before i forget"
+        ]
+      },
+      {
+        "id": "emo-91",
+        "artist": "Slipknot",
+        "title": "Psychosocial",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/60/19/5c6019e5-e2ff-58b0-9509-b0ca142a937f/mzaf_11040604748574232718.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/46/1cbf46b8-c549-f3f2-010c-06d6e7627115/016861752200.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Psychosocial",
+          "psychosocial"
+        ]
+      },
+      {
+        "id": "emo-92",
+        "artist": "Slipknot",
+        "title": "Snuff",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/53/50/b35350f9-0564-5df1-9224-7a9505db843b/mzaf_11472551757319828963.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/46/1cbf46b8-c549-f3f2-010c-06d6e7627115/016861752200.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Snuff",
+          "snuff"
+        ]
+      },
+      {
+        "id": "emo-93",
+        "artist": "Slipknot",
+        "title": "Vermilion",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/18/16/931816b8-a1dc-1c48-e726-12ba07431093/mzaf_9199099073887584840.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/3b/a9/433ba92d-79ed-6ddc-3436-0ba06a8c9fab/016861752309.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Slipknot",
+          "slipknot"
+        ],
+        "aliasesTitle": [
+          "Vermilion",
+          "vermilion"
+        ]
+      },
+      {
+        "id": "emo-94",
+        "artist": "Korn",
+        "title": "Freak on a Leash",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/20/ff/c820ff8c-0564-8fb6-6e92-70f795a69aad/mzaf_16129259738892587094.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Freak on a Leash",
+          "Freak On a Leash",
+          "freak on a leash"
+        ]
+      },
+      {
+        "id": "emo-95",
+        "artist": "Korn",
+        "title": "Blind",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/11/d6/8e11d658-a045-6a72-ebb8-da95a2cc3d22/mzaf_9626341967385658074.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/2b/e7/092be7d0-7697-220d-c000-97f366e723e4/mzi.anacpwuj.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Blind",
+          "blind"
+        ]
+      },
+      {
+        "id": "emo-96",
+        "artist": "Korn",
+        "title": "Falling Away from Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/75/dc/da75dc21-7439-1b60-93fa-747b57ad8feb/mzaf_5086583415684034880.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Falling Away from Me",
+          "falling away from me"
+        ]
+      },
+      {
+        "id": "emo-97",
+        "artist": "Korn",
+        "title": "Got the Life",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/ac/28/96ac2877-047f-788d-8478-96cd76bd295a/mzaf_1527942922140087397.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Got the Life",
+          "got the life"
+        ]
+      },
+      {
+        "id": "emo-98",
+        "artist": "Korn",
+        "title": "Make Me Bad",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/74/da/a974da77-1731-f6df-929d-3c42dfcebc33/mzaf_3292677477254254246.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Make Me Bad",
+          "make me bad"
+        ]
+      },
+      {
+        "id": "emo-99",
+        "artist": "Korn",
+        "title": "Here to Stay",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/10/57/9f10577e-361c-09f8-5f8f-9b911e71cb72/mzaf_6596924172659621020.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/03/a2/c703a2c4-97d1-106d-4e25-10322d7063ea/196873486703.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Korn",
+          "korn"
+        ],
+        "aliasesTitle": [
+          "Here to Stay",
+          "here to stay"
+        ]
+      },
+      {
+        "id": "emo-100",
+        "artist": "Type O Negative",
+        "title": "Black No. 1 (Little Miss Scare-All)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/a3/87/f6a3878d-eeaa-8414-8dc1-b47c27cbdf64/mzaf_2696340671105299750.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/28/92/a7/mzi.cazitgae.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Type O Negative",
+          "type o negative",
+          "type o",
+          "ton"
+        ],
+        "aliasesTitle": [
+          "Black No. 1 (Little Miss Scare-All)",
+          "Black No. 1",
+          "black no 1 little miss scare all",
+          "black no 1",
+          "black number one"
+        ]
+      },
+      {
+        "id": "emo-101",
+        "artist": "Type O Negative",
+        "title": "Christian Woman",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/52/35/6f52353f-dd92-2295-81d6-3fd4e6eb592b/mzaf_3499063466800853340.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/6f/f2/mzi.itwybyzf.jpg/600x600bb.jpg",
+        "year": "1993",
+        "aliasesArtist": [
+          "Type O Negative",
+          "type o negative",
+          "type o",
+          "ton"
+        ],
+        "aliasesTitle": [
+          "Christian Woman",
+          "christian woman"
+        ]
+      },
+      {
+        "id": "emo-102",
+        "artist": "Type O Negative",
+        "title": "Love You to Death",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/0a/38/e60a385c-6d19-79a9-62d8-c939deaef9d2/mzaf_4643524401871230775.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/df/8c/d0df8ce9-c21f-7c31-b1e6-1bc84003495a/mzi.zuajwfip.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "Type O Negative",
+          "type o negative",
+          "type o",
+          "ton"
+        ],
+        "aliasesTitle": [
+          "Love You to Death",
+          "love you to death"
+        ]
+      },
+      {
+        "id": "emo-103",
+        "artist": "Type O Negative",
+        "title": "Everything Dies",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/e5/9c/4be59c31-8e7a-d57f-6c89-c353b86290c6/mzaf_1938162733769481791.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/2e/52/11/mzi.blwefewg.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Type O Negative",
+          "type o negative",
+          "type o",
+          "ton"
+        ],
+        "aliasesTitle": [
+          "Everything Dies",
+          "everything dies"
+        ]
+      },
+      {
+        "id": "emo-104",
+        "artist": "Type O Negative",
+        "title": "My Girlfriend's Girlfriend",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/0a/1c/940a1cd0-90f6-dc56-499d-9ce8eec79d57/mzaf_11658995400084848926.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/df/8c/d0df8ce9-c21f-7c31-b1e6-1bc84003495a/mzi.zuajwfip.jpg/600x600bb.jpg",
+        "year": "1996",
+        "aliasesArtist": [
+          "Type O Negative",
+          "type o negative",
+          "type o",
+          "ton"
+        ],
+        "aliasesTitle": [
+          "My Girlfriend's Girlfriend",
+          "my girlfriend s girlfriend"
+        ]
+      },
+      {
+        "id": "emo-105",
+        "artist": "Nine Inch Nails",
+        "title": "Head Like a Hole",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/37/f8/b937f852-50fa-cd86-cd70-8a28203a122e/mzaf_18139407304487563617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/12/6a/ca126ae1-0019-7c93-c5d4-6fbd49230e6b/14CMGIM00979.rgb.jpg/600x600bb.jpg",
+        "year": "1989",
+        "aliasesArtist": [
+          "Nine Inch Nails",
+          "nine inch nails",
+          "nin"
+        ],
+        "aliasesTitle": [
+          "Head Like a Hole",
+          "head like a hole"
+        ]
+      },
+      {
+        "id": "emo-106",
+        "artist": "Nine Inch Nails",
+        "title": "Hurt",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/e1/a0/fce1a082-de42-06bb-5ed7-2b144bd665e1/mzaf_14281219269714995495.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e0/85/55e0851e-11df-3b6a-7c54-4eef0efc2bed/15UMGIM67680.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Nine Inch Nails",
+          "nine inch nails",
+          "nin"
+        ],
+        "aliasesTitle": [
+          "Hurt",
+          "hurt"
+        ]
+      },
+      {
+        "id": "emo-107",
+        "artist": "Nine Inch Nails",
+        "title": "The Hand That Feeds",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/e3/45/c4e345ca-ec02-f4b5-c9be-47899640cad1/mzaf_6370407922571042587.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/63/3f/55633ff3-3f5d-4e27-2c42-136eb3ad6ab9/06UMGIM39326.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Nine Inch Nails",
+          "nine inch nails",
+          "nin"
+        ],
+        "aliasesTitle": [
+          "The Hand That Feeds",
+          "the hand that feeds"
+        ]
+      },
+      {
+        "id": "emo-108",
+        "artist": "Placebo",
+        "title": "Every You Every Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/47/bc/0847bc45-507a-9f43-16bd-9d0fff100d1c/mzaf_16043826354165160157.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/4e/33/394e3318-f803-51f2-7f28-10e63b45a6d3/5060186926902_1.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "Placebo",
+          "placebo"
+        ],
+        "aliasesTitle": [
+          "Every You Every Me",
+          "every you every me"
+        ]
+      },
+      {
+        "id": "emo-109",
+        "artist": "Placebo",
+        "title": "Pure Morning",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/25/b7/ac25b742-09dd-e526-7a11-fa78a8b58a5c/mzaf_18423554274135906995.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/4e/33/394e3318-f803-51f2-7f28-10e63b45a6d3/5060186926902_1.jpg/600x600bb.jpg",
+        "year": "1998",
+        "aliasesArtist": [
+          "Placebo",
+          "placebo"
+        ],
+        "aliasesTitle": [
+          "Pure Morning",
+          "pure morning"
+        ]
+      },
+      {
+        "id": "emo-110",
+        "artist": "Placebo",
+        "title": "The Bitter End",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/00/ba/3b00ba8f-578a-d11e-7c27-93c0d6e4bfb2/mzaf_11330935066131406980.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/49/29/26492925-3c94-2ab3-8a34-ce7248c12f53/5060186926896_1.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Placebo",
+          "placebo"
+        ],
+        "aliasesTitle": [
+          "The Bitter End",
+          "the bitter end"
+        ]
+      },
+      {
+        "id": "emo-111",
+        "artist": "Rage Against the Machine",
+        "title": "Sleep Now in the Fire",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/b0/1c/38b01c38-a841-759a-b6b5-6cd21a5fa7fa/mzaf_10935350278899027753.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/7d/eb/107deb76-ee81-8151-2375-7b18f67591f0/074646963029.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Rage Against the Machine",
+          "rage against the machine",
+          "ratm"
+        ],
+        "aliasesTitle": [
+          "Sleep Now in the Fire",
+          "Sleep Now In the Fire",
+          "sleep now in the fire"
+        ]
+      },
+      {
+        "id": "emo-112",
+        "artist": "Rage Against the Machine",
+        "title": "Testify",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/87/cc/6087ccf3-7196-7e3e-6275-52f7c4047cb9/mzaf_16153765176090767629.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/7d/eb/107deb76-ee81-8151-2375-7b18f67591f0/074646963029.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "Rage Against the Machine",
+          "rage against the machine",
+          "ratm"
+        ],
+        "aliasesTitle": [
+          "Testify",
+          "testify"
+        ]
+      },
+      {
+        "id": "emo-113",
+        "artist": "Bush",
+        "title": "Glycerine",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/9d/8d/909d8d1c-7716-b236-1e10-6d8b4e44fc6c/mzaf_15379344112754449706.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/4f/c7/074fc775-fe17-a451-22b3-d069e42e513a/23UM1IM10313.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Bush",
+          "bush"
+        ],
+        "aliasesTitle": [
+          "Glycerine",
+          "glycerine"
+        ]
+      },
+      {
+        "id": "emo-114",
+        "artist": "Bush",
+        "title": "Machinehead",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/41/9d/8d419de5-5e12-620b-0d9d-27875c41f71e/mzaf_13771166596713052296.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/4f/c7/074fc775-fe17-a451-22b3-d069e42e513a/23UM1IM10313.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Bush",
+          "bush"
+        ],
+        "aliasesTitle": [
+          "Machinehead",
+          "machinehead"
+        ]
+      },
+      {
+        "id": "emo-115",
+        "artist": "Stone Temple Pilots",
+        "title": "Plush",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/eb/90/57eb9074-71f0-f547-ba0f-cbcbb7d88a12/mzaf_11090778891603612198.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d1/78/59/d178595c-350b-ad13-0386-1e734a9762ea/603497866878.jpg/600x600bb.jpg",
+        "year": "1992",
+        "aliasesArtist": [
+          "Stone Temple Pilots",
+          "stone temple pilots",
+          "stp"
+        ],
+        "aliasesTitle": [
+          "Plush",
+          "plush"
+        ]
+      },
+      {
+        "id": "emo-116",
+        "artist": "Stone Temple Pilots",
+        "title": "Interstate Love Song",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/a1/02/57a102c2-30d3-a201-f488-d240149f3690/mzaf_9729283249699995301.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f9/5d/c3/f95dc3b6-fa4d-ad2c-fe34-c6e53d748cef/dj.crzhohrj.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Stone Temple Pilots",
+          "stone temple pilots",
+          "stp"
+        ],
+        "aliasesTitle": [
+          "Interstate Love Song",
+          "interstate love song"
+        ]
+      },
+      {
+        "id": "emo-117",
+        "artist": "Weezer",
+        "title": "Say It Ain't So",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/e5/59/48e559e1-bfd9-8ad4-052b-b899ef9835c5/mzaf_8264122409189961541.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/ef/02/98ef026e-7d73-f8ce-90d0-b41371ad20aa/16UMGIM52970.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Weezer",
+          "weezer"
+        ],
+        "aliasesTitle": [
+          "Say It Ain't So",
+          "say it ain t so"
+        ]
+      },
+      {
+        "id": "emo-118",
+        "artist": "Weezer",
+        "title": "Buddy Holly",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/60/34/df60346a-1cf2-ddab-1cf0-d65645b33f36/mzaf_16808171662639286332.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/ef/02/98ef026e-7d73-f8ce-90d0-b41371ad20aa/16UMGIM52970.rgb.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Weezer",
+          "weezer"
+        ],
+        "aliasesTitle": [
+          "Buddy Holly",
+          "buddy holly"
+        ]
+      },
+      {
+        "id": "emo-119",
+        "artist": "Muse",
+        "title": "Plug In Baby",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/9d/c1/1e9dc1ad-2d67-e8f7-58b1-ab28529fb8e1/mzaf_8197174296348522167.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c8/0b/0cc80b73-aa09-492d-4fcc-984cab29acfa/825646096909.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Muse",
+          "muse"
+        ],
+        "aliasesTitle": [
+          "Plug In Baby",
+          "plug in baby"
+        ]
+      },
+      {
+        "id": "emo-120",
+        "artist": "Muse",
+        "title": "Hysteria",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/2b/cd/012bcd29-e307-6001-b04c-adb2d812b15f/mzaf_11957251313499178138.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/73/ab/4a73abdf-1d55-b3fe-484d-e023a507428e/5054197904233.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Muse",
+          "muse"
+        ],
+        "aliasesTitle": [
+          "Hysteria",
+          "hysteria"
+        ]
+      },
+      {
+        "id": "emo-121",
+        "artist": "Linkin Park",
+        "title": "In the End",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/33/34/d933341d-ba95-dc3b-11a3-34d6632dd62e/mzaf_10942671303595386057.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "In the End",
+          "in the end"
+        ]
+      },
+      {
+        "id": "emo-122",
+        "artist": "Linkin Park",
+        "title": "Numb",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/dc/45/93dc455c-483f-8931-ef2e-cec30e2ed4bb/mzaf_3013383482601094146.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/dd/7d/72/dd7d7259-d27f-5b3e-ce64-9e304d2cb40f/dj.rxzrauer.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Numb",
+          "numb"
+        ]
+      },
+      {
+        "id": "emo-123",
+        "artist": "Linkin Park",
+        "title": "Crawling",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/ea/d8/deead8ab-7b8d-5782-1c02-259fa5677cd2/mzaf_8048490457254389324.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Crawling",
+          "crawling"
+        ]
+      },
+      {
+        "id": "emo-124",
+        "artist": "Linkin Park",
+        "title": "Faint",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/e8/ea/66e8ea3f-6927-91bf-5821-b56513189164/mzaf_3445502432987139874.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Faint",
+          "faint"
+        ]
+      },
+      {
+        "id": "emo-125",
+        "artist": "Linkin Park",
+        "title": "Somewhere I Belong",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/37/5e/7c375e58-88c7-c58c-921e-523950eaf5fc/mzaf_14282190871089906349.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Somewhere I Belong",
+          "somewhere i belong"
+        ]
+      },
+      {
+        "id": "emo-126",
+        "artist": "Linkin Park",
+        "title": "Breaking the Habit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/ba/c3/f8bac368-7ee7-8ac4-fee1-da7c1b5e3558/mzaf_5815376596158138679.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Breaking the Habit",
+          "breaking the habit"
+        ]
+      },
+      {
+        "id": "emo-127",
+        "artist": "Linkin Park",
+        "title": "One Step Closer",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/28/cf/a428cf89-f8c4-0b1d-d5d5-5a3a85684943/mzaf_4552206727859468134.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "One Step Closer",
+          "one step closer"
+        ]
+      },
+      {
+        "id": "emo-128",
+        "artist": "Linkin Park",
+        "title": "Papercut",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/39/79/c739796d-5b08-5a14-f1ba-ffa418c7da0a/mzaf_17229112414731949582.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "Papercut",
+          "papercut"
+        ]
+      },
+      {
+        "id": "emo-129",
+        "artist": "Linkin Park",
+        "title": "What I've Done",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/90/94/959094df-bf3e-6204-5b97-5cbc4c6242b2/mzaf_7071906531654724628.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/03/56/730356d5-a510-3d3f-d3c6-171f64700d35/093624948971.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Linkin Park",
+          "LINKIN PARK",
+          "linkin park",
+          "lp"
+        ],
+        "aliasesTitle": [
+          "What I've Done",
+          "what i ve done"
+        ]
+      },
+      {
+        "id": "emo-130",
+        "artist": "My Chemical Romance",
+        "title": "Welcome to the Black Parade",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/3c/d6/ea3cd64e-fa54-c3c0-b2e3-e96a7b16cbc1/mzaf_2589197593248149925.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Welcome to the Black Parade",
+          "welcome to the black parade",
+          "black parade"
+        ]
+      },
+      {
+        "id": "emo-131",
+        "artist": "My Chemical Romance",
+        "title": "Helena",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/99/77/0c99772f-b8e0-e2c2-9e9c-df202e06d08e/mzaf_18362908824438910741.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/58/f7/4258f7bb-eb5b-62b8-573d-6200df0fe3e1/093624917731.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Helena",
+          "helena",
+          "helena so long and goodnight",
+          "so long and goodnight"
+        ]
+      },
+      {
+        "id": "emo-132",
+        "artist": "My Chemical Romance",
+        "title": "I'm Not Okay (I Promise)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/6a/67/ff6a67db-94ba-2aeb-6ed7-c76198a60f0d/mzaf_17281600465089548173.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6c/e2/ff/6ce2ff5c-fc2e-e00c-b5f5-91a976d0205b/093624938347.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "I'm Not Okay (I Promise)",
+          "i m not okay i promise",
+          "im not okay",
+          "i'm not okay"
+        ]
+      },
+      {
+        "id": "emo-133",
+        "artist": "My Chemical Romance",
+        "title": "Teenagers",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/fb/a7/4ffba7c5-a94f-5232-b856-596c01cf93b3/mzaf_518200499225869557.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Teenagers",
+          "teenagers"
+        ]
+      },
+      {
+        "id": "emo-134",
+        "artist": "My Chemical Romance",
+        "title": "Famous Last Words",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/e4/a3/0ae4a3a6-e2b3-d880-5a1b-83cd88df0753/mzaf_17356891024347861067.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Famous Last Words",
+          "famous last words"
+        ]
+      },
+      {
+        "id": "emo-135",
+        "artist": "My Chemical Romance",
+        "title": "The Ghost of You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/00/a8/d400a8a9-2007-ad7c-3f81-25bebb02c2b2/mzaf_16664691703319416685.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/58/f7/4258f7bb-eb5b-62b8-573d-6200df0fe3e1/093624917731.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "The Ghost of You",
+          "the ghost of you",
+          "ghost of you"
+        ]
+      },
+      {
+        "id": "emo-136",
+        "artist": "My Chemical Romance",
+        "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/04/96/80049625-ea06-43ac-63ff-5cdf8bfbe15c/mzaf_8700673238693922490.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6c/e2/ff/6ce2ff5c-fc2e-e00c-b5f5-91a976d0205b/093624938347.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+          "na na na na na na na na na na na na",
+          "na na na"
+        ]
+      },
+      {
+        "id": "emo-137",
+        "artist": "My Chemical Romance",
+        "title": "Dead!",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/e1/2e/03e12efe-2ef7-1942-2cdf-d2ee38b0cc61/mzaf_198454200296549896.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "My Chemical Romance",
+          "my chemical romance",
+          "mcr"
+        ],
+        "aliasesTitle": [
+          "Dead!",
+          "dead"
+        ]
+      },
+      {
+        "id": "emo-138",
+        "artist": "Evanescence",
+        "title": "Bring Me to Life",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/b9/60/d2b96000-fd12-4645-106e-48238d264995/mzaf_4464035852986978967.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Evanescence",
+          "evanescence"
+        ],
+        "aliasesTitle": [
+          "Bring Me to Life",
+          "bring me to life"
+        ]
+      },
+      {
+        "id": "emo-139",
+        "artist": "Evanescence",
+        "title": "My Immortal",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/e1/43/fce143f6-e9d4-72cc-687e-22fc2413afc6/mzaf_13937501123752221001.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Evanescence",
+          "evanescence"
+        ],
+        "aliasesTitle": [
+          "My Immortal",
+          "my immortal"
+        ]
+      },
+      {
+        "id": "emo-140",
+        "artist": "Evanescence",
+        "title": "Going Under",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/50/f2/b150f28b-831a-1255-477c-cd010a26af02/mzaf_14629931387797134127.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/49/1a/52491ac9-cef8-4a6a-1a16-a1c01ad44abc/14CMGIM00930.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Evanescence",
+          "evanescence"
+        ],
+        "aliasesTitle": [
+          "Going Under",
+          "going under"
+        ]
+      },
+      {
+        "id": "emo-141",
+        "artist": "Paramore",
+        "title": "Misery Business",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/45/e1/3645e1cb-e076-4c5a-606f-5099f3ac686c/mzaf_1349667424240188322.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "Misery Business",
+          "misery business"
+        ]
+      },
+      {
+        "id": "emo-142",
+        "artist": "Paramore",
+        "title": "Decode",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/13/5d/9c135d03-bc72-82bb-458e-fd2df9e056bb/mzaf_1914163733059504079.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/99/dd/3199ddd5-6317-d6a1-f447-712ac86161ba/mzi.bwfrnenf.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "Decode",
+          "decode"
+        ]
+      },
+      {
+        "id": "emo-143",
+        "artist": "Paramore",
+        "title": "crushcrushcrush",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/af/52/01af525d-c75e-9979-4af6-9e51f8e9784d/mzaf_15818709860381541858.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "crushcrushcrush",
+          "Crushcrushcrush",
+          "crush crush crush"
+        ]
+      },
+      {
+        "id": "emo-144",
+        "artist": "Paramore",
+        "title": "That's What You Get",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/84/00/d2840065-de82-5e50-dde0-eed4ec1b6585/mzaf_1762682695978380576.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "That's What You Get",
+          "that s what you get"
+        ]
+      },
+      {
+        "id": "emo-145",
+        "artist": "Paramore",
+        "title": "Ignorance",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/02/a1/7802a17d-20cc-f653-958a-f19b05cc16ae/mzaf_6631755867548647820.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/48/29/424829a6-42fe-77e7-770e-a760f54ec3de/dj.qnyuzqoy.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "Ignorance",
+          "ignorance"
+        ]
+      },
+      {
+        "id": "emo-146",
+        "artist": "Paramore",
+        "title": "Still Into You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/a5/2b/eba52b2a-4b67-feec-d164-18d62272389b/mzaf_9008510425763008488.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/cb/9d/32cb9d04-ef0f-93bb-fd2f-19b395785025/075679956187.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Paramore",
+          "paramore"
+        ],
+        "aliasesTitle": [
+          "Still Into You",
+          "still into you"
+        ]
+      },
+      {
+        "id": "emo-147",
+        "artist": "Fall Out Boy",
+        "title": "Sugar, We're Goin Down",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/37/be/4337be11-1013-d9ac-c9d0-d2c0bdbfb2e9/mzaf_6612085569817974027.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/ff/60/eaff603f-d108-2815-3dce-db39b990635f/06UMGIM11830.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "Sugar, We're Goin Down",
+          "sugar we re goin down"
+        ]
+      },
+      {
+        "id": "emo-148",
+        "artist": "Fall Out Boy",
+        "title": "Dance, Dance",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/de/4b/73de4bc9-1d96-4ee5-06c1-de950e9a9998/mzaf_3539830352754754263.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/ff/60/eaff603f-d108-2815-3dce-db39b990635f/06UMGIM11830.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "Dance, Dance",
+          "dance dance"
+        ]
+      },
+      {
+        "id": "emo-149",
+        "artist": "Fall Out Boy",
+        "title": "Thnks fr th Mmrs",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/4b/34/854b3433-e353-cdb7-69bf-ad28c6551b6e/mzaf_4853304056446923176.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/02/58/1e0258e0-d921-b7d1-7519-74f31fed4391/07UMGIM03661.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "Thnks fr th Mmrs",
+          "Thnks Fr Th Mmrs",
+          "thnks fr th mmrs",
+          "thanks for the memories",
+          "thanks fr th mmrs"
+        ]
+      },
+      {
+        "id": "emo-150",
+        "artist": "Fall Out Boy",
+        "title": "This Ain't a Scene, It's an Arms Race",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/45/56/07455612-0e14-7451-421a-fc87b1d57866/mzaf_6604969589741027270.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/02/58/1e0258e0-d921-b7d1-7519-74f31fed4391/07UMGIM03661.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "This Ain't a Scene, It's an Arms Race",
+          "this ain t a scene it s an arms race"
+        ]
+      },
+      {
+        "id": "emo-151",
+        "artist": "Fall Out Boy",
+        "title": "Centuries",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/30/59/e830595c-728e-062e-4fa2-6f949d179ae1/mzaf_15674859187827806913.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "Centuries",
+          "centuries"
+        ]
+      },
+      {
+        "id": "emo-152",
+        "artist": "Fall Out Boy",
+        "title": "Uma Thurman",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/ca/68/c0ca6832-cc5f-093c-0a56-45d3120f9e28/mzaf_4937252664108737657.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "Fall Out Boy",
+          "fall out boy",
+          "fob"
+        ],
+        "aliasesTitle": [
+          "Uma Thurman",
+          "uma thurman"
+        ]
+      },
+      {
+        "id": "emo-153",
+        "artist": "Panic! at the Disco",
+        "title": "I Write Sins Not Tragedies",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/48/4d/67484dec-7629-98c7-8483-ed81e5da9f29/mzaf_5144856539723904542.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/d8/5e/07d85ee0-bb20-606f-8da3-523b4bb4a8d3/mzi.stmeokws.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Panic! at the Disco",
+          "Panic! At the Disco",
+          "panic at the disco",
+          "panic! at the disco",
+          "patd",
+          "p!atd"
+        ],
+        "aliasesTitle": [
+          "I Write Sins Not Tragedies",
+          "i write sins not tragedies"
+        ]
+      },
+      {
+        "id": "emo-154",
+        "artist": "Panic! at the Disco",
+        "title": "But It's Better If You Do",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/69/1a/ea691a29-923b-2694-5901-c597ce09c08c/mzaf_15844312499723079533.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/4b/88/474b88c7-e37e-0bb5-e2f8-45f7e80ec4ce/645131207760.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Panic! at the Disco",
+          "Panic! At the Disco",
+          "panic at the disco",
+          "panic! at the disco",
+          "patd",
+          "p!atd"
+        ],
+        "aliasesTitle": [
+          "But It's Better If You Do",
+          "but it s better if you do"
+        ]
+      },
+      {
+        "id": "emo-155",
+        "artist": "Panic! at the Disco",
+        "title": "Nine in the Afternoon",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/22/ab/5f22abae-4f59-3588-8678-3a1bd14080b4/mzaf_12021317760071612134.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/96/5b/f7965b7c-e852-2163-71ab-da84f77d5ac3/mzi.inmhcvjb.jpg/600x600bb.jpg",
+        "year": "2008",
+        "aliasesArtist": [
+          "Panic! at the Disco",
+          "Panic! At the Disco",
+          "panic at the disco",
+          "panic! at the disco",
+          "patd",
+          "p!atd"
+        ],
+        "aliasesTitle": [
+          "Nine in the Afternoon",
+          "Nine In the Afternoon",
+          "nine in the afternoon"
+        ]
+      },
+      {
+        "id": "emo-156",
+        "artist": "Jimmy Eat World",
+        "title": "The Middle",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/5f/f4/e85ff4ea-5d1d-7a6e-02c8-273aef1ca5c6/mzaf_12404103951306051212.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/28/1b/8c281bbb-daad-c473-6adb-1b4ca33a5a44/00602577027420.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Jimmy Eat World",
+          "jimmy eat world"
+        ],
+        "aliasesTitle": [
+          "The Middle",
+          "the middle"
+        ]
+      },
+      {
+        "id": "emo-157",
+        "artist": "Jimmy Eat World",
+        "title": "Sweetness",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/3c/2e/e03c2e73-d1b2-9113-00a1-07e8fd6ed66f/mzaf_4335799067153572089.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/28/1b/8c281bbb-daad-c473-6adb-1b4ca33a5a44/00602577027420.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Jimmy Eat World",
+          "jimmy eat world"
+        ],
+        "aliasesTitle": [
+          "Sweetness",
+          "sweetness"
+        ]
+      },
+      {
+        "id": "emo-158",
+        "artist": "Jimmy Eat World",
+        "title": "Pain",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/96/99/29969954-dbd3-df14-9153-57c6a721bf00/mzaf_10440393088569586993.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/46/4e/2f464ecc-a346-8ba3-775a-f53740f49461/00602577027444.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Jimmy Eat World",
+          "jimmy eat world"
+        ],
+        "aliasesTitle": [
+          "Pain",
+          "pain"
+        ]
+      },
+      {
+        "id": "emo-159",
+        "artist": "Jimmy Eat World",
+        "title": "Hear You Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/d2/1d/58d21d01-5cc3-a3f9-fdcc-5a33a0d12040/mzaf_12441058112463527915.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/28/1b/8c281bbb-daad-c473-6adb-1b4ca33a5a44/00602577027420.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Jimmy Eat World",
+          "jimmy eat world"
+        ],
+        "aliasesTitle": [
+          "Hear You Me",
+          "hear you me"
+        ]
+      },
+      {
+        "id": "emo-160",
+        "artist": "Taking Back Sunday",
+        "title": "MakeDamnSure",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/a8/d4/f9a8d400-8ff8-ec6d-4710-fbf6ab40be44/mzaf_17026376223035353453.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/35/3f/f1353f4a-e067-581e-82ea-633d63d97f48/18CRGIM06104.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Taking Back Sunday",
+          "taking back sunday",
+          "tbs"
+        ],
+        "aliasesTitle": [
+          "MakeDamnSure",
+          "makedamnsure",
+          "make damn sure",
+          "make damnsure"
+        ]
+      },
+      {
+        "id": "emo-161",
+        "artist": "Taking Back Sunday",
+        "title": "Cute Without the 'E' (Cut from the Team)",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/a3/ed/eca3ede6-8af0-8f42-fe78-5f517093040a/mzaf_10010223889130308819.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/80/72/92807228-cdba-6f11-577c-6e8a8753db7b/19CRGIM15501.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Taking Back Sunday",
+          "taking back sunday",
+          "tbs"
+        ],
+        "aliasesTitle": [
+          "Cute Without the 'E' (Cut from the Team)",
+          "cute without the e cut from the team",
+          "cute without the e"
+        ]
+      },
+      {
+        "id": "emo-162",
+        "artist": "Taking Back Sunday",
+        "title": "You're So Last Summer",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/45/09/cc4509de-1ff3-357a-f55f-cbcf9969f59e/mzaf_17872946567344120577.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/80/72/92807228-cdba-6f11-577c-6e8a8753db7b/19CRGIM15501.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Taking Back Sunday",
+          "taking back sunday",
+          "tbs"
+        ],
+        "aliasesTitle": [
+          "You're So Last Summer",
+          "you re so last summer"
+        ]
+      },
+      {
+        "id": "emo-163",
+        "artist": "Brand New",
+        "title": "The Quiet Things That No One Ever Knows",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/03/7b/2c037b3d-15e5-043c-ae77-48af620f586d/mzaf_18335003125563880756.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/66/86/5566866b-0c84-3f85-136f-16d2f402f5be/16CRGIM00067.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Brand New",
+          "brand new"
+        ],
+        "aliasesTitle": [
+          "The Quiet Things That No One Ever Knows",
+          "the quiet things that no one ever knows",
+          "quiet things"
+        ]
+      },
+      {
+        "id": "emo-164",
+        "artist": "Brand New",
+        "title": "Sic Transit Gloria... Glory Fades",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/31/55/f73155cd-a3db-8ea3-7796-ebf050989c27/mzaf_137799396109241806.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/66/86/5566866b-0c84-3f85-136f-16d2f402f5be/16CRGIM00067.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Brand New",
+          "brand new"
+        ],
+        "aliasesTitle": [
+          "Sic Transit Gloria... Glory Fades",
+          "Sic Transit Gloria ... Glory Fades",
+          "sic transit gloria glory fades",
+          "sic transit gloria"
+        ]
+      },
+      {
+        "id": "emo-165",
+        "artist": "Brand New",
+        "title": "Jesus Christ",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/e5/3e/fde53e47-0cff-1a8f-3e15-f4dd299da97c/mzaf_4737227843866327832.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/08/bf/8a08bf74-a1ba-104e-55c1-b60bf7f4c4d0/00602517132542.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Brand New",
+          "brand new"
+        ],
+        "aliasesTitle": [
+          "Jesus Christ",
+          "jesus christ"
+        ]
+      },
+      {
+        "id": "emo-166",
+        "artist": "blink-182",
+        "title": "I Miss You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/c6/17/87c6173e-05a4-909a-808a-514246d67638/mzaf_16524416540343663914.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/be/19/57be194f-7b85-86ed-f59b-afc86806b6e5/16UMGIM35664.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "I Miss You",
+          "i miss you"
+        ]
+      },
+      {
+        "id": "emo-167",
+        "artist": "blink-182",
+        "title": "Adam's Song",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/69/4e/4d694ef1-9dfe-c977-95f5-3db661975e41/mzaf_9002306080932772411.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/3d/86/c13d8619-0794-ceee-6b1b-d0709119a9cf/16UMGIM35657.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "Adam's Song",
+          "adam s song"
+        ]
+      },
+      {
+        "id": "emo-168",
+        "artist": "blink-182",
+        "title": "All the Small Things",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/76/90/8d769061-a65b-6031-6236-d1ed857bfb23/mzaf_15213586158754899777.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/54/b8/d054b82b-981e-6834-6d47-09d00faad533/16UMGIM35659.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "All the Small Things",
+          "all the small things"
+        ]
+      },
+      {
+        "id": "emo-169",
+        "artist": "blink-182",
+        "title": "What's My Age Again?",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/47/05/fa4705d6-c6cd-e8af-c2de-3658ebcfc93f/mzaf_11023782226348954802.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/54/b8/d054b82b-981e-6834-6d47-09d00faad533/16UMGIM35659.rgb.jpg/600x600bb.jpg",
+        "year": "1999",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "What's My Age Again?",
+          "what s my age again"
+        ]
+      },
+      {
+        "id": "emo-170",
+        "artist": "blink-182",
+        "title": "Dammit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/01/95/d10195aa-3c3c-a0c9-3b18-c5092ca6b0d9/mzaf_10392903982853381536.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/c4/52/7ac452a0-7d32-1d91-4058-489a45ac3d83/20UMGIM78120.rgb.jpg/600x600bb.jpg",
+        "year": "1997",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "Dammit",
+          "dammit",
+          "dammit growing up"
+        ]
+      },
+      {
+        "id": "emo-171",
+        "artist": "blink-182",
+        "title": "Feeling This",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/b0/93/8cb09313-b2f0-3366-3d61-2ca94fc55859/mzaf_6048340176224749181.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/9d/c5/e39dc58d-faa8-e707-8f94-42840aaa7a0c/16UMGIM35665.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "blink-182",
+          "blink 182",
+          "blink"
+        ],
+        "aliasesTitle": [
+          "Feeling This",
+          "feeling this"
+        ]
+      },
+      {
+        "id": "emo-172",
+        "artist": "Green Day",
+        "title": "Basket Case",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/2b/fe/d32bfe59-ce6f-2130-7445-589be60c4b17/mzaf_14529423277593289725.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/83/e7/8883e74b-1b7c-0725-09de-21e4e00d54b5/093624915713.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "Basket Case",
+          "basket case"
+        ]
+      },
+      {
+        "id": "emo-173",
+        "artist": "Green Day",
+        "title": "When I Come Around",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/cf/a4/95cfa46a-4bd1-6c80-bd35-8e3a2230f7bc/mzaf_7404057727951184752.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/83/e7/8883e74b-1b7c-0725-09de-21e4e00d54b5/093624915713.jpg/600x600bb.jpg",
+        "year": "1994",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "When I Come Around",
+          "when i come around"
+        ]
+      },
+      {
+        "id": "emo-174",
+        "artist": "Green Day",
+        "title": "Holiday",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/f1/d0/86f1d039-f2d6-2f5b-b34b-2b63504fa6d0/mzaf_3363059623415356317.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/17/f0/0e17f011-aadf-d4d1-1c7e-b61ce39f968b/093624947301.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "Holiday",
+          "holiday"
+        ]
+      },
+      {
+        "id": "emo-175",
+        "artist": "Green Day",
+        "title": "21 Guns",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/2b/35/b52b35c0-e2b1-4aa8-3aa8-43daede77621/mzaf_3845353262823725441.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/36/d6/b836d655-7ef3-5c93-734e-fb77c4981308/mzi.opxridrf.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "21 Guns",
+          "21 guns"
+        ]
+      },
+      {
+        "id": "emo-176",
+        "artist": "Green Day",
+        "title": "Wake Me Up When September Ends",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/1e/01/6d1e01bf-4389-bc76-74d3-80cc1eb24b35/mzaf_18076976258909915107.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/17/c2/mzi.ofggkufy.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "Wake Me Up When September Ends",
+          "wake me up when september ends"
+        ]
+      },
+      {
+        "id": "emo-177",
+        "artist": "Green Day",
+        "title": "Know Your Enemy",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/14/5d/a7145d65-1efd-8c31-ce9a-d931130a80c9/mzaf_14660193744896377837.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/36/d6/b836d655-7ef3-5c93-734e-fb77c4981308/mzi.opxridrf.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "Green Day",
+          "green day",
+          "greenday"
+        ],
+        "aliasesTitle": [
+          "Know Your Enemy",
+          "know your enemy"
+        ]
+      },
+      {
+        "id": "emo-178",
+        "artist": "The Used",
+        "title": "The Bird and the Worm",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/8a/76/628a763b-6e49-14b6-59b9-5c5f2dde9b6f/mzaf_13416774066469056044.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/cd/9b/mzi.rvyozktu.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "The Used",
+          "the used"
+        ],
+        "aliasesTitle": [
+          "The Bird and the Worm",
+          "the bird and the worm"
+        ]
+      },
+      {
+        "id": "emo-179",
+        "artist": "The Used",
+        "title": "All That I've Got",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/c8/55/6cc85517-41ab-af75-e635-be4ba8d01c18/mzaf_605148461159552742.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m09/d15/h20/s06.uyelltbr.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "The Used",
+          "the used"
+        ],
+        "aliasesTitle": [
+          "All That I've Got",
+          "All That I've Got (Amended Album Version)",
+          "all that ive got",
+          "all that i've got"
+        ]
+      },
+      {
+        "id": "emo-180",
+        "artist": "Underoath",
+        "title": "Writing on the Walls",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/38/a8/df38a87b-64b5-6466-085a-571b6004f672/mzaf_7944964436339243637.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/8c/ef/5f8cef89-fa4e-6ea0-529c-8a8b58a38a2c/00094634265850.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Underoath",
+          "underoath",
+          "under oath"
+        ],
+        "aliasesTitle": [
+          "Writing on the Walls",
+          "Writing On the Walls",
+          "writing on the walls"
+        ]
+      },
+      {
+        "id": "emo-181",
+        "artist": "Underoath",
+        "title": "Reinventing Your Exit",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/84/1e/23841ea2-b9c3-0fcb-e366-2d1477760f0f/mzaf_14541877693387670676.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/00/68/1b00687a-cdae-ea18-a229-6f50611af545/00724358318456.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Underoath",
+          "underoath",
+          "under oath"
+        ],
+        "aliasesTitle": [
+          "Reinventing Your Exit",
+          "reinventing your exit"
+        ]
+      },
+      {
+        "id": "emo-182",
+        "artist": "Silverstein",
+        "title": "My Heroine",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/2c/f5/692cf599-580a-39f9-72ff-7461df740510/mzaf_3272609629050641465.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/17/ad/6d17ad1c-6ce9-274b-578f-566876af0513/19CRGIM19724.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Silverstein",
+          "silverstein"
+        ],
+        "aliasesTitle": [
+          "My Heroine",
+          "my heroine"
+        ]
+      },
+      {
+        "id": "emo-183",
+        "artist": "Silverstein",
+        "title": "Smashed Into Pieces",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/8f/a2/e28fa229-43fd-4e1d-3e9d-9d0732871e75/mzaf_14638084147371542860.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/81/f7/1781f763-3ef0-f687-8ace-21c8bbad230d/19CRGIM19694.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Silverstein",
+          "silverstein"
+        ],
+        "aliasesTitle": [
+          "Smashed Into Pieces",
+          "smashed into pieces"
+        ]
+      },
+      {
+        "id": "emo-184",
+        "artist": "Alexisonfire",
+        "title": "This Could Be Anywhere in the World",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/88/70/c18870be-602c-6193-8c77-d66226a889ef/mzaf_3442452102329086824.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/65/33/22/6533229e-f5c5-b5d8-c46e-917f6e184d97/821826002531.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Alexisonfire",
+          "alexisonfire",
+          "alex is on fire"
+        ],
+        "aliasesTitle": [
+          "This Could Be Anywhere in the World",
+          "this could be anywhere in the world",
+          "anywhere in the world"
+        ]
+      },
+      {
+        "id": "emo-185",
+        "artist": "Alexisonfire",
+        "title": "Boiled Frogs",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/f0/04/39f00424-db1b-5e29-7521-e80d1003249a/mzaf_5686848793048586023.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/65/33/22/6533229e-f5c5-b5d8-c46e-917f6e184d97/821826002531.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Alexisonfire",
+          "alexisonfire",
+          "alex is on fire"
+        ],
+        "aliasesTitle": [
+          "Boiled Frogs",
+          "boiled frogs"
+        ]
+      },
+      {
+        "id": "emo-186",
+        "artist": "Thrice",
+        "title": "The Artist in the Ambulance",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/e7/16/dce7163c-a66d-1977-4905-dc1d248cd1cf/mzaf_11926826896999449324.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/cc/55/f5cc5594-0ab4-645f-d61a-c6d79d6b8a33/06UMGIM09833.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Thrice",
+          "thrice"
+        ],
+        "aliasesTitle": [
+          "The Artist in the Ambulance",
+          "the artist in the ambulance"
+        ]
+      },
+      {
+        "id": "emo-187",
+        "artist": "Thrice",
+        "title": "Stare at the Sun",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/32/be/0832be3e-93d1-a8a6-47d7-d6440859aba5/mzaf_1580141082271937100.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/cc/55/f5cc5594-0ab4-645f-d61a-c6d79d6b8a33/06UMGIM09833.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Thrice",
+          "thrice"
+        ],
+        "aliasesTitle": [
+          "Stare at the Sun",
+          "stare at the sun"
+        ]
+      },
+      {
+        "id": "emo-188",
+        "artist": "Thursday",
+        "title": "Understanding in a Car Crash",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/97/e8/9697e8a4-a4a3-8ad9-8c83-838843952fa5/mzaf_15028245857435350023.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/24/65/402465fc-f857-d8f9-e21b-b2a6038bf748/21CRGIM28256.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Thursday",
+          "thursday"
+        ],
+        "aliasesTitle": [
+          "Understanding in a Car Crash",
+          "Understanding In A Car Crash",
+          "understanding in a car crash"
+        ]
+      },
+      {
+        "id": "emo-189",
+        "artist": "Dashboard Confessional",
+        "title": "Hands Down",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/68/0f/08680f72-4044-837e-4c90-4dfd9663f84f/mzaf_5790575000512018041.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/d8/1e/b8d81ec9-ab3b-ce1b-80d3-b0eba410da03/5056167118336_1.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Dashboard Confessional",
+          "dashboard confessional",
+          "dashboard"
+        ],
+        "aliasesTitle": [
+          "Hands Down",
+          "hands down"
+        ]
+      },
+      {
+        "id": "emo-190",
+        "artist": "Hawthorne Heights",
+        "title": "Ohio Is for Lovers",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/38/59/93385920-737c-848d-0c0f-a991a0f5c657/mzaf_16429021364076314938.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/2d/ee/502dee99-96f7-aa31-d232-5cb9810f8c4e/19CRGIM19784.rgb.jpg/600x600bb.jpg",
+        "year": "2004",
+        "aliasesArtist": [
+          "Hawthorne Heights",
+          "hawthorne heights",
+          "hawthorne"
+        ],
+        "aliasesTitle": [
+          "Ohio Is for Lovers",
+          "Ohio Is For Lovers",
+          "ohio is for lovers"
+        ]
+      },
+      {
+        "id": "emo-191",
+        "artist": "AFI",
+        "title": "Miss Murder",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/ef/90/c4ef9026-9d53-ded8-8afa-baa1d1fe5611/mzaf_2681580767648479031.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/3c/e1/ba3ce1d8-c63a-8d42-e3cc-85532f4a7785/06UMGIM22260.rgb.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "AFI",
+          "afi",
+          "a fire inside"
+        ],
+        "aliasesTitle": [
+          "Miss Murder",
+          "miss murder"
+        ]
+      },
+      {
+        "id": "emo-192",
+        "artist": "AFI",
+        "title": "Girl's Not Grey",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/c0/d3/2fc0d3ae-0d05-832d-699c-646a0c95943f/mzaf_16364627488308251802.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/4d/dc/b04ddc80-408d-8e46-1ebc-32aa87c12c13/06UMGIM13904.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "AFI",
+          "afi",
+          "a fire inside"
+        ],
+        "aliasesTitle": [
+          "Girl's Not Grey",
+          "girl s not grey"
+        ]
+      },
+      {
+        "id": "emo-193",
+        "artist": "Alkaline Trio",
+        "title": "Radio",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/88/20/03882050-854b-b92d-6db7-314fcd9b61c2/mzaf_2420818456331554871.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/db/09/c6db0992-9cd3-f5ac-4087-e457e1786a90/380.jpg/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Alkaline Trio",
+          "alkaline trio"
+        ],
+        "aliasesTitle": [
+          "Radio",
+          "radio"
+        ]
+      },
+      {
+        "id": "emo-194",
+        "artist": "Alkaline Trio",
+        "title": "Mercy Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/05/d6/9305d631-52f1-b400-5e1c-f8e74cc6c64e/mzaf_7582113323368497617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/18/32/2f18321b-bcbc-acb9-ec22-96bb89eac172/4099964234725.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Alkaline Trio",
+          "alkaline trio"
+        ],
+        "aliasesTitle": [
+          "Mercy Me",
+          "mercy me"
+        ]
+      },
+      {
+        "id": "emo-195",
+        "artist": "Coheed and Cambria",
+        "title": "Welcome Home",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/87/99/42879940-5501-eb2a-dadb-7be0ad73c1ff/mzaf_15850507032780195536.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/1a/33/mzi.nvepauid.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "Coheed and Cambria",
+          "coheed and cambria",
+          "coheed & cambria",
+          "coheed"
+        ],
+        "aliasesTitle": [
+          "Welcome Home",
+          "welcome home"
+        ]
+      },
+      {
+        "id": "emo-196",
+        "artist": "Yellowcard",
+        "title": "Ocean Avenue",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/e7/68/10e76877-174d-7a42-b002-148824891b2f/mzaf_8791734343275536748.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/e0/d7/21e0d77b-e66c-0d04-c11f-f4287afd24cd/13UABIM59255.rgb.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Yellowcard",
+          "yellowcard",
+          "yellow card"
+        ],
+        "aliasesTitle": [
+          "Ocean Avenue",
+          "ocean avenue"
+        ]
+      },
+      {
+        "id": "emo-197",
+        "artist": "New Found Glory",
+        "title": "My Friends Over You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/58/0e/c3580eb2-65d2-0fa8-76cd-83536ee4c6a8/mzaf_13890362903303056328.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/3f/e5/c93fe578-bb2a-b169-62be-30764ed2e3f2/19UMGIM66997.rgb.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "New Found Glory",
+          "new found glory",
+          "nfg"
+        ],
+        "aliasesTitle": [
+          "My Friends Over You",
+          "my friends over you"
+        ]
+      },
+      {
+        "id": "emo-198",
+        "artist": "Sum 41",
+        "title": "Fat Lip",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/bb/63/4fbb63dc-140b-2371-d3f9-5b9e1a9f80cc/mzaf_3122477036994646893.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/17/4d/59174d33-7211-9fb1-5952-5895c94e06d4/09UMGIM03043.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Sum 41",
+          "sum 41",
+          "sum41"
+        ],
+        "aliasesTitle": [
+          "Fat Lip",
+          "fat lip"
+        ]
+      },
+      {
+        "id": "emo-199",
+        "artist": "Sum 41",
+        "title": "In Too Deep",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/52/9b/02529b97-fb7d-027a-d531-a5114602e4b7/mzaf_9879215621047660204.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/32/bb/bd32bb0b-0bb4-88bb-f32a-9ff383579d54/06UMGIM15497.rgb.jpg/600x600bb.jpg",
+        "year": "2001",
+        "aliasesArtist": [
+          "Sum 41",
+          "sum 41",
+          "sum41"
+        ],
+        "aliasesTitle": [
+          "In Too Deep",
+          "in too deep"
+        ]
+      },
+      {
+        "id": "emo-200",
+        "artist": "Simple Plan",
+        "title": "I'm Just a Kid",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/04/cb/fc04cbec-1009-65be-1f44-f074bb8c2f2f/mzaf_11200561571606537586.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/42/2b/17422b02-e17a-5346-f184-4973ca24da91/603497859276.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Simple Plan",
+          "simple plan"
+        ],
+        "aliasesTitle": [
+          "I'm Just a Kid",
+          "i m just a kid"
+        ]
+      },
+      {
+        "id": "emo-201",
+        "artist": "Good Charlotte",
+        "title": "The Anthem",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/cd/8a/59cd8abe-bb7d-1dd1-528f-609065e43d8f/mzaf_11731785089249230258.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/09/55/14095590-b0bd-4d8c-2dc6-866f370e7663/888880383457.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Good Charlotte",
+          "good charlotte"
+        ],
+        "aliasesTitle": [
+          "The Anthem",
+          "the anthem"
+        ]
+      },
+      {
+        "id": "emo-202",
+        "artist": "Avril Lavigne",
+        "title": "Complicated",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/82/55/d58255cd-4bd1-c339-1584-591e9d1305ee/mzaf_14546367220838781682.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/2c/f3/322cf324-9ea1-3962-865a-f4f9bf83764d/888880191069.jpg/600x600bb.jpg",
+        "year": "2002",
+        "aliasesArtist": [
+          "Avril Lavigne",
+          "avril lavigne"
+        ],
+        "aliasesTitle": [
+          "Complicated",
+          "complicated"
+        ]
+      },
+      {
+        "id": "emo-203",
+        "artist": "The All-American Rejects",
+        "title": "Dirty Little Secret",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/7d/c0/877dc01e-d7a4-64e0-0b73-012c766f220b/mzaf_3592967746176583164.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/d2/e0/7ed2e00b-353b-38df-81fc-1a220bdfc57e/26UMGIM90687.rgb.jpg/600x600bb.jpg",
+        "year": "2005",
+        "aliasesArtist": [
+          "The All-American Rejects",
+          "the all-american rejects",
+          "all american rejects",
+          "aar",
+          "the all american rejects"
+        ],
+        "aliasesTitle": [
+          "Dirty Little Secret",
+          "dirty little secret"
+        ]
+      },
+      {
+        "id": "emo-204",
+        "artist": "Mayday Parade",
+        "title": "Jamie All Over",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/46/bf/e546bfaa-1238-70fd-0aef-22b046f51b37/mzaf_580432138803014951.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/8d/25/c58d2562-2165-ef3c-ea8a-763a3b6ece29/16CMGIM00753.rgb.jpg/600x600bb.jpg",
+        "year": "2007",
+        "aliasesArtist": [
+          "Mayday Parade",
+          "mayday parade"
+        ],
+        "aliasesTitle": [
+          "Jamie All Over",
+          "jamie all over"
+        ]
+      },
+      {
+        "id": "emo-205",
+        "artist": "Senses Fail",
+        "title": "Can't Be Saved",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/13/e9/2813e90b-6ffa-0e04-e043-c3cc820dfeb9/mzaf_253563073221562119.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/f0/bf/a3f0bf0a-255e-0b12-850f-fe011c5ed6ca/4050538155754.jpg/600x600bb.jpg",
+        "year": "2006",
+        "aliasesArtist": [
+          "Senses Fail",
+          "senses fail"
+        ],
+        "aliasesTitle": [
+          "Can't Be Saved",
+          "can t be saved"
+        ]
+      },
+      {
+        "id": "emo-206",
+        "artist": "Story of the Year",
+        "title": "Until the Day I Die",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/db/24/bbdb24e7-0743-14d3-904f-2d6f2f50ea5f/mzaf_10806127704564467041.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f2/48/7b/f2487b4a-9cbc-376a-1f68-357b9b0353ff/dj.mqpuqorv.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Story of the Year",
+          "story of the year",
+          "soty"
+        ],
+        "aliasesTitle": [
+          "Until the Day I Die",
+          "until the day i die"
+        ]
+      },
+      {
+        "id": "emo-207",
+        "artist": "Superheaven",
+        "title": "Youngest Daughter",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/9a/98/d39a987d-43bc-3753-82e3-88ce95182601/mzaf_3924238629852012989.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/6b/0c/e36b0c1b-5a7f-d776-6717-5110a40b3286/cover.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Superheaven",
+          "superheaven",
+          "super heaven"
+        ],
+        "aliasesTitle": [
+          "Youngest Daughter",
+          "youngest daughter"
+        ]
+      },
+      {
+        "id": "emo-208",
+        "artist": "Superheaven",
+        "title": "In on It",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/ec/07/afec07d5-fde2-5ee9-0224-7fad8b4a84bb/mzaf_241924963612292617.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/6b/0c/e36b0c1b-5a7f-d776-6717-5110a40b3286/cover.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Superheaven",
+          "superheaven",
+          "super heaven"
+        ],
+        "aliasesTitle": [
+          "In on It",
+          "In On It",
+          "in on it"
+        ]
+      },
+      {
+        "id": "emo-209",
+        "artist": "Superheaven",
+        "title": "Life in a Jar",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/b9/7e/41b97e6d-23d0-8c62-b4a3-15b2a9b69ef1/mzaf_190032963889192281.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/6b/0c/e36b0c1b-5a7f-d776-6717-5110a40b3286/cover.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Superheaven",
+          "superheaven",
+          "super heaven"
+        ],
+        "aliasesTitle": [
+          "Life in a Jar",
+          "Life In a Jar",
+          "life in a jar"
+        ]
+      },
+      {
+        "id": "emo-210",
+        "artist": "Superheaven",
+        "title": "Long Gone",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/8d/29/f38d2983-90fd-8f2a-7428-0a3b1c383cf4/mzaf_8494849638053054233.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b2/ef/77b2efde-0cd5-13a8-e8bb-6786ed7713a5/198846476308.jpg/600x600bb.jpg",
+        "year": "2024",
+        "aliasesArtist": [
+          "Superheaven",
+          "superheaven",
+          "super heaven"
+        ],
+        "aliasesTitle": [
+          "Long Gone",
+          "long gone"
+        ]
+      },
+      {
+        "id": "emo-211",
+        "artist": "Panchiko",
+        "title": "D>E>A>T>H>M>E>T>A>L",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/43/b9/de43b986-50df-88d0-aa79-0d04d43524e7/mzaf_14366313128379069706.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/5b/3b/175b3b35-50e8-0ea1-4a2b-0586cc1ef22d/5057805565994.png/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Panchiko",
+          "panchiko"
+        ],
+        "aliasesTitle": [
+          "D>E>A>T>H>M>E>T>A>L",
+          "d e a t h m e t a l",
+          "deathmetal",
+          "death metal"
+        ]
+      },
+      {
+        "id": "emo-212",
+        "artist": "Panchiko",
+        "title": "Laputa",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/75/40/e775403d-8735-5d86-0e42-8f8e5f335a9c/mzaf_7971115318627619423.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/5b/3b/175b3b35-50e8-0ea1-4a2b-0586cc1ef22d/5057805565994.png/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Panchiko",
+          "panchiko"
+        ],
+        "aliasesTitle": [
+          "Laputa",
+          "laputa"
+        ]
+      },
+      {
+        "id": "emo-213",
+        "artist": "Panchiko",
+        "title": "Kicking Cars",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/be/ae/1cbeae3d-1a62-ea4d-c23d-3dc5913882ba/mzaf_17688460053673108839.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/5b/3b/175b3b35-50e8-0ea1-4a2b-0586cc1ef22d/5057805565994.png/600x600bb.jpg",
+        "year": "2000",
+        "aliasesArtist": [
+          "Panchiko",
+          "panchiko"
+        ],
+        "aliasesTitle": [
+          "Kicking Cars",
+          "kicking cars"
+        ]
+      },
+      {
+        "id": "emo-214",
+        "artist": "Panchiko",
+        "title": "Until I Know",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/02/64/c0026494-8799-2601-fda8-deb9c17f482b/mzaf_4582258207050338490.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/18/1b/e8181bf9-1f3c-c799-62a9-fe0a3bfd1382/5063161920735.png/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "Panchiko",
+          "panchiko"
+        ],
+        "aliasesTitle": [
+          "Until I Know",
+          "until i know"
+        ]
+      },
+      {
+        "id": "emo-215",
+        "artist": "Title Fight",
+        "title": "Head in the Ceiling Fan",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/74/94/357494d9-9dfd-3c71-7bf3-f89977219a9a/mzaf_8115963955801915190.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/15/bb/4d15bb56-54f3-2b4f-1513-5e8ca4f3fa51/109570.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "Title Fight",
+          "title fight"
+        ],
+        "aliasesTitle": [
+          "Head in the Ceiling Fan",
+          "head in the ceiling fan"
+        ]
+      },
+      {
+        "id": "emo-216",
+        "artist": "Title Fight",
+        "title": "Chlorine",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/b8/80/5bb880c0-ecbb-677e-6e24-b38e0d05280a/mzaf_6597355413324427850.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/11/3e/d2113e48-6044-cbd8-132a-1d8225ba5877/artwork.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "Title Fight",
+          "title fight"
+        ],
+        "aliasesTitle": [
+          "Chlorine",
+          "chlorine"
+        ]
+      },
+      {
+        "id": "emo-217",
+        "artist": "Basement",
+        "title": "Covet",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/ea/08/39ea08e9-3085-745e-3ea5-d06318eca447/mzaf_13703956723081695055.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/ac/7b/14ac7b28-e4ae-1ab8-63b7-17c9b47b678a/43554.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "Basement",
+          "basement"
+        ],
+        "aliasesTitle": [
+          "Covet",
+          "covet"
+        ]
+      },
+      {
+        "id": "emo-218",
+        "artist": "Basement",
+        "title": "Whole",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/be/69/7bbe69d9-c093-eec8-5dfd-c18b0ba43148/mzaf_9065828262452448301.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/ac/7b/14ac7b28-e4ae-1ab8-63b7-17c9b47b678a/43554.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "Basement",
+          "basement"
+        ],
+        "aliasesTitle": [
+          "Whole",
+          "whole"
+        ]
+      },
+      {
+        "id": "emo-219",
+        "artist": "Citizen",
+        "title": "The Night I Drove Alone",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/27/70/63277057-5ab4-0259-25b7-9558be85b16b/mzaf_5003724246826837721.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/f1/cf/8af1cfd9-b305-facd-b0e0-859b8c1a4a2b/cover.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Citizen",
+          "citizen"
+        ],
+        "aliasesTitle": [
+          "The Night I Drove Alone",
+          "the night i drove alone"
+        ]
+      },
+      {
+        "id": "emo-220",
+        "artist": "Citizen",
+        "title": "Sleep",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/2e/cf/372ecf08-6844-74e8-d60c-89ba69df5982/mzaf_11790140052201338206.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/f1/cf/8af1cfd9-b305-facd-b0e0-859b8c1a4a2b/cover.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Citizen",
+          "citizen"
+        ],
+        "aliasesTitle": [
+          "Sleep",
+          "sleep"
+        ]
+      },
+      {
+        "id": "emo-221",
+        "artist": "Have Mercy",
+        "title": "Two Years",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/df/48/fddf483a-3fd5-e2d9-52e1-466d853e09cc/mzaf_66159929505246135.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/fc/fd/5e/fcfd5e3b-a202-5e45-4f6a-4b6c7ae74458/HaveMercy-cover-5in500dpi.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "Have Mercy",
+          "have mercy"
+        ],
+        "aliasesTitle": [
+          "Two Years",
+          "two years"
+        ]
+      },
+      {
+        "id": "emo-222",
+        "artist": "Movements",
+        "title": "Daylily",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/f3/23/a2f323a1-6fac-b58e-f9ab-9f0c19821ad5/mzaf_17436689193645174446.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/ec/e0/31ece041-dda6-6bcf-1384-7f8edf295225/17CRGIM03583.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "Movements",
+          "movements"
+        ],
+        "aliasesTitle": [
+          "Daylily",
+          "daylily"
+        ]
+      },
+      {
+        "id": "emo-223",
+        "artist": "Movements",
+        "title": "Deadly Dull",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/16/18/d61618aa-2b5b-53b7-2967-e94ed6556c34/mzaf_11481352686919914114.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/ec/e0/31ece041-dda6-6bcf-1384-7f8edf295225/17CRGIM03583.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "Movements",
+          "movements"
+        ],
+        "aliasesTitle": [
+          "Deadly Dull",
+          "deadly dull"
+        ]
+      },
+      {
+        "id": "emo-224",
+        "artist": "Movements",
+        "title": "Colorblind",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/05/10/1f051007-a6d6-9180-f9c8-2f26cd77a24d/mzaf_17533999221127103147.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/ec/e0/31ece041-dda6-6bcf-1384-7f8edf295225/17CRGIM03583.rgb.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "Movements",
+          "movements"
+        ],
+        "aliasesTitle": [
+          "Colorblind",
+          "colorblind"
+        ]
+      },
+      {
+        "id": "emo-225",
+        "artist": "Knuckle Puck",
+        "title": "Pretense",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/a9/1f/fba91f16-60f2-5400-45a8-d8bfb220563d/mzaf_183796701299575392.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/78/98/75789894-fe49-ab79-90ff-fbda73ba0a56/0851741006147.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "Knuckle Puck",
+          "knuckle puck"
+        ],
+        "aliasesTitle": [
+          "Pretense",
+          "pretense"
+        ]
+      },
+      {
+        "id": "emo-226",
+        "artist": "Knuckle Puck",
+        "title": "Untitled",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/ea/e1/9aeae1bc-2a7a-cdc7-880a-797eee460823/mzaf_5560190985807315566.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/78/98/75789894-fe49-ab79-90ff-fbda73ba0a56/0851741006147.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "Knuckle Puck",
+          "knuckle puck"
+        ],
+        "aliasesTitle": [
+          "Untitled",
+          "untitled"
+        ]
+      },
+      {
+        "id": "emo-227",
+        "artist": "Real Friends",
+        "title": "Late Nights in My Car",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/f8/94/f9f894dc-1b44-aa7b-d0d3-100705fe0a59/mzaf_10418929137925128738.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a9/d9/e4/a9d9e4a1-a6cc-e11c-a7ee-998ab487b7c0/881034186560.png/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Real Friends",
+          "real friends"
+        ],
+        "aliasesTitle": [
+          "Late Nights in My Car",
+          "late nights in my car"
+        ]
+      },
+      {
+        "id": "emo-228",
+        "artist": "Neck Deep",
+        "title": "In Bloom",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/b0/e5/40b0e521-660d-f3f6-9460-c519998e87b7/mzaf_1758968104547024537.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/55/d0/b055d082-22b4-5c6e-6f74-e3e727e2c3d4/00790692239665-cover.jpg/600x600bb.jpg",
+        "year": "2017",
+        "aliasesArtist": [
+          "Neck Deep",
+          "neck deep"
+        ],
+        "aliasesTitle": [
+          "In Bloom",
+          "in bloom"
+        ]
+      },
+      {
+        "id": "emo-229",
+        "artist": "Neck Deep",
+        "title": "A Part of Me",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/c3/8b/55c38b10-05c8-fb23-3ba5-683faaf6661b/mzaf_7244914353474467874.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/c2/c0/3ec2c083-a775-7c3e-3e8e-f318c05031d8/195081300320.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "Neck Deep",
+          "neck deep"
+        ],
+        "aliasesTitle": [
+          "A Part of Me (feat. Laura Whiteside)",
+          "A Part of Me",
+          "a part of me feat laura whiteside"
+        ]
+      },
+      {
+        "id": "emo-230",
+        "artist": "The Story So Far",
+        "title": "Quicksand",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/6a/1d/656a1d41-16ab-b87b-91af-438d9580060f/mzaf_10126319181741767732.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/12/5b/c2125b88-fc12-b2ea-6244-e863843cc592/886445197426.png/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "The Story So Far",
+          "the story so far",
+          "tssf"
+        ],
+        "aliasesTitle": [
+          "Quicksand",
+          "quicksand"
+        ]
+      },
+      {
+        "id": "emo-231",
+        "artist": "The Story So Far",
+        "title": "Roam",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/ca/90/baca909b-c862-7cf4-984f-08d2e7d64c65/mzaf_11432314541599593433.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/12/5b/c2125b88-fc12-b2ea-6244-e863843cc592/886445197426.png/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "The Story So Far",
+          "the story so far",
+          "tssf"
+        ],
+        "aliasesTitle": [
+          "Roam",
+          "roam"
+        ]
+      },
+      {
+        "id": "emo-232",
+        "artist": "The Story So Far",
+        "title": "Empty Space",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/21/e9/7c21e9d1-8958-dc83-6f7c-64efc7843e76/mzaf_8678201245876284903.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/98/3b/4b983b5f-635f-2dfa-f1d4-66c239ae46b2/886445338355.png/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "The Story So Far",
+          "the story so far",
+          "tssf"
+        ],
+        "aliasesTitle": [
+          "Empty Space",
+          "empty space"
+        ]
+      },
+      {
+        "id": "emo-233",
+        "artist": "The Story So Far",
+        "title": "Clairvoyant",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/f7/21/7af72114-5727-89cc-7bea-7af41d91f784/mzaf_7428958873661429687.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e7/32/d6e732f5-2d96-1820-38fd-e654db68ab7d/886445197464.png/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "The Story So Far",
+          "the story so far",
+          "tssf"
+        ],
+        "aliasesTitle": [
+          "Clairvoyant",
+          "clairvoyant"
+        ]
+      },
+      {
+        "id": "emo-234",
+        "artist": "Bring Me the Horizon",
+        "title": "Can You Feel My Heart",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/38/1d/1e381d53-2327-07f8-fe18-e1b103c91c06/mzaf_6212849159226458632.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/78/8d/53788d72-ad5e-c621-3cfc-2c0e357541a5/ticket.wvziznwv.png/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Bring Me the Horizon",
+          "Bring Me The Horizon",
+          "bring me the horizon",
+          "bmth"
+        ],
+        "aliasesTitle": [
+          "Can You Feel My Heart",
+          "can you feel my heart"
+        ]
+      },
+      {
+        "id": "emo-235",
+        "artist": "Bring Me the Horizon",
+        "title": "Drown",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/26/55/7a265541-9393-489d-2e86-836a6539518a/mzaf_8588067707782207709.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/ca/40/72ca4080-e677-c038-40c8-d884e7634c22/0045778740062.png/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "Bring Me the Horizon",
+          "Bring Me The Horizon",
+          "bring me the horizon",
+          "bmth"
+        ],
+        "aliasesTitle": [
+          "Drown",
+          "drown"
+        ]
+      },
+      {
+        "id": "emo-236",
+        "artist": "Bring Me the Horizon",
+        "title": "Throne",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/1a/93/b81a9364-2618-9a33-a11f-540633aeb324/mzaf_11704309218642801852.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/dc/1d/bbdc1dda-00d3-f989-0599-543da601acaf/886445386097.jpg/600x600bb.jpg",
+        "year": "2015",
+        "aliasesArtist": [
+          "Bring Me the Horizon",
+          "Bring Me The Horizon",
+          "bring me the horizon",
+          "bmth"
+        ],
+        "aliasesTitle": [
+          "Throne",
+          "throne"
+        ]
+      },
+      {
+        "id": "emo-237",
+        "artist": "Bring Me the Horizon",
+        "title": "Sleepwalking",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/25/6c/bd256c9a-6c9b-923b-686b-9086869920d1/mzaf_17883218454113497637.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/d5/e0/1ed5e015-03cd-9ef2-3797-5c112288c099/886443690707.jpg/600x600bb.jpg",
+        "year": "2013",
+        "aliasesArtist": [
+          "Bring Me the Horizon",
+          "Bring Me The Horizon",
+          "bring me the horizon",
+          "bmth"
+        ],
+        "aliasesTitle": [
+          "Sleepwalking",
+          "sleepwalking"
+        ]
+      },
+      {
+        "id": "emo-238",
+        "artist": "Pierce the Veil",
+        "title": "King for a Day",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/20/ba/5220ba4f-928f-f660-9ee2-bffce245b497/mzaf_10097383268050509635.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e9/6f/73/e96f73c3-8486-78b8-9c06-015a99cac1ce/cover.jpg/600x600bb.jpg",
+        "year": "2012",
+        "aliasesArtist": [
+          "Pierce the Veil",
+          "pierce the veil",
+          "ptv"
+        ],
+        "aliasesTitle": [
+          "King for a Day",
+          "king for a day"
+        ]
+      },
+      {
+        "id": "emo-239",
+        "artist": "Pierce the Veil",
+        "title": "Caraphernelia",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/5f/aa/8d5faae8-7c46-351c-0e26-958e855c1fb3/mzaf_9896991300073610813.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b6/02/3c/b6023c10-8d56-071d-6acc-a778a8550479/886443323360.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "Pierce the Veil",
+          "pierce the veil",
+          "ptv"
+        ],
+        "aliasesTitle": [
+          "Caraphernelia",
+          "caraphernelia"
+        ]
+      },
+      {
+        "id": "emo-240",
+        "artist": "Sleeping with Sirens",
+        "title": "If I'm James Dean, You're Audrey Hepburn",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/54/78/44547882-884b-2164-3c77-7bb1390b8d30/mzaf_12091530080004463979.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/a8/70/d0a8708a-0e9e-02a3-0b2f-fa9eb1bbefbc/0854132001615.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "Sleeping with Sirens",
+          "Sleeping With Sirens",
+          "sleeping with sirens",
+          "sws"
+        ],
+        "aliasesTitle": [
+          "If I'm James Dean, You're Audrey Hepburn",
+          "if i m james dean you re audrey hepburn",
+          "james dean"
+        ]
+      },
+      {
+        "id": "emo-241",
+        "artist": "A Day to Remember",
+        "title": "The Downfall of Us All",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/85/10/dc851072-392c-b394-0f9c-0f1edbc3e029/mzaf_13661873788843416443.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/69/49/4769492c-5864-60ac-1bc7-31b8eeee05b6/19CRGIM19264.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "A Day to Remember",
+          "a day to remember",
+          "adtr"
+        ],
+        "aliasesTitle": [
+          "The Downfall of Us All",
+          "The Downfall Of Us All",
+          "the downfall of us all"
+        ]
+      },
+      {
+        "id": "emo-242",
+        "artist": "A Day to Remember",
+        "title": "All I Want",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/b6/42/7ab6421f-d92c-6629-9339-63c2e502fbe5/mzaf_13672207704554021993.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/ff/da/deffda50-12f1-01e3-c928-bd02eb91d1f5/19CRGIM19275.rgb.jpg/600x600bb.jpg",
+        "year": "2010",
+        "aliasesArtist": [
+          "A Day to Remember",
+          "a day to remember",
+          "adtr"
+        ],
+        "aliasesTitle": [
+          "All I Want",
+          "all i want"
+        ]
+      },
+      {
+        "id": "emo-243",
+        "artist": "A Day to Remember",
+        "title": "If It Means a Lot to You",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/95/9c/87959c69-2210-5e68-68dc-fc7988134e2e/mzaf_16492958728915022353.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/69/49/4769492c-5864-60ac-1bc7-31b8eeee05b6/19CRGIM19264.rgb.jpg/600x600bb.jpg",
+        "year": "2009",
+        "aliasesArtist": [
+          "A Day to Remember",
+          "a day to remember",
+          "adtr"
+        ],
+        "aliasesTitle": [
+          "If It Means a Lot to You",
+          "If It Means A Lot To You",
+          "if it means a lot to you"
+        ]
+      },
+      {
+        "id": "emo-244",
+        "artist": "Architects",
+        "title": "Doomsday",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/ec/d9/41ecd992-6811-88ca-a6a6-c6f0c1c25d94/mzaf_892117214973626694.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/61/a9/1961a93e-d334-a5ef-a561-2d3c789834b3/0045778766208.png/600x600bb.jpg",
+        "year": "2018",
+        "aliasesArtist": [
+          "Architects",
+          "architects"
+        ],
+        "aliasesTitle": [
+          "Doomsday",
+          "doomsday"
+        ]
+      },
+      {
+        "id": "emo-245",
+        "artist": "Bad Omens",
+        "title": "Just Pretend",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/d6/3b/21d63b1b-bfeb-f39c-9803-1ba666e754f3/mzaf_3699449070022114648.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/ce/0d/f0ce0d9c-934d-770d-e62f-74564fc410e1/00810016765424_Cover.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "Bad Omens",
+          "bad omens"
+        ],
+        "aliasesTitle": [
+          "Just Pretend",
+          "just pretend"
+        ]
+      },
+      {
+        "id": "emo-246",
+        "artist": "Bad Omens",
+        "title": "The Grey",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/74/ad/4574ade9-96b0-83b0-cc0f-c0a4d76a7777/mzaf_962375915646388599.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/ce/0d/f0ce0d9c-934d-770d-e62f-74564fc410e1/00810016765424_Cover.jpg/600x600bb.jpg",
+        "year": "2022",
+        "aliasesArtist": [
+          "Bad Omens",
+          "bad omens"
+        ],
+        "aliasesTitle": [
+          "The Grey",
+          "the grey"
+        ]
+      },
+      {
+        "id": "emo-247",
+        "artist": "Falling in Reverse",
+        "title": "I'm Not a Vampire",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/20/01/ad200199-647e-3eb5-3626-649a991a1be2/mzaf_8293197704002078030.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/e4/44/70e444ff-910e-274f-b441-88732f7c70b4/0045778714766.png/600x600bb.jpg",
+        "year": "2011",
+        "aliasesArtist": [
+          "Falling in Reverse",
+          "Falling In Reverse",
+          "falling in reverse",
+          "fir"
+        ],
+        "aliasesTitle": [
+          "I'm Not a Vampire",
+          "i m not a vampire"
+        ]
+      },
+      {
+        "id": "emo-248",
+        "artist": "Sleep Token",
+        "title": "The Summoning",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/8c/4c/418c4c89-6056-b5b4-caf8-d84bcda1e7e1/mzaf_398933378199833694.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/c6/0f/e2c60f68-7cec-fa08-6dd3-891aa72c247e/5401148000849_cover.jpg/600x600bb.jpg",
+        "year": "2023",
+        "aliasesArtist": [
+          "Sleep Token",
+          "sleep token"
+        ],
+        "aliasesTitle": [
+          "The Summoning",
+          "the summoning",
+          "summoning"
+        ]
+      },
+      {
+        "id": "emo-249",
+        "artist": "Beartooth",
+        "title": "In Between",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/cf/b0/19cfb028-e0ad-b90a-0e35-701b370bf44b/mzaf_5537462340695906197.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/fb/3c/99fb3c85-b594-7997-7620-6dfb83c35b5c/886444592703.jpg/600x600bb.jpg",
+        "year": "2014",
+        "aliasesArtist": [
+          "Beartooth",
+          "beartooth"
+        ],
+        "aliasesTitle": [
+          "In Between",
+          "in between"
+        ]
+      },
+      {
+        "id": "emo-250",
+        "artist": "Saosin",
+        "title": "Seven Years",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/7b/91/e67b91da-1a6e-1b68-26ba-a3c6fe82603a/mzaf_1500605476871609881.plus.aac.p.m4a",
+        "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/a3/13/3ca313fe-55ab-8ca2-21a7-fb53fae3ea3c/859706677951_cover.jpg/600x600bb.jpg",
+        "year": "2003",
+        "aliasesArtist": [
+          "Saosin",
+          "saosin"
+        ],
+        "aliasesTitle": [
+          "Seven Years",
+          "seven years"
+        ]
+      }
+    ]
   }
 };

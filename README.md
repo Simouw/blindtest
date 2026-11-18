@@ -7,7 +7,7 @@ Application de Blindtest musical multijoueur en temps réel avec synchronisation
 ## ⚡ Fonctionnalités Clés
 
 1. **Multijoueur en Temps Réel (Socket.io) :**
-   - Salons prêts à jouer (**RAP US** et **POP 2000-2010**) et création de salons personnalisés.
+   - Salons prêts à jouer (**RAP US**, **POP 2000-2010** et **EMO & ALT**) et création de salons personnalisés.
    - Synchronisation instantanée des joueurs, des scores et du leaderboard.
    - Fil d'activité en direct signalant les trouvailles sans spoiler le titre ou l'artiste aux autres joueurs.
 
@@ -89,7 +89,7 @@ bt/
 │   │   ├── gameEngine.js     # Moteur des rooms, manches, timers et scores
 │   │   ├── fuzzyMatch.js     # Algorithme Levenshtein et normalisation
 │   │   └── data/
-│   │       └── playlists.js  # Playlists RAP US & POP 2000 avec extraits audio réels
+│   │       └── playlists.js  # Playlists RAP US, POP 2000 & EMO ALT avec extraits audio réels
 │   └── test/                 # Tests unitaires et d'intégration
 └── client/                   # Frontend React (Vite + Tailwind CSS)
     ├── package.json

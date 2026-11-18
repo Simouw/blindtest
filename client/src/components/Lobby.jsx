@@ -7,7 +7,8 @@ import { SoundToggle } from './ui/sound';
 
 const playlists = [
   { id: 'rap-us-room', title: 'Rap US', subtitle: 'Classics & current', description: 'From Tupac to Kendrick. Know your verses?', theme: 'rap', cover: <>RAP<br />US<span>CLASSICS / CURRENT</span></> },
-  { id: 'pop-2000-room', title: '2000s Pop', subtitle: 'The songs you grew up on', description: 'Rihanna, Britney, Gaga. You know the chorus.', theme: 'pop', cover: <>POP<br /><i>00s</i><span>THE THROWBACK COLLECTION</span></> }
+  { id: 'pop-2000-room', title: '2000s Pop', subtitle: 'The songs you grew up on', description: 'Rihanna, Britney, Gaga. You know the chorus.', theme: 'pop', cover: <>POP<br /><i>00s</i><span>THE THROWBACK COLLECTION</span></> },
+  { id: 'emo-alt-room', title: 'Emo & Alt', subtitle: 'From goth to new gen', description: 'Linkin Park, Deftones, MCR, The Cure, Panchiko. Loud guitars, low moods.', theme: 'emo', cover: <>EMO<br />ALT<span>OLD / NEW / LOUD</span></> }
 ];
 
 export default function Lobby({ nickname, setNickname, avatar, setAvatar }) {
@@ -145,7 +146,7 @@ export default function Lobby({ nickname, setNickname, avatar, setAvatar }) {
         <div className="section-heading"><div><span className="eyebrow">NEW ROOM</span><h2>Make it a music night.</h2></div><button type="button" className="icon-button" data-slot="dialog-close" aria-label="Close create room" onClick={() => dialog.current.close()}><X size={20} /></button></div>
         <p>Invite friends with one link, then start when everyone is in.</p>
         <label htmlFor="room-name">Room name</label><input ref={roomInput} id="room-name" value={roomName} onChange={event => setRoomName(event.target.value)} maxLength={40} required />
-        <label htmlFor="room-playlist">Playlist</label><select id="room-playlist" value={playlistId} onChange={event => setPlaylistId(event.target.value)}><option value="rap_us">Rap US</option><option value="pop_2000">2000s Pop</option></select>
+        <label htmlFor="room-playlist">Playlist</label><select id="room-playlist" value={playlistId} onChange={event => setPlaylistId(event.target.value)}><option value="rap_us">Rap US</option><option value="pop_2000">2000s Pop</option><option value="emo_alt">Emo &amp; Alt</option></select>
         {!nickname.trim() && <p className="field-error">Close this window and add your player name first.</p>}
         <button className="button primary full-width" data-slot="button" disabled={!canPlay || !roomName.trim()}>Create and enter <ArrowRight size={16} /></button>
       </form>

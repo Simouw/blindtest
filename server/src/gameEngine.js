@@ -59,6 +59,14 @@ export class GameManager {
       playlistId: 'pop_2000',
       isDefault: true
     });
+
+    // Pre-configured room 3: EMO & ALT
+    this.createRoom({
+      id: 'emo-alt-room',
+      name: 'EMO & ALT Old to New',
+      playlistId: 'emo_alt',
+      isDefault: true
+    });
   }
 
   /**

@@ -17,6 +17,12 @@ yarn-error.log*
 .env
 .env.local
 .env.*.local
+*.env
+
+# Local agent & design notes
+.opencode/
+UI_SKILLS/
+extraction/
 
 # Editor directories and files
 .vscode/

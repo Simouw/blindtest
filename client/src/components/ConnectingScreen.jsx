@@ -74,7 +74,8 @@ export default function ConnectingScreen({ isPreview = false }) {
               <div className="hero-rules" aria-label="Catalog summary" style={{ justifyContent: 'center', marginTop: '28px' }}>
                 <span><strong>250</strong> Rap US</span>
                 <span><strong>250</strong> 2000s Pop</span>
-                <span><strong>500</strong> total tracks</span>
+                <span><strong>250</strong> Emo &amp; Alt</span>
+                <span><strong>750</strong> total tracks</span>
               </div>
 
               <div className="start-actions">

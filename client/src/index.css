@@ -31,6 +31,8 @@
   --cover-rap-ink: #342914;
   --cover-pop: #d7ad9a;
   --cover-pop-ink: #432b28;
+  --cover-emo: #b1a9c7;
+  --cover-emo-ink: #2a2636;
   --ease-settle: cubic-bezier(.22, 1, .36, 1);
 }
 
@@ -70,7 +72,7 @@ button svg { flex-shrink: 0; }
 .lobby-hero { min-height: 660px; display: flex; flex-direction: column; justify-content: space-between; padding: 6px 0; }
 .intro-copy h1 { max-width: 700px; margin: 13px 0 21px; font-size: clamp(70px, 5.7vw, 94px); line-height: .88; letter-spacing: -.07em; }
 .intro-copy > p:last-of-type { max-width: 530px; color: var(--text-dim); font-size: 14px; line-height: 1.6; }
-.hero-rules { display: flex; align-items: center; gap: 24px; margin-top: 26px; color: var(--text-faint); font-size: 12px; }
+.hero-rules { display: flex; flex-wrap: wrap; align-items: center; gap: 24px; margin-top: 26px; color: var(--text-faint); font-size: 12px; }
 .hero-rules span { display: inline-flex; align-items: baseline; gap: 5px; }
 .hero-rules strong { color: var(--text); font-size: 14px; font-weight: 600; }
 .scoring-preview { margin: 28px 0; padding: 16px 0; border-top: 1px solid var(--border-soft); border-bottom: 1px solid var(--border-soft); }
@@ -119,6 +121,8 @@ button svg { flex-shrink: 0; }
 .cover-disc { position: absolute; right: -50px; bottom: -76px; width: 145px; height: 145px; border: 20px solid var(--cover-rap-ink); border-radius: 50%; box-shadow: 0 0 0 6px var(--cover-rap), 0 0 0 7px var(--cover-rap-ink), 0 0 0 13px var(--cover-rap), 0 0 0 14px var(--cover-rap-ink); }
 .pop .playlist-art { background: var(--cover-pop); color: var(--cover-pop-ink); }
 .pop .cover-disc { border-color: var(--cover-pop-ink); box-shadow: 0 0 0 6px var(--cover-pop), 0 0 0 7px var(--cover-pop-ink), 0 0 0 13px var(--cover-pop), 0 0 0 14px var(--cover-pop-ink); }
+.emo .playlist-art { background: var(--cover-emo); color: var(--cover-emo-ink); }
+.emo .cover-disc { border-color: var(--cover-emo-ink); box-shadow: 0 0 0 6px var(--cover-emo), 0 0 0 7px var(--cover-emo-ink), 0 0 0 13px var(--cover-emo), 0 0 0 14px var(--cover-emo-ink); }
 .playlist-details { min-width: 0; flex: 1; display: flex; flex-direction: column; padding: 12px 5px 4px; }
 .playlist-details h3 { margin: 7px 0 10px; font-size: 32px; }
 .playlist-description { color: var(--text-dim); font-size: 13px; line-height: 1.55; }

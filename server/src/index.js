@@ -145,5 +145,5 @@ io.on('connection', (socket) => {
 
 httpServer.listen(port, () => {
   console.log(`[Serveur] Blindtest démarré sur http://localhost:${port}`);
-  console.log(`[Playlists] Chargées : RAP US (${PLAYLISTS.rap_us?.tracks?.length || 0} titres) & POP 2000 (${PLAYLISTS.pop_2000?.tracks?.length || 0} titres)`);
+  console.log(`[Playlists] Chargées : RAP US (${PLAYLISTS.rap_us?.tracks?.length || 0} titres), POP 2000 (${PLAYLISTS.pop_2000?.tracks?.length || 0} titres) & EMO ALT (${PLAYLISTS.emo_alt?.tracks?.length || 0} titres)`);
 });
