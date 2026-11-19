@@ -4,6 +4,19 @@ A modern real-time multiplayer music blindtest web application powered by WebSoc
 
 ---
 
+## 📸 Screenshots
+
+| Lobby & Room Selection | Active Gameplay & Live Guesses |
+| :---: | :---: |
+| ![Lobby](docs/screenshots/lobby.png) | ![Gameplay](docs/screenshots/gameplay.png) |
+
+<p align="center">
+  <b>Track Reveal & Leaderboard</b><br/>
+  <img src="docs/screenshots/reveal.png" alt="Reveal Card" width="700"/>
+</p>
+
+---
+
 ## ⚡ Key Features
 
 1. **Real-Time Multiplayer (Socket.io):**
